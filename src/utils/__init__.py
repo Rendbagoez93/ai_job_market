@@ -3,6 +3,7 @@ from .logger import get_logger, Logger
 from .file_handler import FileHandler
 from .data_validator import DataValidator
 from .data_cleaner import DataCleaner
+from .data_merger import DataMerger, create_master_dataset
 from .enrichers import (
     SalaryEnricher,
     SkillsEnricher,
@@ -14,6 +15,7 @@ from .enrichers import (
 )
 from . import constant
 from . import helpers
+from . import enums
 
 
 __all__ = [
@@ -24,6 +26,8 @@ __all__ = [
     'FileHandler',
     'DataValidator',
     'DataCleaner',
+    'DataMerger',
+    'create_master_dataset',
     'SalaryEnricher',
     'SkillsEnricher',
     'ToolsEnricher',
@@ -32,5 +36,6 @@ __all__ = [
     'DateEnricher',
     'AdditionalFeaturesEnricher',
     'constant',
-    'helpers'
+    'helpers',
+    'enums'
 ]
