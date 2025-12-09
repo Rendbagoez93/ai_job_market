@@ -1,0 +1,57 @@
+# AI Job Market Analysis - Paths Configuration
+# Project: ai-job-market analysis
+# Version: 0.1.0
+
+# Directory Paths
+paths:
+  # Root directories
+  root: "."
+  config: "config"
+  data: "data"
+  src: "src"
+  notebooks: "notebooks"
+  output: "output"
+  dashboards: "dashboards"
+  v1: "v1"
+  
+  # Data subdirectories
+  data_raw: "data/raw"
+  data_cleaned: "data/cleaned"
+  data_enriched: "data/enriched"
+  
+  # Source subdirectories
+  src_data: "src/data"
+  src_predictions: "src/predictions"
+  src_utils: "src/utils"
+  src_visuals: "src/visuals"
+  
+  # File paths
+  raw_data_file: "data/raw/ai_job_market.csv"
+  cleaned_data_file: "data/cleaned/ai_job_market_cleaned.csv"
+  enriched_data_file: "data/enriched/ai_job_market_enriched.csv"
+
+# Data Processing Configuration
+data_processing:
+  # Data Loading
+  loading:
+    encoding: "utf-8"
+    delimiter: ","
+    skip_rows: 0
+    
+  # Data Cleaning
+  cleaning:
+    remove_duplicates: true
+    handle_missing_values: true
+    missing_strategy: "drop"  # Options: drop, fill, interpolate
+    fill_value: null
+    
+  # Data Validation
+  validation:
+    check_types: true
+    check_ranges: true
+    check_nulls: true
+    
+  # Data Enrichment
+  enrichment:
+    enable: true
+    methods: []

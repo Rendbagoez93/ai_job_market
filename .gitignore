@@ -1,0 +1,140 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.virtualenv
+
+# Package management
+uv.lock
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+Untitled*.ipynb
+
+# Data files (processed/generated)
+data/cleaned/*.csv
+data/enriched/*.csv
+data/dictionary/*.csv
+data/dictionary/*.json
+
+# Keep raw data structure but ignore large files
+# data/raw/*.csv
+# Uncomment above if you don't want to track raw data
+
+# Output and logs
+output/*.log
+output/*.txt
+output/*.png
+output/*.jpg
+output/*.pdf
+*.log
+
+# Dashboards (generated files)
+dashboards/*.html
+dashboards/*.json
+dashboards/assets/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+nosetests.xml
+test-results/
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Type checking
+.pytype/
+
+# Profiling
+*.prof
+
+# Documentation builds
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep
+!data/enriched/.gitkeep
+!data/dictionary/.gitkeep
+!notebooks/.gitkeep
+!output/.gitkeep
+!dashboards/.gitkeep
+!src/predictions/.gitkeep
+

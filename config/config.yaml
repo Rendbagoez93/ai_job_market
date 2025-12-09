@@ -1,0 +1,129 @@
+# AI Job Market Analysis - Main Configuration File
+# Project: ai-job-market analysis
+# Version: 0.1.0
+
+# Project Information
+project:
+  name: "ai-job-market"
+  version: "0.1.0"
+  description: "AI Job Market Analysis Project"
+  author: ""
+  created_date: "2025-12-09"
+
+# Column Configuration
+columns:
+  # Expected columns in raw data
+  raw_columns:
+    - "job_id"
+    - "company_name"
+    - "industry"
+    - "job_title"
+    - "skills_required"
+    - "experience_level"
+    - "employment_type"
+    - "location"
+    - "salary_range_usd"
+    - "posted_date"
+    - "company_size"
+    - "tools_preferred"
+  
+  # Categorical columns
+  categorical:
+    - "industry"
+    - "job_title"
+    - "experience_level"
+    - "employment_type"
+    - "company_size"
+  
+  # Numerical columns
+  numerical:
+    - "salary_range_usd"
+  
+  # Date columns
+  date:
+    - "posted_date"
+  
+  # Text/List columns
+  text:
+    - "skills_required"
+    - "tools_preferred"
+    - "location"
+
+# Analysis Configuration
+analysis:
+  # Statistical Analysis
+  statistics:
+    enable: true
+    metrics:
+      - "mean"
+      - "median"
+      - "std"
+      - "min"
+      - "max"
+      - "count"
+  
+  # Exploratory Data Analysis
+  eda:
+    enable: true
+    correlation_threshold: 0.5
+    outlier_detection: true
+    outlier_method: "iqr"  # Options: iqr, zscore
+  
+  # Feature Engineering
+  feature_engineering:
+    enable: false
+    create_features: []
+
+# Visualization Configuration
+visualization:
+  # General settings
+  style: "seaborn"  # Options: seaborn, ggplot, default
+  context: "notebook"  # Options: paper, notebook, talk, poster
+  palette: "Set2"
+  figure_size: [12, 8]
+  dpi: 300
+  save_format: "png"  # Options: png, jpg, svg, pdf
+  
+  # Chart types to generate
+  charts:
+    - "distribution"
+    - "correlation"
+    - "bar"
+    - "line"
+    - "scatter"
+    - "box"
+    - "heatmap"
+  
+  # Output settings
+  output_dir: "output"
+  save_figures: true
+
+# Model/Prediction Configuration
+predictions:
+  enable: false
+  models: []
+  train_test_split: 0.8
+  random_state: 42
+  cv_folds: 5
+
+# Export Configuration
+export:
+  formats:
+    - "csv"
+    - "json"
+    - "excel"
+  compression: false
+  timestamp_suffix: true
+
+# Performance Settings
+performance:
+  chunk_size: 10000
+  n_jobs: -1  # Use all available cores
+  memory_efficient: true
+  cache_enabled: false
+
+# Environment Settings
+environment:
+  python_version: "3.13"
+  random_seed: 42
+  timezone: "UTC"
