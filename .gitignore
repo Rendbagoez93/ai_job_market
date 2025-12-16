@@ -1,5 +1,6 @@
 # Python-generated files
 __pycache__/
+**/__pycache__/
 *.py[oc]
 *.pyc
 *.pyo
@@ -21,6 +22,11 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Compiled Python files
+*.so
+*.dylib
+*.dll
 
 # Virtual environments
 .venv/
@@ -49,26 +55,36 @@ pip-delete-this-directory.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/
 *.ipynb_checkpoints
 .jupyter/
 Untitled*.ipynb
+*-checkpoint.ipynb
+
+# Notebook outputs (optional - uncomment to ignore all notebook outputs)
+# *.ipynb
 
 # Data files (processed/generated)
 data/cleaned/*.csv
 data/enriched/*.csv
 data/dictionary/*.csv
 data/dictionary/*.json
+data/master_dataset.csv
 
 # Keep raw data structure but ignore large files
 # data/raw/*.csv
 # Uncomment above if you don't want to track raw data
 
 # Output and logs
-output/*.log
-output/*.txt
-output/*.png
-output/*.jpg
-output/*.pdf
+output/**/*.log
+output/**/*.txt
+output/**/*.csv
+output/**/*.png
+output/**/*.jpg
+output/**/*.pdf
+output/analysis/
+output/visualizations/
+output/reports/
 *.log
 
 # Dashboards (generated files)
@@ -128,6 +144,30 @@ docs/_build/
 docs/_static/
 docs/_templates/
 
+# Analysis results and models
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.pt
+*.pth
+models/
+experiments/
+checkpoints/
+
+# Temporary analysis files
+*_temp.py
+*_test.py
+*_backup.py
+scratch/
+temp/
+
+# V1 folder outputs (legacy analysis)
+v1/output/
+v1/*.png
+v1/*.jpg
+v1/*.pdf
+
 # Keep directory structure
 !data/raw/.gitkeep
 !data/cleaned/.gitkeep
@@ -135,6 +175,10 @@ docs/_templates/
 !data/dictionary/.gitkeep
 !notebooks/.gitkeep
 !output/.gitkeep
+!output/analysis/.gitkeep
+!output/visualizations/.gitkeep
+!output/reports/.gitkeep
 !dashboards/.gitkeep
-!src/predictions/.gitkeep
+!src/analysis/.gitkeep
+!src/visuals/.gitkeep
 
