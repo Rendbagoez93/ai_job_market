@@ -1,0 +1,2001 @@
+job_id,job_title,company_name,location,tools_preferred,tools_count,tool_mlflow,tool_langchain,tool_fastapi,tool_kdbplus,tool_bigquery,tool_tensorflow,tool_pytorch,tool_scikit-learn
+1,Data Analyst,Foster and Sons,"Tracybury, AR","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+2,Computer Vision Engineer,"Boyd, Myers and Ramirez","Lake Scott, CU","FastAPI, KDB+, TensorFlow",3,0,0,1,1,0,1,0,0
+3,Quant Researcher,King Inc,"East Paige, CM","BigQuery, PyTorch, Scikit-learn",3,0,0,0,0,1,0,1,1
+4,AI Product Manager,"Cooper, Archer and Lynch","Perezview, FI","TensorFlow, BigQuery, MLflow",3,1,0,0,0,1,1,0,0
+5,Data Scientist,Hall LLC,"North Desireeland, NE","PyTorch, LangChain",2,0,1,0,0,0,0,1,0
+6,AI Product Manager,Ellis PLC,"South Kevin, TZ","PyTorch, TensorFlow, FastAPI",3,0,0,1,0,0,1,1,0
+7,Data Analyst,Matthews-Moses,"West Shawn, LR","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+8,Data Scientist,Mullins Ltd,"Port Hailey, RU",BigQuery,1,0,0,0,0,1,0,0,0
+9,ML Engineer,Aguilar PLC,"Butlermouth, GB","Scikit-learn, LangChain, BigQuery",3,0,1,0,0,1,0,0,1
+10,Computer Vision Engineer,Parks LLC,"Nicoleshire, BA","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+11,Data Scientist,Vaughan-Ortiz,"New Angelatown, LU","LangChain, BigQuery, Scikit-learn",3,0,1,0,0,1,0,0,1
+12,ML Engineer,"Johnson, Guzman and Hernandez","Joychester, LT","TensorFlow, PyTorch, BigQuery",3,0,0,0,0,1,1,1,0
+13,NLP Engineer,Martin and Sons,"South Michael, FM",LangChain,1,0,1,0,0,0,0,0,0
+14,Quant Researcher,Frank-Duarte,"Christianberg, GQ","LangChain, TensorFlow, Scikit-learn",3,0,1,0,0,0,1,0,1
+15,NLP Engineer,Rogers Ltd,"New Katieborough, FJ",FastAPI,1,0,0,1,0,0,0,0,0
+16,NLP Engineer,Wright-Evans,"Stephaniechester, LU",TensorFlow,1,0,0,0,0,0,1,0,0
+17,ML Engineer,Preston Ltd,"South Tim, CZ",LangChain,1,0,1,0,0,0,0,0,0
+18,AI Product Manager,Smith-Moore,"Blevinsburgh, VU",BigQuery,1,0,0,0,0,1,0,0,0
+19,Data Scientist,Webb and Sons,"Parkmouth, CA","BigQuery, FastAPI, KDB+",3,0,0,1,1,1,0,0,0
+20,ML Engineer,Gates LLC,"Stevenhaven, BW",MLflow,1,1,0,0,0,0,0,0,0
+21,Quant Researcher,"Whitaker, Walker and Sandoval","Gregorymouth, LV","Scikit-learn, BigQuery, PyTorch",3,0,0,0,0,1,0,1,1
+22,Quant Researcher,Humphrey LLC,"Lake Alexander, RU","PyTorch, LangChain",2,0,1,0,0,0,0,1,0
+23,NLP Engineer,"Adams, Stevenson and Wagner","North Nicholas, SN","PyTorch, Scikit-learn, KDB+",3,0,0,0,1,0,0,1,1
+24,NLP Engineer,"Thomas, Hurst and Becker","Leeton, MW",Scikit-learn,1,0,0,0,0,0,0,0,1
+25,NLP Engineer,Sherman-Nguyen,"Suzanneview, TW",FastAPI,1,0,0,1,0,0,0,0,0
+26,NLP Engineer,Johnson-Keller,"Whitestad, BB","FastAPI, PyTorch, KDB+",3,0,0,1,1,0,0,1,0
+27,Quant Researcher,Le PLC,"Taraburgh, DZ","TensorFlow, Scikit-learn, FastAPI",3,0,0,1,0,0,1,0,1
+28,Data Analyst,"Abbott, Nielsen and Young","New Richard, TD","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+29,Data Analyst,Thomas-Ruiz,"South Donaldton, GE","Scikit-learn, FastAPI, LangChain",3,0,1,1,0,0,0,0,1
+30,Data Analyst,"Good, Ware and Cruz","North Michael, TT",TensorFlow,1,0,0,0,0,0,1,0,0
+31,Quant Researcher,Gay PLC,"Port Patriciaport, TG","KDB+, PyTorch",2,0,0,0,1,0,0,1,0
+32,Data Scientist,Kirby-Zuniga,"Danielchester, ID","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+33,AI Product Manager,"Castillo, Campbell and Robinson","Alexandriaburgh, KN","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+34,NLP Engineer,Carter LLC,"West Charles, TT",PyTorch,1,0,0,0,0,0,0,1,0
+35,Computer Vision Engineer,Hall Group,"North Denise, MC","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+36,Computer Vision Engineer,Huynh PLC,"Kirbyside, LT","Scikit-learn, FastAPI, MLflow",3,1,0,1,0,0,0,0,1
+37,AI Researcher,"Smith, Haas and Mendez","Lake John, AU","Scikit-learn, LangChain, KDB+",3,0,1,0,1,0,0,0,1
+38,ML Engineer,"Briggs, Shaw and Berry","East Ashleyland, PL",MLflow,1,1,0,0,0,0,0,0,0
+39,Data Scientist,Boyd PLC,"Port Misty, NL",LangChain,1,0,1,0,0,0,0,0,0
+40,Data Analyst,"Sanders, Mejia and Townsend","Deleonchester, HN","FastAPI, Scikit-learn, LangChain",3,0,1,1,0,0,0,0,1
+41,Quant Researcher,Hernandez Inc,"Nicoleport, BF","Scikit-learn, TensorFlow, BigQuery",3,0,0,0,0,1,1,0,1
+42,NLP Engineer,"Parrish, White and Grant","Kimside, BW",TensorFlow,1,0,0,0,0,0,1,0,0
+43,AI Product Manager,"Carroll, Lucero and Lambert","Simsside, TD","PyTorch, TensorFlow, FastAPI",3,0,0,1,0,0,1,1,0
+44,Quant Researcher,"Thomas, Waller and Kelly","South Jeremiah, MX","TensorFlow, LangChain, PyTorch",3,0,1,0,0,0,1,1,0
+45,Quant Researcher,"Franklin, Wright and Berg","Ramirezmouth, PK",KDB+,1,0,0,0,1,0,0,0,0
+46,ML Engineer,"Coleman, Gray and Roach","New Rachelmouth, IT","FastAPI, MLflow, TensorFlow",3,1,0,1,0,0,1,0,0
+47,Data Scientist,Mooney-Decker,"Jennyland, TR","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+48,Computer Vision Engineer,Wood LLC,"Port Johnville, MA","MLflow, BigQuery, LangChain",3,1,1,0,0,1,0,0,0
+49,NLP Engineer,Copeland Group,"North Josephshire, YE","KDB+, PyTorch, MLflow",3,1,0,0,1,0,0,1,0
+50,NLP Engineer,Richards PLC,"Lewismouth, TD","FastAPI, KDB+, Scikit-learn",3,0,0,1,1,0,0,0,1
+51,AI Product Manager,"Melendez, Williams and Williamson","Steinside, IT",BigQuery,1,0,0,0,0,1,0,0,0
+52,Computer Vision Engineer,"Ellis, Crane and Boyle","North Jason, MR","LangChain, KDB+, FastAPI",3,0,1,1,1,0,0,0,0
+53,Data Scientist,Foley-Moore,"Thomasfort, KG",MLflow,1,1,0,0,0,0,0,0,0
+54,Quant Researcher,Wright and Sons,"Chavezstad, TG","LangChain, BigQuery, MLflow",3,1,1,0,0,1,0,0,0
+55,Quant Researcher,Williams-Vargas,"Carlland, ME","FastAPI, TensorFlow, BigQuery",3,0,0,1,0,1,1,0,0
+56,ML Engineer,Hill-Huff,"Jessicamouth, PT","BigQuery, PyTorch, TensorFlow",3,0,0,0,0,1,1,1,0
+57,Data Analyst,Meyer PLC,"Caitlynmouth, MR","LangChain, Scikit-learn, PyTorch",3,0,1,0,0,0,0,1,1
+58,ML Engineer,Boyd-Carlson,"Villarrealhaven, KI","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+59,AI Researcher,Scott-Gardner,"North Laurie, BI","FastAPI, PyTorch, LangChain",3,0,1,1,0,0,0,1,0
+60,AI Product Manager,Jackson Group,"East Juliashire, TR",BigQuery,1,0,0,0,0,1,0,0,0
+61,Data Analyst,"Sullivan, Silva and Sawyer","North Jonathan, NL",MLflow,1,1,0,0,0,0,0,0,0
+62,AI Product Manager,"Page, Bonilla and Cohen","Port Jacobchester, SB",LangChain,1,0,1,0,0,0,0,0,0
+63,Computer Vision Engineer,Young-Wright,"Kaylaburgh, NO","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+64,AI Product Manager,Patel PLC,"South Jamie, KM",FastAPI,1,0,0,1,0,0,0,0,0
+65,AI Researcher,"Lopez, Nelson and Meyer","Lake Michelleport, RS","PyTorch, TensorFlow, FastAPI",3,0,0,1,0,0,1,1,0
+66,AI Researcher,"Harris, Porter and Walter","Port Kristenmouth, SA","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+67,AI Product Manager,Dominguez and Sons,"Rodriguezstad, ET","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+68,Data Analyst,Griffith-Garner,"Meredithview, LS",PyTorch,1,0,0,0,0,0,0,1,0
+69,Data Analyst,Smith LLC,"South Tylerhaven, LC","LangChain, PyTorch, MLflow",3,1,1,0,0,0,0,1,0
+70,Data Analyst,Smith-Jones,"South Karenville, BB",BigQuery,1,0,0,0,0,1,0,0,0
+71,ML Engineer,"Maddox, Steele and Jones","Billyfort, YE","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+72,Quant Researcher,Williams PLC,"New Jefferyfort, TG","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+73,Data Analyst,"Hurst, Manning and Wood","Petersenborough, VN","PyTorch, BigQuery, Scikit-learn",3,0,0,0,0,1,0,1,1
+74,NLP Engineer,"Howard, Carr and Joseph","Leeberg, ME","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+75,ML Engineer,Lewis-Smith,"North Christopherfurt, LR",KDB+,1,0,0,0,1,0,0,0,0
+76,AI Researcher,Luna and Sons,"Weberland, TL","FastAPI, TensorFlow, PyTorch",3,0,0,1,0,0,1,1,0
+77,AI Researcher,King-Sheppard,"Zamorafurt, UA",PyTorch,1,0,0,0,0,0,0,1,0
+78,NLP Engineer,Meyer-Shaffer,"Sharpborough, DM","LangChain, PyTorch, Scikit-learn",3,0,1,0,0,0,0,1,1
+79,Quant Researcher,"Ellis, Page and Smith","North Carriestad, IR",LangChain,1,0,1,0,0,0,0,0,0
+80,ML Engineer,Martinez-Fitzgerald,"South Charles, CI",KDB+,1,0,0,0,1,0,0,0,0
+81,AI Researcher,Johnson Inc,"Lake Kristen, AZ","Scikit-learn, MLflow, PyTorch",3,1,0,0,0,0,0,1,1
+82,Data Analyst,Camacho PLC,"Anthonyland, GQ","PyTorch, Scikit-learn, BigQuery",3,0,0,0,0,1,0,1,1
+83,AI Product Manager,Sweeney-Griffith,"Michaelchester, MK",MLflow,1,1,0,0,0,0,0,0,0
+84,Data Analyst,"Stafford, Owens and Thompson","Lake Debra, AM","MLflow, LangChain, KDB+",3,1,1,0,1,0,0,0,0
+85,Computer Vision Engineer,"Gonzalez, Watts and Thompson","New Danielburgh, RU","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+86,Data Analyst,Graham Group,"Lake Melissaville, PL","BigQuery, Scikit-learn, MLflow",3,1,0,0,0,1,0,0,1
+87,Quant Researcher,Ward-Allen,"Jeffreyburgh, SC","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+88,Quant Researcher,"Garrett, Hernandez and Anderson","Whiteville, SE","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+89,AI Researcher,Long Inc,"Jacksonmouth, UZ","FastAPI, LangChain, BigQuery",3,0,1,1,0,1,0,0,0
+90,AI Researcher,Cummings-Nash,"Adamton, HR","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+91,NLP Engineer,"Sawyer, Donovan and Vargas","Lake Erica, NL","BigQuery, KDB+, LangChain",3,0,1,0,1,1,0,0,0
+92,Data Scientist,"Stewart, Gutierrez and Simpson","South Paige, VC","LangChain, FastAPI, Scikit-learn",3,0,1,1,0,0,0,0,1
+93,NLP Engineer,Jones-Marshall,"Scottberg, MG","MLflow, FastAPI, TensorFlow",3,1,0,1,0,0,1,0,0
+94,NLP Engineer,Murphy-Rosales,"West Jesse, NG","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+95,ML Engineer,Solis-Thornton,"East Autumn, AM","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+96,Computer Vision Engineer,Michael Ltd,"Maldonadoville, PL",LangChain,1,0,1,0,0,0,0,0,0
+97,AI Researcher,Alexander and Sons,"Richardside, PY","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+98,Computer Vision Engineer,"Travis, Fletcher and Rodriguez","Port Julieburgh, KW","FastAPI, KDB+, LangChain",3,0,1,1,1,0,0,0,0
+99,Data Analyst,Lozano-Hill,"South Stephanieville, BS","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+100,Computer Vision Engineer,"Farmer, Leach and Norris","Williamsbury, DO",TensorFlow,1,0,0,0,0,0,1,0,0
+101,ML Engineer,Price-Nichols,"South Fredview, PL",TensorFlow,1,0,0,0,0,0,1,0,0
+102,Data Scientist,"Gonzalez, Jackson and Williams","Heatherport, DO","KDB+, BigQuery, MLflow",3,1,0,0,1,1,0,0,0
+103,Quant Researcher,"Dodson, Palmer and Huber","Alejandromouth, CU",KDB+,1,0,0,0,1,0,0,0,0
+104,Data Scientist,Morris-Sanchez,"New James, CR",TensorFlow,1,0,0,0,0,0,1,0,0
+105,NLP Engineer,Cobb-Lindsey,"West Madison, QA","LangChain, Scikit-learn",2,0,1,0,0,0,0,0,1
+106,Computer Vision Engineer,Ramirez-Goodwin,"Tanyachester, TW","KDB+, MLflow",2,1,0,0,1,0,0,0,0
+107,Computer Vision Engineer,Duran PLC,"New David, EG","BigQuery, FastAPI",2,0,0,1,0,1,0,0,0
+108,AI Product Manager,Kaiser Group,"South Patricktown, NO","TensorFlow, Scikit-learn, MLflow",3,1,0,0,0,0,1,0,1
+109,ML Engineer,Garcia PLC,"Sanfordmouth, GW",BigQuery,1,0,0,0,0,1,0,0,0
+110,Quant Researcher,Steele-Norman,"Elainefurt, BS",Scikit-learn,1,0,0,0,0,0,0,0,1
+111,AI Researcher,Garcia Ltd,"Brownstad, LU",KDB+,1,0,0,0,1,0,0,0,0
+112,AI Researcher,Hill LLC,"Lake Christopher, QA",Scikit-learn,1,0,0,0,0,0,0,0,1
+113,NLP Engineer,"Morales, Thomas and Miller","Millermouth, GY","MLflow, Scikit-learn, FastAPI",3,1,0,1,0,0,0,0,1
+114,Data Scientist,Kelly-Novak,"Nicoleside, AD",KDB+,1,0,0,0,1,0,0,0,0
+115,Quant Researcher,Martin-Hernandez,"North Patrick, KE","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+116,NLP Engineer,Price-Dean,"Dennistown, IQ",MLflow,1,1,0,0,0,0,0,0,0
+117,Data Analyst,Ruiz Inc,"Rodriguezfurt, LI","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+118,Data Analyst,"Hudson, Burton and Campbell","Sullivanburgh, BJ",Scikit-learn,1,0,0,0,0,0,0,0,1
+119,NLP Engineer,Roberson Inc,"New Justin, ZW","MLflow, PyTorch, FastAPI",3,1,0,1,0,0,0,1,0
+120,NLP Engineer,Gutierrez PLC,"West Fredside, PW","TensorFlow, KDB+, BigQuery",3,0,0,0,1,1,1,0,0
+121,AI Researcher,"King, Chambers and Brown","Eriktown, GT","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+122,AI Researcher,Shannon LLC,"Port Robert, TR",BigQuery,1,0,0,0,0,1,0,0,0
+123,Computer Vision Engineer,Thompson-Norris,"Davidfort, CU","KDB+, MLflow",2,1,0,0,1,0,0,0,0
+124,Quant Researcher,Davis and Sons,"Carrollland, SE",KDB+,1,0,0,0,1,0,0,0,0
+125,NLP Engineer,"Reed, Garcia and French","West Richardborough, BE","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+126,Computer Vision Engineer,Anderson-Cruz,"Jasonshire, TH",PyTorch,1,0,0,0,0,0,0,1,0
+127,Quant Researcher,King PLC,"East Sheriton, SV",Scikit-learn,1,0,0,0,0,0,0,0,1
+128,AI Product Manager,Baker-Gomez,"Sarahview, SE","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+129,NLP Engineer,"Patterson, Bruce and Herring","Davechester, LR","PyTorch, KDB+, LangChain",3,0,1,0,1,0,0,1,0
+130,Data Analyst,Jackson Inc,"Allenton, UG",Scikit-learn,1,0,0,0,0,0,0,0,1
+131,NLP Engineer,"Thompson, Lewis and Gonzalez","Westland, KM",BigQuery,1,0,0,0,0,1,0,0,0
+132,NLP Engineer,Mclean Inc,"Shermanshire, MM","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+133,AI Researcher,Moore Inc,"Jamesborough, GB","BigQuery, LangChain, FastAPI",3,0,1,1,0,1,0,0,0
+134,AI Researcher,Flores-Dalton,"East Edward, MV",TensorFlow,1,0,0,0,0,0,1,0,0
+135,Data Analyst,Nguyen and Sons,"Youngborough, CF","PyTorch, FastAPI",2,0,0,1,0,0,0,1,0
+136,NLP Engineer,Russell Inc,"Morrowview, RS",PyTorch,1,0,0,0,0,0,0,1,0
+137,Computer Vision Engineer,Castillo and Sons,"North Sheilamouth, JP","FastAPI, PyTorch, TensorFlow",3,0,0,1,0,0,1,1,0
+138,AI Product Manager,Price PLC,"Randallside, CZ","BigQuery, Scikit-learn",2,0,0,0,0,1,0,0,1
+139,AI Product Manager,"Payne, Vasquez and Arnold","Danielfurt, GW","LangChain, PyTorch, MLflow",3,1,1,0,0,0,0,1,0
+140,Data Analyst,Roth LLC,"Royville, BG",BigQuery,1,0,0,0,0,1,0,0,0
+141,Quant Researcher,Bryant and Sons,"Port Allisonfurt, SN","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+142,ML Engineer,"Morris, Williams and Campbell","South Heatherside, KZ",TensorFlow,1,0,0,0,0,0,1,0,0
+143,AI Product Manager,Perez Ltd,"West Susan, NG","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+144,Data Scientist,Smith-Hernandez,"Shelbyberg, AO","Scikit-learn, KDB+",2,0,0,0,1,0,0,0,1
+145,Data Analyst,"Barber, Green and Fernandez","Ryanberg, MD","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+146,ML Engineer,"Baker, Nichols and Chen","West Carloston, CO","BigQuery, MLflow, Scikit-learn",3,1,0,0,0,1,0,0,1
+147,AI Researcher,Crawford-Cooper,"Calderonfurt, KN",BigQuery,1,0,0,0,0,1,0,0,0
+148,NLP Engineer,"Manning, Hernandez and Serrano","New Crystalport, BF",FastAPI,1,0,0,1,0,0,0,0,0
+149,Data Analyst,Sanchez and Sons,"North Melissa, NL","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+150,Computer Vision Engineer,Gomez-Mosley,"East James, CR",KDB+,1,0,0,0,1,0,0,0,0
+151,AI Researcher,"Knox, Kirby and Rogers","Cynthiamouth, SC","FastAPI, TensorFlow, LangChain",3,0,1,1,0,0,1,0,0
+152,ML Engineer,Johnson-Hansen,"New Christopher, KG",Scikit-learn,1,0,0,0,0,0,0,0,1
+153,AI Product Manager,Allen-Carr,"West Jamesborough, BT",Scikit-learn,1,0,0,0,0,0,0,0,1
+154,AI Researcher,Carroll-Peterson,"Lake Amanda, PG","TensorFlow, FastAPI, PyTorch",3,0,0,1,0,0,1,1,0
+155,NLP Engineer,Castillo and Sons,"New Monicaborough, KH","MLflow, PyTorch, KDB+",3,1,0,0,1,0,0,1,0
+156,Data Analyst,Dixon-Fields,"New Christinastad, GY","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+157,Computer Vision Engineer,Ashley-Espinoza,"Elizabethchester, KZ","TensorFlow, MLflow",2,1,0,0,0,0,1,0,0
+158,NLP Engineer,"Scott, Nelson and Cooke","Hayesberg, AG","MLflow, Scikit-learn, FastAPI",3,1,0,1,0,0,0,0,1
+159,Quant Researcher,Wright-Pennington,"Bentonland, BG","Scikit-learn, KDB+, BigQuery",3,0,0,0,1,1,0,0,1
+160,Data Analyst,Garcia-Martinez,"Michaeltown, UY","Scikit-learn, BigQuery, KDB+",3,0,0,0,1,1,0,0,1
+161,Quant Researcher,Ryan-Ward,"Hernandezfurt, MX","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+162,NLP Engineer,"Ross, Torres and Griffith","Jessicamouth, PS","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+163,ML Engineer,"Contreras, Taylor and Nelson","North Danielfort, LC","Scikit-learn, MLflow, BigQuery",3,1,0,0,0,1,0,0,1
+164,NLP Engineer,French Inc,"East Ritaburgh, AM","TensorFlow, MLflow",2,1,0,0,0,0,1,0,0
+165,AI Product Manager,"Roth, Le and Hamilton","Lake Eriktown, TZ",LangChain,1,0,1,0,0,0,0,0,0
+166,Computer Vision Engineer,"Boyd, Gallagher and Thompson","Brandonton, RO","BigQuery, MLflow, FastAPI",3,1,0,1,0,1,0,0,0
+167,Computer Vision Engineer,Benjamin-Nguyen,"Barryborough, JM","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+168,Data Analyst,Coleman-Jimenez,"West Alexanderberg, MG",TensorFlow,1,0,0,0,0,0,1,0,0
+169,Data Analyst,Williams-Gross,"Ericport, BR","FastAPI, MLflow, KDB+",3,1,0,1,1,0,0,0,0
+170,ML Engineer,Gonzalez Ltd,"Johnsonmouth, BS",LangChain,1,0,1,0,0,0,0,0,0
+171,AI Product Manager,Hart-Miller,"South Gary, BN","FastAPI, PyTorch, TensorFlow",3,0,0,1,0,0,1,1,0
+172,AI Researcher,Kim Inc,"West Ralphview, SL","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+173,Data Scientist,Horton LLC,"Debraview, HU","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+174,AI Product Manager,Mendoza Ltd,"North Michael, CU","FastAPI, MLflow",2,1,0,1,0,0,0,0,0
+175,AI Product Manager,"Alexander, Warner and Mendez","Joneston, TL","TensorFlow, KDB+, MLflow",3,1,0,0,1,0,1,0,0
+176,NLP Engineer,Williams Ltd,"Port Ariel, TR","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+177,Quant Researcher,Mills Group,"Johnathanmouth, HN","PyTorch, LangChain, MLflow",3,1,1,0,0,0,0,1,0
+178,AI Product Manager,Jordan-Graves,"East Jennifer, EE","Scikit-learn, PyTorch, LangChain",3,0,1,0,0,0,0,1,1
+179,AI Product Manager,Casey-Smith,"Romerobury, BI","TensorFlow, BigQuery, KDB+",3,0,0,0,1,1,1,0,0
+180,AI Researcher,Melton-Turner,"West Chelseafurt, AU","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+181,Data Analyst,Gutierrez-Hernandez,"Lake Thomas, MD","KDB+, Scikit-learn, PyTorch",3,0,0,0,1,0,0,1,1
+182,NLP Engineer,"Oliver, Tran and Jackson","North Briannafort, PH",PyTorch,1,0,0,0,0,0,0,1,0
+183,AI Researcher,Diaz-Hardy,"Davidstad, BY","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+184,Quant Researcher,White-Hayes,"West Derek, VU","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+185,Computer Vision Engineer,Dominguez Ltd,"East Christopher, EE",TensorFlow,1,0,0,0,0,0,1,0,0
+186,Data Analyst,"Welch, Green and Williams","Emmafurt, GN",BigQuery,1,0,0,0,0,1,0,0,0
+187,AI Researcher,Reed LLC,"Andreside, GA","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+188,Computer Vision Engineer,Brown and Sons,"New Donald, CU",KDB+,1,0,0,0,1,0,0,0,0
+189,Data Scientist,Gutierrez Group,"New Andrea, ST",BigQuery,1,0,0,0,0,1,0,0,0
+190,AI Product Manager,"Robinson, Stafford and Hoffman","Palmerburgh, CF","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+191,Data Analyst,"Wu, Browning and Ramos","North Louis, UY","MLflow, LangChain, FastAPI",3,1,1,1,0,0,0,0,0
+192,AI Researcher,Jones-Curtis,"North Nataliemouth, SR","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+193,ML Engineer,Lewis-Brooks,"Owenshaven, LY","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+194,Data Scientist,"Hobbs, Lawson and Robertson","Port Ricardo, SR","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+195,Quant Researcher,"Gonzales, Lane and Hart","Kaylaland, DE",Scikit-learn,1,0,0,0,0,0,0,0,1
+196,NLP Engineer,Kim PLC,"North Jamietown, KE","BigQuery, FastAPI",2,0,0,1,0,1,0,0,0
+197,AI Product Manager,"Vasquez, Fleming and Jones","East Melindastad, TO","Scikit-learn, TensorFlow, FastAPI",3,0,0,1,0,0,1,0,1
+198,Data Analyst,Rice Inc,"East Linda, KP",BigQuery,1,0,0,0,0,1,0,0,0
+199,Quant Researcher,"Morris, Jensen and Hamilton","Port Mckenzie, BO","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+200,AI Product Manager,Gonzalez and Sons,"New Traceyborough, BG",PyTorch,1,0,0,0,0,0,0,1,0
+201,Data Scientist,Robinson-Hall,"Flowersberg, MG","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+202,AI Product Manager,Mendoza Ltd,"Chandlerville, RS","PyTorch, TensorFlow, FastAPI",3,0,0,1,0,0,1,1,0
+203,NLP Engineer,Richards-Barnes,"Williamton, TM","LangChain, KDB+, FastAPI",3,0,1,1,1,0,0,0,0
+204,Quant Researcher,Bailey-Harris,"Lake Sarah, SY",TensorFlow,1,0,0,0,0,0,1,0,0
+205,Data Analyst,Soto and Sons,"East Johnton, HR",BigQuery,1,0,0,0,0,1,0,0,0
+206,Data Scientist,Williams Ltd,"Samuelhaven, BO",MLflow,1,1,0,0,0,0,0,0,0
+207,Computer Vision Engineer,Lane-Weaver,"Garciamouth, KI",TensorFlow,1,0,0,0,0,0,1,0,0
+208,AI Product Manager,Hernandez PLC,"Lake Charlesmouth, CL",Scikit-learn,1,0,0,0,0,0,0,0,1
+209,AI Product Manager,Ortiz-Mcfarland,"Reyesview, NR","Scikit-learn, BigQuery, FastAPI",3,0,0,1,0,1,0,0,1
+210,Data Scientist,Rice-Hendricks,"East William, NZ","KDB+, FastAPI, PyTorch",3,0,0,1,1,0,0,1,0
+211,Computer Vision Engineer,"Brown, Jackson and Carr","Greeneton, LU","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+212,AI Product Manager,"Kelley, Steele and Bell","South Anthonyfurt, BO",FastAPI,1,0,0,1,0,0,0,0,0
+213,Data Analyst,Cline PLC,"Hannahside, KI","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+214,Quant Researcher,Shah-White,"Lake Erikburgh, ZM",BigQuery,1,0,0,0,0,1,0,0,0
+215,Data Scientist,Davis-Butler,"South Zacharyburgh, ES",LangChain,1,0,1,0,0,0,0,0,0
+216,NLP Engineer,"Newton, Kelly and Martinez","Lake Johnchester, CG","FastAPI, PyTorch, TensorFlow",3,0,0,1,0,0,1,1,0
+217,Computer Vision Engineer,Berry-Lewis,"Melissaton, LA",Scikit-learn,1,0,0,0,0,0,0,0,1
+218,AI Researcher,"Brandt, Fuller and Cruz","New Sydneyton, PH","TensorFlow, LangChain, FastAPI",3,0,1,1,0,0,1,0,0
+219,Quant Researcher,Turner PLC,"Jasonfurt, BW","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+220,AI Researcher,Sanchez Ltd,"Barnetthaven, IN","KDB+, PyTorch",2,0,0,0,1,0,0,1,0
+221,ML Engineer,Crawford Group,"Abbottmouth, IN","FastAPI, LangChain, TensorFlow",3,0,1,1,0,0,1,0,0
+222,Data Scientist,"Humphrey, Barrett and Colon","Davidmouth, IE","MLflow, PyTorch, TensorFlow",3,1,0,0,0,0,1,1,0
+223,Quant Researcher,Obrien PLC,"Mariochester, BY",MLflow,1,1,0,0,0,0,0,0,0
+224,Data Analyst,"Stanton, Martin and Martin","West Sally, GR","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+225,AI Researcher,"James, Payne and Roth","West Ernest, BY","LangChain, Scikit-learn, FastAPI",3,0,1,1,0,0,0,0,1
+226,Computer Vision Engineer,"Bowen, Flores and Williams","Alanside, SK","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+227,Quant Researcher,Flynn LLC,"Carrollview, HN","BigQuery, Scikit-learn, LangChain",3,0,1,0,0,1,0,0,1
+228,AI Researcher,"Campos, Floyd and Clark","Changside, DJ",LangChain,1,0,1,0,0,0,0,0,0
+229,AI Product Manager,"Henderson, Lynch and Lindsey","Thomasland, NI",TensorFlow,1,0,0,0,0,0,1,0,0
+230,AI Product Manager,Mitchell-Peters,"Melissaview, GN","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+231,AI Product Manager,Mcfarland Inc,"Gatesburgh, ZM","TensorFlow, MLflow, LangChain",3,1,1,0,0,0,1,0,0
+232,AI Product Manager,Jones and Sons,"Lake Jose, ML","BigQuery, MLflow, KDB+",3,1,0,0,1,1,0,0,0
+233,Computer Vision Engineer,"Nash, Anderson and Brown","New Jeffrey, SV","TensorFlow, LangChain, BigQuery",3,0,1,0,0,1,1,0,0
+234,Data Analyst,"Whitehead, Summers and Nelson","East Bryce, IS",Scikit-learn,1,0,0,0,0,0,0,0,1
+235,NLP Engineer,Gonzalez-Thompson,"Graceville, TO",MLflow,1,1,0,0,0,0,0,0,0
+236,AI Product Manager,"Simon, Price and Dickson","Williamsside, NE","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+237,AI Researcher,Strickland-Stevenson,"East Mary, LI","TensorFlow, PyTorch, LangChain",3,0,1,0,0,0,1,1,0
+238,AI Researcher,Kramer Inc,"Garzaside, NA","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+239,AI Product Manager,Mahoney-Collins,"Marktown, AO","TensorFlow, KDB+, BigQuery",3,0,0,0,1,1,1,0,0
+240,Quant Researcher,Ortiz PLC,"South Staceyport, IN","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+241,Data Analyst,"Donaldson, Cox and Lopez","Port Marcusville, US","BigQuery, Scikit-learn",2,0,0,0,0,1,0,0,1
+242,Computer Vision Engineer,"Clark, Baker and Parks","Singhfort, PA","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+243,Computer Vision Engineer,Anderson-Gonzalez,"Samuelton, DK","MLflow, KDB+, BigQuery",3,1,0,0,1,1,0,0,0
+244,Data Analyst,Walker-Becker,"Port Andrewside, MT",LangChain,1,0,1,0,0,0,0,0,0
+245,Data Scientist,Hall Group,"New Manuelbury, LS","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+246,Data Scientist,Blake-Daugherty,"Lake Adamfurt, BR","LangChain, Scikit-learn",2,0,1,0,0,0,0,0,1
+247,Quant Researcher,Powers Group,"Grahamshire, PH","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+248,Data Scientist,Bernard-Herrera,"Port Denise, MV","Scikit-learn, KDB+",2,0,0,0,1,0,0,0,1
+249,AI Product Manager,Thomas Group,"New Melissa, KM",BigQuery,1,0,0,0,0,1,0,0,0
+250,Data Scientist,Phelps-Johnson,"Lake Kristen, SY",BigQuery,1,0,0,0,0,1,0,0,0
+251,AI Researcher,Young-Brown,"North Samuel, UY",TensorFlow,1,0,0,0,0,0,1,0,0
+252,NLP Engineer,"Alvarez, Martinez and Miller","Kimberlyfort, MN","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+253,Computer Vision Engineer,Phillips-Baker,"West James, SG",KDB+,1,0,0,0,1,0,0,0,0
+254,Data Scientist,Cochran-Bailey,"West Andrew, NA",MLflow,1,1,0,0,0,0,0,0,0
+255,AI Product Manager,Vazquez LLC,"East Bruce, AM","PyTorch, FastAPI",2,0,0,1,0,0,0,1,0
+256,AI Product Manager,Carey and Sons,"Robertfort, LK","FastAPI, Scikit-learn, MLflow",3,1,0,1,0,0,0,0,1
+257,AI Product Manager,"Marshall, Mccoy and Montgomery","Greggbury, KI","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+258,ML Engineer,Hart-Peterson,"South Christopher, CN","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+259,AI Researcher,Clark-Sharp,"Lake Mark, BN","MLflow, BigQuery, LangChain",3,1,1,0,0,1,0,0,0
+260,NLP Engineer,"Daniels, Martinez and Brown","Mariestad, SG","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+261,Data Analyst,Lawson-Mitchell,"Jacobchester, PL","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+262,Data Scientist,"James, Johnson and Pineda","Maxwellburgh, JO","Scikit-learn, PyTorch",2,0,0,0,0,0,0,1,1
+263,Computer Vision Engineer,Allen-Parker,"North Dakota, BJ","LangChain, KDB+, Scikit-learn",3,0,1,0,1,0,0,0,1
+264,Data Scientist,Russell and Sons,"Gallegosbury, MG",KDB+,1,0,0,0,1,0,0,0,0
+265,Data Analyst,"Peters, Mcdaniel and Adams","Pruittchester, PG","LangChain, BigQuery, MLflow",3,1,1,0,0,1,0,0,0
+266,Quant Researcher,Jones PLC,"West Ricky, US","LangChain, PyTorch, FastAPI",3,0,1,1,0,0,0,1,0
+267,Data Analyst,"Taylor, Ruiz and Padilla","Barnettburgh, BO","MLflow, FastAPI",2,1,0,1,0,0,0,0,0
+268,AI Product Manager,Johnson-Roberson,"Port Rachel, HT","FastAPI, MLflow, Scikit-learn",3,1,0,1,0,0,0,0,1
+269,AI Researcher,Carey and Sons,"Lindastad, LB",PyTorch,1,0,0,0,0,0,0,1,0
+270,AI Product Manager,"Willis, Smith and Norris","South Aaron, MT","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+271,AI Researcher,Gallagher Inc,"Cathyton, AL","LangChain, KDB+, BigQuery",3,0,1,0,1,1,0,0,0
+272,Computer Vision Engineer,Jones Inc,"North Thomas, GM",MLflow,1,1,0,0,0,0,0,0,0
+273,Data Scientist,Coleman-Yoder,"Maxwellchester, LK","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+274,ML Engineer,Mcdonald Ltd,"New David, MG","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+275,AI Researcher,Anderson-Campbell,"Bestview, AG","Scikit-learn, FastAPI, KDB+",3,0,0,1,1,0,0,0,1
+276,Computer Vision Engineer,"Garner, Massey and Lozano","New Douglasburgh, TV","MLflow, BigQuery",2,1,0,0,0,1,0,0,0
+277,Data Scientist,"White, Waters and Johnson","Daleville, CL",PyTorch,1,0,0,0,0,0,0,1,0
+278,AI Product Manager,Cox-Griffin,"East Melissatown, IN",MLflow,1,1,0,0,0,0,0,0,0
+279,NLP Engineer,Smith Inc,"Perezfurt, SZ","MLflow, LangChain, FastAPI",3,1,1,1,0,0,0,0,0
+280,Quant Researcher,Mason Inc,"Angelafurt, BT",PyTorch,1,0,0,0,0,0,0,1,0
+281,Data Analyst,Clark Group,"Lauraside, US","KDB+, BigQuery, MLflow",3,1,0,0,1,1,0,0,0
+282,Data Analyst,Sutton-Weber,"West Anna, MK",LangChain,1,0,1,0,0,0,0,0,0
+283,Computer Vision Engineer,Stevenson Ltd,"Jeffreyport, IS","PyTorch, TensorFlow, MLflow",3,1,0,0,0,0,1,1,0
+284,Data Scientist,Scott-Wright,"Lake Shelly, CN","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+285,ML Engineer,Gonzales-Charles,"South Sarah, JO","KDB+, TensorFlow, LangChain",3,0,1,0,1,0,1,0,0
+286,Data Analyst,Saunders Inc,"Lake Lisafurt, ER",BigQuery,1,0,0,0,0,1,0,0,0
+287,AI Researcher,Park PLC,"Amandamouth, LT",FastAPI,1,0,0,1,0,0,0,0,0
+288,Data Analyst,Jimenez-Brown,"Stuartfurt, AL","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+289,Quant Researcher,Mendoza-Smith,"South Amy, FJ","MLflow, BigQuery, KDB+",3,1,0,0,1,1,0,0,0
+290,ML Engineer,Hartman-Torres,"Leeville, GD",LangChain,1,0,1,0,0,0,0,0,0
+291,AI Researcher,"Johnson, Humphrey and Walsh","Susanland, GQ",Scikit-learn,1,0,0,0,0,0,0,0,1
+292,AI Product Manager,"Rose, Miller and Gonzalez","Perkinsbury, ES","Scikit-learn, KDB+, BigQuery",3,0,0,0,1,1,0,0,1
+293,AI Researcher,Meyer-Randall,"East Tyler, UA","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+294,Data Analyst,"Knox, Diaz and Fowler","New Monique, NZ","LangChain, BigQuery, TensorFlow",3,0,1,0,0,1,1,0,0
+295,Quant Researcher,Arnold LLC,"Kathymouth, SB",KDB+,1,0,0,0,1,0,0,0,0
+296,Data Analyst,Durham LLC,"Lake David, JO",PyTorch,1,0,0,0,0,0,0,1,0
+297,Data Scientist,"Robinson, Chang and Jimenez","South Richardshire, DM","Scikit-learn, FastAPI, KDB+",3,0,0,1,1,0,0,0,1
+298,Data Analyst,"Dunn, Anderson and Barber","Melaniestad, ET","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+299,ML Engineer,Lee Ltd,"North Rebeccaton, LB",LangChain,1,0,1,0,0,0,0,0,0
+300,AI Researcher,Powell and Sons,"South Angel, AL",BigQuery,1,0,0,0,0,1,0,0,0
+301,Data Scientist,"Thompson, Bonilla and Caldwell","Wellsport, ER","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+302,Quant Researcher,"Allen, Navarro and Palmer","Millerton, SA","Scikit-learn, LangChain, BigQuery",3,0,1,0,0,1,0,0,1
+303,Data Analyst,Hunt-Richards,"Michaelview, TO","Scikit-learn, TensorFlow, PyTorch",3,0,0,0,0,0,1,1,1
+304,NLP Engineer,Malone-Rodriguez,"North Johnstad, PY","Scikit-learn, TensorFlow, MLflow",3,1,0,0,0,0,1,0,1
+305,AI Product Manager,Shields Group,"West Savannahbury, WS","PyTorch, TensorFlow",2,0,0,0,0,0,1,1,0
+306,AI Researcher,"Ball, Vasquez and Morales","West Dianastad, KM","BigQuery, FastAPI",2,0,0,1,0,1,0,0,0
+307,Data Scientist,"Johnson, Zuniga and Martinez","Williamberg, TG","BigQuery, MLflow, LangChain",3,1,1,0,0,1,0,0,0
+308,Computer Vision Engineer,Bryan-Rios,"Lake Williamton, BT",PyTorch,1,0,0,0,0,0,0,1,0
+309,Data Analyst,"Williams, Garza and Hill","Gateschester, PW","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+310,Computer Vision Engineer,Graves Group,"Port Michael, KM","MLflow, LangChain, KDB+",3,1,1,0,1,0,0,0,0
+311,Computer Vision Engineer,"Rogers, Davila and Ashley","North Jamesstad, BO","KDB+, Scikit-learn",2,0,0,0,1,0,0,0,1
+312,Data Scientist,Strickland-Werner,"Port Alicia, UY","MLflow, LangChain, KDB+",3,1,1,0,1,0,0,0,0
+313,Data Scientist,"Moreno, Wood and Murillo","North Brittany, TL","LangChain, KDB+, PyTorch",3,0,1,0,1,0,0,1,0
+314,ML Engineer,"Singleton, Simon and Harper","Padillashire, KW",KDB+,1,0,0,0,1,0,0,0,0
+315,AI Researcher,"Dunn, Snyder and Nichols","Port John, LA",Scikit-learn,1,0,0,0,0,0,0,0,1
+316,NLP Engineer,"Wallace, Gonzales and Wilkins","Josebury, LY",PyTorch,1,0,0,0,0,0,0,1,0
+317,Data Analyst,Turner-Mccarthy,"Ryanberg, MX","Scikit-learn, BigQuery, MLflow",3,1,0,0,0,1,0,0,1
+318,ML Engineer,"Reyes, Miller and Burke","West Julie, ZM","PyTorch, LangChain",2,0,1,0,0,0,0,1,0
+319,AI Product Manager,"Russell, Kim and Harris","South Staceyview, PY","KDB+, MLflow, TensorFlow",3,1,0,0,1,0,1,0,0
+320,NLP Engineer,Miller-Holland,"Lake Nicole, SB",LangChain,1,0,1,0,0,0,0,0,0
+321,AI Researcher,Anthony-Gould,"Davisstad, HR","PyTorch, Scikit-learn, FastAPI",3,0,0,1,0,0,0,1,1
+322,NLP Engineer,Adams-Hill,"Lewisville, PW","MLflow, PyTorch, FastAPI",3,1,0,1,0,0,0,1,0
+323,AI Product Manager,Salas Inc,"West Veronica, CN","BigQuery, TensorFlow, FastAPI",3,0,0,1,0,1,1,0,0
+324,AI Researcher,Morrison-Patel,"South Brianfurt, VE","Scikit-learn, FastAPI",2,0,0,1,0,0,0,0,1
+325,Data Scientist,Moyer-Simpson,"Lake Ricky, CF","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+326,AI Product Manager,Jimenez PLC,"East Sandra, CR","FastAPI, Scikit-learn, MLflow",3,1,0,1,0,0,0,0,1
+327,NLP Engineer,Atkinson-Gonzales,"Jonathanland, LB",KDB+,1,0,0,0,1,0,0,0,0
+328,Quant Researcher,Cook LLC,"Erikastad, TJ",MLflow,1,1,0,0,0,0,0,0,0
+329,Quant Researcher,Wagner Inc,"Lake Kelseystad, LB","TensorFlow, MLflow, FastAPI",3,1,0,1,0,0,1,0,0
+330,ML Engineer,Galloway-Martinez,"Michaelland, VC",MLflow,1,1,0,0,0,0,0,0,0
+331,Data Scientist,Love-Rhodes,"Port Elizabeth, CZ","KDB+, FastAPI, LangChain",3,0,1,1,1,0,0,0,0
+332,Data Scientist,Stewart-Kennedy,"Lake Kathleenstad, TZ",LangChain,1,0,1,0,0,0,0,0,0
+333,NLP Engineer,Sparks and Sons,"North Emilymouth, FR","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+334,Computer Vision Engineer,White Inc,"Port Robert, MV",Scikit-learn,1,0,0,0,0,0,0,0,1
+335,AI Researcher,Watson Ltd,"Port Justinfurt, MK","BigQuery, LangChain, MLflow",3,1,1,0,0,1,0,0,0
+336,Data Analyst,Clark-Bailey,"North Shelly, KZ","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+337,Quant Researcher,Holland-Mcgee,"East Christiebury, LR","LangChain, Scikit-learn",2,0,1,0,0,0,0,0,1
+338,Data Scientist,"Cummings, Schmidt and Clarke","Stevenmouth, AD","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+339,Computer Vision Engineer,Hines-Mckinney,"Lake Christopher, FR","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+340,Data Scientist,Graves and Sons,"West Sara, BB",TensorFlow,1,0,0,0,0,0,1,0,0
+341,Computer Vision Engineer,Walker-Davis,"Erinton, MH","TensorFlow, MLflow, Scikit-learn",3,1,0,0,0,0,1,0,1
+342,ML Engineer,"Finley, Bruce and Wheeler","West Donald, CG",KDB+,1,0,0,0,1,0,0,0,0
+343,AI Product Manager,Simmons-Evans,"Thompsonport, BH",FastAPI,1,0,0,1,0,0,0,0,0
+344,Computer Vision Engineer,Melton-Salazar,"Sanderston, KG",TensorFlow,1,0,0,0,0,0,1,0,0
+345,Data Analyst,"Anthony, Miller and Russell","East Linda, NZ","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+346,AI Researcher,Young-Anderson,"East Ryantown, BZ","Scikit-learn, TensorFlow, KDB+",3,0,0,0,1,0,1,0,1
+347,NLP Engineer,"Conway, Hernandez and Perez","Nunezside, TG","PyTorch, TensorFlow, MLflow",3,1,0,0,0,0,1,1,0
+348,Quant Researcher,Anderson and Sons,"Jadeview, BF",Scikit-learn,1,0,0,0,0,0,0,0,1
+349,NLP Engineer,Ware-Ellis,"Leeview, MA","FastAPI, BigQuery, MLflow",3,1,0,1,0,1,0,0,0
+350,AI Product Manager,"Snyder, Simpson and Maxwell","East Robert, CV","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+351,AI Researcher,Ellis Ltd,"Bullockton, KP",MLflow,1,1,0,0,0,0,0,0,0
+352,Computer Vision Engineer,"Blair, Ruiz and Sanchez","Perezview, SN","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+353,ML Engineer,Griffin-Dalton,"Knightmouth, AF","LangChain, BigQuery, FastAPI",3,0,1,1,0,1,0,0,0
+354,Data Analyst,Alexander PLC,"Lake Marcia, MT","KDB+, PyTorch",2,0,0,0,1,0,0,1,0
+355,Quant Researcher,"Velazquez, Brewer and Murphy","Mooreville, NP",FastAPI,1,0,0,1,0,0,0,0,0
+356,Quant Researcher,Bean LLC,"Port Matthewhaven, ST","PyTorch, TensorFlow, MLflow",3,1,0,0,0,0,1,1,0
+357,ML Engineer,Rogers-Villanueva,"New Kenneth, DO","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+358,Data Analyst,Taylor PLC,"Schroederport, DK",FastAPI,1,0,0,1,0,0,0,0,0
+359,Quant Researcher,Lee Group,"Taylorstad, MR",PyTorch,1,0,0,0,0,0,0,1,0
+360,AI Product Manager,"Miller, Browning and Shaw","Bryanburgh, SK",MLflow,1,1,0,0,0,0,0,0,0
+361,NLP Engineer,"Branch, Elliott and Ramirez","New Micheletown, NZ","MLflow, TensorFlow, FastAPI",3,1,0,1,0,0,1,0,0
+362,AI Product Manager,"Reyes, Vincent and Hayes","Kathleenton, IQ",FastAPI,1,0,0,1,0,0,0,0,0
+363,NLP Engineer,Rose Ltd,"South Brianmouth, JM","MLflow, FastAPI, BigQuery",3,1,0,1,0,1,0,0,0
+364,AI Product Manager,Miller-Bishop,"West Stephaniefort, FR","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+365,AI Product Manager,Krueger-Tanner,"Port Rebecca, US","KDB+, TensorFlow, PyTorch",3,0,0,0,1,0,1,1,0
+366,AI Product Manager,"Johnson, Castaneda and Duke","Powellshire, JM","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+367,Data Analyst,"Riley, Beltran and Lucero","North Natalie, EC",LangChain,1,0,1,0,0,0,0,0,0
+368,AI Product Manager,Perez-Williams,"West Denisetown, VU",MLflow,1,1,0,0,0,0,0,0,0
+369,Data Analyst,Silva-Russell,"Petersonchester, UG","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+370,NLP Engineer,"Matthews, Bailey and Banks","Daughertyborough, SA","KDB+, PyTorch, FastAPI",3,0,0,1,1,0,0,1,0
+371,Quant Researcher,Santiago-King,"Lake Linda, AT","Scikit-learn, PyTorch",2,0,0,0,0,0,0,1,1
+372,AI Researcher,"Caldwell, Richardson and Hines","North Jesusfurt, AL",KDB+,1,0,0,0,1,0,0,0,0
+373,ML Engineer,"Washington, Smith and Hicks","West Regina, AG","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+374,Data Analyst,"Cummings, Ball and Owens","Boydtown, HT","TensorFlow, Scikit-learn, PyTorch",3,0,0,0,0,0,1,1,1
+375,NLP Engineer,"Harrington, Gross and Kim","Lake Lisamouth, CR",Scikit-learn,1,0,0,0,0,0,0,0,1
+376,AI Product Manager,"Bryan, Harding and Hamilton","Campbellburgh, PL","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+377,Quant Researcher,"Miller, Cox and Clark","Jacksonberg, MR","KDB+, PyTorch",2,0,0,0,1,0,0,1,0
+378,NLP Engineer,Watson-Boyle,"Geraldville, TT","Scikit-learn, PyTorch, TensorFlow",3,0,0,0,0,0,1,1,1
+379,Quant Researcher,"Montoya, Chambers and Bennett","Odommouth, JO","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+380,Quant Researcher,"Fields, Porter and Martinez","New Dawn, CV","KDB+, Scikit-learn, FastAPI",3,0,0,1,1,0,0,0,1
+381,Data Scientist,"Gallegos, Ruiz and Ross","Proctorbury, HR",MLflow,1,1,0,0,0,0,0,0,0
+382,Computer Vision Engineer,Ingram LLC,"Gonzalezbury, TW","KDB+, TensorFlow",2,0,0,0,1,0,1,0,0
+383,AI Product Manager,Moody Inc,"West Benjamin, DJ","Scikit-learn, FastAPI",2,0,0,1,0,0,0,0,1
+384,AI Product Manager,Walls-Kidd,"Wheelermouth, UY",TensorFlow,1,0,0,0,0,0,1,0,0
+385,NLP Engineer,Mullins Group,"Brianview, DJ",BigQuery,1,0,0,0,0,1,0,0,0
+386,NLP Engineer,King Group,"New Jeffreyhaven, AE","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+387,Quant Researcher,Hansen-Stone,"West William, ID",KDB+,1,0,0,0,1,0,0,0,0
+388,ML Engineer,Gardner Group,"Port Monicaborough, KW",PyTorch,1,0,0,0,0,0,0,1,0
+389,AI Researcher,Leonard-Duke,"Patrickfurt, BD",Scikit-learn,1,0,0,0,0,0,0,0,1
+390,NLP Engineer,Patton and Sons,"West Melissa, MH","BigQuery, LangChain, Scikit-learn",3,0,1,0,0,1,0,0,1
+391,AI Product Manager,Vazquez PLC,"New Matthew, SC",PyTorch,1,0,0,0,0,0,0,1,0
+392,ML Engineer,Romero PLC,"Christianland, PT",LangChain,1,0,1,0,0,0,0,0,0
+393,Quant Researcher,Howell PLC,"Millermouth, CF","LangChain, FastAPI, TensorFlow",3,0,1,1,0,0,1,0,0
+394,Data Analyst,Beltran PLC,"Alexiston, UY","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+395,ML Engineer,Browning Inc,"Shariborough, BO","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+396,Data Scientist,Strong-Davis,"Jasonbury, CD",PyTorch,1,0,0,0,0,0,0,1,0
+397,Quant Researcher,"Richardson, Burton and Stephens","Timothyland, LR","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+398,NLP Engineer,Salinas-Taylor,"Georgeport, CI",KDB+,1,0,0,0,1,0,0,0,0
+399,Data Analyst,Hunt Ltd,"Jacksonfort, PG","KDB+, TensorFlow, PyTorch",3,0,0,0,1,0,1,1,0
+400,Data Scientist,Carr Group,"Murphymouth, GM","PyTorch, KDB+, LangChain",3,0,1,0,1,0,0,1,0
+401,NLP Engineer,Harris LLC,"South Randytown, PA",TensorFlow,1,0,0,0,0,0,1,0,0
+402,AI Product Manager,Reyes-Lowery,"Samanthaborough, VA",BigQuery,1,0,0,0,0,1,0,0,0
+403,Computer Vision Engineer,"Charles, Henry and Stark","Valenzuelaborough, BF",PyTorch,1,0,0,0,0,0,0,1,0
+404,NLP Engineer,"Hill, Lucas and Alvarez","Adamport, LC",KDB+,1,0,0,0,1,0,0,0,0
+405,AI Researcher,Stone-Lee,"North Rebecca, LS",FastAPI,1,0,0,1,0,0,0,0,0
+406,Quant Researcher,"Johnson, Williams and Perkins","Bennettland, SN","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+407,AI Researcher,Hays-Smith,"North Kristin, LC","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+408,ML Engineer,Hansen-Martin,"Jessicaborough, BB","LangChain, MLflow, Scikit-learn",3,1,1,0,0,0,0,0,1
+409,Quant Researcher,Calderon Inc,"Alexanderfort, PT",LangChain,1,0,1,0,0,0,0,0,0
+410,AI Researcher,Brown Group,"Jameston, RO","LangChain, Scikit-learn",2,0,1,0,0,0,0,0,1
+411,Data Analyst,"Robertson, Davis and Gray","Martintown, TW","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+412,AI Researcher,"Anderson, Lawrence and Drake","Annastad, AT","BigQuery, TensorFlow, KDB+",3,0,0,0,1,1,1,0,0
+413,Data Scientist,Lynn-Burke,"East Carolport, BA","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+414,AI Product Manager,Travis-Glass,"Simmonsside, MW","MLflow, Scikit-learn",2,1,0,0,0,0,0,0,1
+415,Data Analyst,Leonard LLC,"Bellfort, MV",FastAPI,1,0,0,1,0,0,0,0,0
+416,ML Engineer,"Kim, Allison and Ryan","Bowersberg, BD","KDB+, PyTorch",2,0,0,0,1,0,0,1,0
+417,AI Product Manager,"Ellis, Townsend and Harrison","South Andreamouth, AF","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+418,ML Engineer,"Steele, Aguilar and Jackson","North Amandamouth, IE",TensorFlow,1,0,0,0,0,0,1,0,0
+419,AI Researcher,Peck Group,"West Christopherville, HR",LangChain,1,0,1,0,0,0,0,0,0
+420,Data Analyst,Higgins-Hall,"Suttonland, MV","Scikit-learn, KDB+, MLflow",3,1,0,0,1,0,0,0,1
+421,AI Researcher,"Hicks, Sullivan and Kline","Steveborough, LR","LangChain, FastAPI, TensorFlow",3,0,1,1,0,0,1,0,0
+422,AI Researcher,Marquez and Sons,"East Aaron, IQ",LangChain,1,0,1,0,0,0,0,0,0
+423,Quant Researcher,Moore-Mann,"Melvintown, HT","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+424,ML Engineer,Ramirez Ltd,"South Jeremyton, AM",LangChain,1,0,1,0,0,0,0,0,0
+425,Computer Vision Engineer,"Garcia, Drake and Gonzalez","Jamesfurt, BW","BigQuery, Scikit-learn",2,0,0,0,0,1,0,0,1
+426,Data Analyst,"Edwards, Jackson and Baker","Sullivanshire, WS","PyTorch, TensorFlow",2,0,0,0,0,0,1,1,0
+427,NLP Engineer,Turner Group,"Mariaburgh, AT","FastAPI, BigQuery, TensorFlow",3,0,0,1,0,1,1,0,0
+428,Quant Researcher,Castro PLC,"West Tammie, KW","PyTorch, TensorFlow, KDB+",3,0,0,0,1,0,1,1,0
+429,ML Engineer,"Coffey, Shannon and Mclean","Johnfurt, MR","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+430,Computer Vision Engineer,Wilcox Ltd,"Robertsonbury, VN","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+431,AI Product Manager,Mcbride-Skinner,"Port Daleborough, MW","TensorFlow, BigQuery, LangChain",3,0,1,0,0,1,1,0,0
+432,AI Researcher,Alexander Inc,"East Lynnchester, FI","TensorFlow, MLflow",2,1,0,0,0,0,1,0,0
+433,AI Researcher,Ramsey-Barnes,"Jackburgh, BB","BigQuery, MLflow, KDB+",3,1,0,0,1,1,0,0,0
+434,NLP Engineer,Clark and Sons,"East Samuelfort, PS","MLflow, KDB+, FastAPI",3,1,0,1,1,0,0,0,0
+435,AI Product Manager,Blair-Shaffer,"Lindseymouth, CM",BigQuery,1,0,0,0,0,1,0,0,0
+436,Quant Researcher,Salazar-Clark,"New Samanthaport, MC","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+437,Computer Vision Engineer,Jones-Simpson,"Charlottechester, BZ","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+438,Data Scientist,Johnson-Jackson,"Lake Meganborough, MX","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+439,Quant Researcher,Lane-Rodriguez,"South Katherine, DE","PyTorch, LangChain, KDB+",3,0,1,0,1,0,0,1,0
+440,Quant Researcher,"Jones, Thompson and Gomez","West Gregorychester, ET",Scikit-learn,1,0,0,0,0,0,0,0,1
+441,ML Engineer,"Ho, Mitchell and King","Port Carolineside, SG",TensorFlow,1,0,0,0,0,0,1,0,0
+442,Quant Researcher,Mathis-Davila,"West Bethchester, HR","LangChain, PyTorch, FastAPI",3,0,1,1,0,0,0,1,0
+443,Computer Vision Engineer,Perez-Hawkins,"New Frederickstad, NA",FastAPI,1,0,0,1,0,0,0,0,0
+444,ML Engineer,"Perez, Butler and Carroll","Lauraland, KZ",KDB+,1,0,0,0,1,0,0,0,0
+445,Computer Vision Engineer,Ford PLC,"East Robert, RS","Scikit-learn, KDB+, MLflow",3,1,0,0,1,0,0,0,1
+446,Computer Vision Engineer,Rivera Ltd,"West Bonnieville, CA",BigQuery,1,0,0,0,0,1,0,0,0
+447,Computer Vision Engineer,Thompson-White,"Coryfurt, KG","FastAPI, MLflow",2,1,0,1,0,0,0,0,0
+448,NLP Engineer,"Johnson, Foster and Martin","Smithfurt, SB","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+449,Data Analyst,Solomon-Hartman,"West Christopherfort, GM","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+450,ML Engineer,"Kelley, Adams and Robertson","Port James, LY","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+451,ML Engineer,Johnson-Cabrera,"South Bryanberg, GD","TensorFlow, PyTorch, LangChain",3,0,1,0,0,0,1,1,0
+452,Quant Researcher,"Love, Liu and Flynn","Matthewshire, FR",MLflow,1,1,0,0,0,0,0,0,0
+453,Quant Researcher,Mcdonald and Sons,"Villanuevaberg, KM","FastAPI, LangChain, PyTorch",3,0,1,1,0,0,0,1,0
+454,AI Product Manager,Le Ltd,"South Ginachester, TV","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+455,AI Product Manager,Larson-Moss,"South Williamfurt, BB",FastAPI,1,0,0,1,0,0,0,0,0
+456,ML Engineer,"Farmer, Thompson and Smith","New Daniel, KP",KDB+,1,0,0,0,1,0,0,0,0
+457,NLP Engineer,Burns-Davis,"Nicholasshire, PH","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+458,ML Engineer,Scott-Hernandez,"Freemanland, GD",BigQuery,1,0,0,0,0,1,0,0,0
+459,Data Scientist,Lozano-Valencia,"Kelseybury, US","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+460,Quant Researcher,Watkins-Pearson,"East Rhondaview, IL","TensorFlow, BigQuery, LangChain",3,0,1,0,0,1,1,0,0
+461,Data Scientist,Lewis Inc,"Lake Anthony, MN","LangChain, TensorFlow",2,0,1,0,0,0,1,0,0
+462,Data Scientist,"Moreno, Salazar and Sexton","North Johnstad, TZ","MLflow, Scikit-learn",2,1,0,0,0,0,0,0,1
+463,AI Researcher,Lopez Ltd,"East Deborahshire, DZ",PyTorch,1,0,0,0,0,0,0,1,0
+464,Quant Researcher,Orozco-Tran,"Kevinton, ZW","KDB+, MLflow, TensorFlow",3,1,0,0,1,0,1,0,0
+465,AI Researcher,Allen-Miller,"Elijahshire, BJ",Scikit-learn,1,0,0,0,0,0,0,0,1
+466,NLP Engineer,"Ray, Phillips and Kim","West Shellymouth, TG","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+467,Data Scientist,Rodriguez-Williams,"New Jenniferfort, YE",MLflow,1,1,0,0,0,0,0,0,0
+468,Data Scientist,Randall-Sanchez,"West Julieland, CO",LangChain,1,0,1,0,0,0,0,0,0
+469,Computer Vision Engineer,"Mendoza, Chung and Burnett","New Jacob, KG",TensorFlow,1,0,0,0,0,0,1,0,0
+470,NLP Engineer,Odom PLC,"South Jacobshire, BE","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+471,Computer Vision Engineer,"Miller, Jimenez and Walker","Lake Patriciaview, LY",MLflow,1,1,0,0,0,0,0,0,0
+472,ML Engineer,Valdez-Williams,"Port Charles, BE",TensorFlow,1,0,0,0,0,0,1,0,0
+473,ML Engineer,"Rodriguez, West and Erickson","Lake Joshuastad, QA",BigQuery,1,0,0,0,0,1,0,0,0
+474,Data Analyst,Church-Young,"West Paulshire, PE","FastAPI, Scikit-learn, TensorFlow",3,0,0,1,0,0,1,0,1
+475,AI Researcher,Ramirez PLC,"East Jason, IL","MLflow, KDB+, LangChain",3,1,1,0,1,0,0,0,0
+476,AI Researcher,Simmons PLC,"Peterland, IL",MLflow,1,1,0,0,0,0,0,0,0
+477,Computer Vision Engineer,"Miller, Simmons and Johnson","Obrienshire, UZ",BigQuery,1,0,0,0,0,1,0,0,0
+478,Data Analyst,"Stevens, Ball and Tyler","Dennischester, BH","TensorFlow, BigQuery, LangChain",3,0,1,0,0,1,1,0,0
+479,Quant Researcher,"Hunt, Scott and Schneider","Jessicaside, CH","KDB+, MLflow",2,1,0,0,1,0,0,0,0
+480,AI Product Manager,"Wright, Diaz and Rosario","East Bernardfurt, CY","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+481,AI Researcher,"Dean, Reid and Johnson","Santostown, TL","Scikit-learn, KDB+",2,0,0,0,1,0,0,0,1
+482,Quant Researcher,"Rose, Simon and Cruz","Haasview, PY",KDB+,1,0,0,0,1,0,0,0,0
+483,Quant Researcher,Russo Inc,"Munozside, MA",Scikit-learn,1,0,0,0,0,0,0,0,1
+484,Data Analyst,"Short, Hodge and Castillo","Lake Jasonville, LV","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+485,AI Product Manager,Bauer Group,"South Jaredview, PW","LangChain, Scikit-learn, FastAPI",3,0,1,1,0,0,0,0,1
+486,Computer Vision Engineer,Petty PLC,"Castrobury, ES","MLflow, BigQuery, Scikit-learn",3,1,0,0,0,1,0,0,1
+487,Data Scientist,Stuart and Sons,"Lake Randychester, TR","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+488,AI Product Manager,"Barker, Monroe and Ortega","Robertsonfort, MU","Scikit-learn, TensorFlow, BigQuery",3,0,0,0,0,1,1,0,1
+489,AI Product Manager,Chambers-Santiago,"Halefurt, JO","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+490,Quant Researcher,Nolan-Brown,"Karenville, GA",Scikit-learn,1,0,0,0,0,0,0,0,1
+491,Data Scientist,"Cox, Fitzgerald and Wong","Davidtown, ID","PyTorch, LangChain",2,0,1,0,0,0,0,1,0
+492,Data Analyst,Zhang-Williams,"East Henryfort, CA","LangChain, TensorFlow",2,0,1,0,0,0,1,0,0
+493,Data Scientist,Henry-Grimes,"Port Biancachester, DE","TensorFlow, Scikit-learn, FastAPI",3,0,0,1,0,0,1,0,1
+494,AI Researcher,"Garcia, Lowery and Alexander","East Kennethfurt, MT","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+495,Quant Researcher,Turner PLC,"East Sandrabury, TL","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+496,AI Product Manager,Davis LLC,"Sarahburgh, VA",KDB+,1,0,0,0,1,0,0,0,0
+497,Data Scientist,Foster-Stephens,"Robinsonport, IQ","KDB+, PyTorch, FastAPI",3,0,0,1,1,0,0,1,0
+498,AI Product Manager,"Ho, Scott and Martinez","Lyonsland, MK",LangChain,1,0,1,0,0,0,0,0,0
+499,Computer Vision Engineer,Green PLC,"Gutierrezport, NO",LangChain,1,0,1,0,0,0,0,0,0
+500,Computer Vision Engineer,Hudson Group,"New Shawnberg, SE","FastAPI, Scikit-learn, TensorFlow",3,0,0,1,0,0,1,0,1
+501,AI Product Manager,"Pham, Mathews and Gray","South Crystalshire, FR",TensorFlow,1,0,0,0,0,0,1,0,0
+502,Computer Vision Engineer,"Saunders, Howell and Martinez","West Wandaside, KE","KDB+, FastAPI, Scikit-learn",3,0,0,1,1,0,0,0,1
+503,Computer Vision Engineer,King LLC,"Ruizton, CI","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+504,NLP Engineer,Anthony Group,"Lisaborough, MG",PyTorch,1,0,0,0,0,0,0,1,0
+505,AI Researcher,"Kim, Peterson and Schaefer","Ericksonport, NZ","PyTorch, MLflow, LangChain",3,1,1,0,0,0,0,1,0
+506,NLP Engineer,Parrish-Small,"Perryland, MA","FastAPI, Scikit-learn, PyTorch",3,0,0,1,0,0,0,1,1
+507,Data Scientist,"Shaw, Myers and Smith","Brookeport, TV",TensorFlow,1,0,0,0,0,0,1,0,0
+508,ML Engineer,Smith-Huynh,"South Dawnfort, AE","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+509,Data Scientist,Cardenas-Williams,"West Michael, PW","LangChain, TensorFlow, KDB+",3,0,1,0,1,0,1,0,0
+510,Data Analyst,Davis Inc,"Taylorland, PL","TensorFlow, PyTorch, KDB+",3,0,0,0,1,0,1,1,0
+511,Data Analyst,Davis-Hudson,"South Thomasview, BR",PyTorch,1,0,0,0,0,0,0,1,0
+512,AI Researcher,"Mcdonald, Carey and Cruz","Kingburgh, ER","MLflow, Scikit-learn",2,1,0,0,0,0,0,0,1
+513,AI Product Manager,Williams LLC,"Jeremytown, GQ","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+514,Quant Researcher,Cooper PLC,"Michaelbury, FM","BigQuery, Scikit-learn, PyTorch",3,0,0,0,0,1,0,1,1
+515,Data Analyst,"Graham, Ramirez and Haas","East Tammy, SY","BigQuery, TensorFlow, FastAPI",3,0,0,1,0,1,1,0,0
+516,NLP Engineer,"Lowe, Schmidt and Harris","Dannyborough, MA",TensorFlow,1,0,0,0,0,0,1,0,0
+517,Computer Vision Engineer,"Kemp, Young and Stewart","Tracyborough, CZ","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+518,Data Analyst,"Hodges, Allen and Washington","Davidside, JO",KDB+,1,0,0,0,1,0,0,0,0
+519,Data Analyst,Blair PLC,"Hernandezshire, LU","FastAPI, PyTorch, BigQuery",3,0,0,1,0,1,0,1,0
+520,AI Researcher,"Cruz, Patrick and King","Walshstad, KG","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+521,ML Engineer,"Rivers, Jones and Cameron","Nelsonchester, NE","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+522,AI Product Manager,Lindsey-Chan,"Albertport, RW",TensorFlow,1,0,0,0,0,0,1,0,0
+523,Data Analyst,Hess Inc,"East Kathrynchester, FJ","BigQuery, PyTorch, FastAPI",3,0,0,1,0,1,0,1,0
+524,ML Engineer,Williams Ltd,"Lake Patrick, ST","Scikit-learn, PyTorch, LangChain",3,0,1,0,0,0,0,1,1
+525,AI Product Manager,"Moore, Fields and Valdez","Marcusstad, GT","TensorFlow, KDB+, BigQuery",3,0,0,0,1,1,1,0,0
+526,Data Scientist,Todd-Wright,"Port Thomas, IQ","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+527,ML Engineer,Morrison and Sons,"Richardfurt, JM",TensorFlow,1,0,0,0,0,0,1,0,0
+528,ML Engineer,"Barrett, Bennett and Stokes","New John, JP","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+529,NLP Engineer,"Jefferson, Orr and Gonzalez","Lake Matthewhaven, RO","KDB+, PyTorch",2,0,0,0,1,0,0,1,0
+530,Data Analyst,"Davis, Chambers and Lee","Davidton, VN","Scikit-learn, BigQuery, MLflow",3,1,0,0,0,1,0,0,1
+531,AI Product Manager,Guerra-Hall,"New Ronald, PA",FastAPI,1,0,0,1,0,0,0,0,0
+532,AI Product Manager,Brooks Ltd,"West Elizabeth, DE","Scikit-learn, PyTorch",2,0,0,0,0,0,0,1,1
+533,ML Engineer,"Nolan, Jones and Nelson","Hillfurt, BO","MLflow, FastAPI, Scikit-learn",3,1,0,1,0,0,0,0,1
+534,Data Analyst,"Davidson, Walsh and Meyers","Susanfort, IQ","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+535,NLP Engineer,Burgess-Barrera,"Leebury, SC",FastAPI,1,0,0,1,0,0,0,0,0
+536,ML Engineer,Anderson LLC,"South Briannafort, MZ",MLflow,1,1,0,0,0,0,0,0,0
+537,AI Researcher,"Cameron, Carter and Smith","Blakebury, CL","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+538,AI Product Manager,Christensen LLC,"New Codystad, HU",MLflow,1,1,0,0,0,0,0,0,0
+539,NLP Engineer,Clark-Dennis,"North Brianhaven, IT","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+540,AI Researcher,Obrien and Sons,"North Joannaberg, VC","Scikit-learn, MLflow, FastAPI",3,1,0,1,0,0,0,0,1
+541,ML Engineer,Gomez PLC,"Stevenshire, BE",MLflow,1,1,0,0,0,0,0,0,0
+542,ML Engineer,Rogers-Shaw,"Ginafurt, PW","KDB+, Scikit-learn, TensorFlow",3,0,0,0,1,0,1,0,1
+543,NLP Engineer,Gardner-Murphy,"Phillipsmouth, BE","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+544,Quant Researcher,"Brooks, Morales and Parker","South Chelseamouth, MR",LangChain,1,0,1,0,0,0,0,0,0
+545,Data Analyst,"Harrison, Nelson and Butler","North Darren, PG","FastAPI, MLflow",2,1,0,1,0,0,0,0,0
+546,ML Engineer,"Boyd, Manning and Smith","Walshmouth, EG",PyTorch,1,0,0,0,0,0,0,1,0
+547,Data Scientist,Morgan Group,"East Robertbury, PS","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+548,Data Scientist,"Sutton, Rivera and Mcintyre","Port Briannaview, MM","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+549,AI Product Manager,Lee Inc,"Bradshawport, TW","KDB+, MLflow",2,1,0,0,1,0,0,0,0
+550,NLP Engineer,Clark-Stevens,"Port Isabellaport, BB",BigQuery,1,0,0,0,0,1,0,0,0
+551,Computer Vision Engineer,Young LLC,"South Evan, ZM","Scikit-learn, FastAPI, LangChain",3,0,1,1,0,0,0,0,1
+552,Data Scientist,Shaffer Inc,"West Adammouth, MZ",TensorFlow,1,0,0,0,0,0,1,0,0
+553,NLP Engineer,"Powers, Lee and Graves","North Cindy, CZ","PyTorch, TensorFlow",2,0,0,0,0,0,1,1,0
+554,ML Engineer,Williams-White,"Amyside, CH","MLflow, PyTorch, KDB+",3,1,0,0,1,0,0,1,0
+555,Data Analyst,Smith-Green,"East Mariahberg, NL",FastAPI,1,0,0,1,0,0,0,0,0
+556,AI Researcher,Miller and Sons,"North Michele, BZ","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+557,Data Scientist,Thomas-Howell,"Matthewshire, HN","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+558,Quant Researcher,"Velez, Foley and Walker","Lake Joseph, SN","LangChain, BigQuery, FastAPI",3,0,1,1,0,1,0,0,0
+559,ML Engineer,Mccoy Group,"North Tamara, SM","FastAPI, TensorFlow, LangChain",3,0,1,1,0,0,1,0,0
+560,NLP Engineer,Hall Ltd,"Jamesview, HT","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+561,AI Product Manager,Dixon-Sanchez,"Adamsshire, AZ","PyTorch, TensorFlow, KDB+",3,0,0,0,1,0,1,1,0
+562,Data Scientist,Goodman and Sons,"Zacharyfurt, ST","MLflow, Scikit-learn, FastAPI",3,1,0,1,0,0,0,0,1
+563,Quant Researcher,"Garcia, Moss and Mccormick","New Bettyborough, GR",TensorFlow,1,0,0,0,0,0,1,0,0
+564,AI Researcher,Mccullough-Fields,"Georgeview, LB","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+565,AI Researcher,"Green, Stewart and Nelson","Carmenbury, TV","LangChain, TensorFlow, BigQuery",3,0,1,0,0,1,1,0,0
+566,Computer Vision Engineer,Montgomery and Sons,"New Josemouth, KE","BigQuery, FastAPI",2,0,0,1,0,1,0,0,0
+567,Data Analyst,Fuentes LLC,"Lake Christophershire, UZ","LangChain, PyTorch, MLflow",3,1,1,0,0,0,0,1,0
+568,Data Analyst,Farmer-Higgins,"East Cindy, IL","FastAPI, KDB+, BigQuery",3,0,0,1,1,1,0,0,0
+569,NLP Engineer,Lyons-Dunlap,"Jamesshire, BN","Scikit-learn, TensorFlow, PyTorch",3,0,0,0,0,0,1,1,1
+570,ML Engineer,"Moore, Whitney and Davis","East Jamie, BO","Scikit-learn, PyTorch, FastAPI",3,0,0,1,0,0,0,1,1
+571,NLP Engineer,Glass and Sons,"Jenniferfurt, RO","MLflow, BigQuery",2,1,0,0,0,1,0,0,0
+572,Quant Researcher,Gaines Ltd,"Jacquelineville, GE","TensorFlow, LangChain, Scikit-learn",3,0,1,0,0,0,1,0,1
+573,AI Product Manager,Garcia-Cannon,"Port Shannon, TV","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+574,Data Analyst,"Robbins, Luna and Wiggins","Tonyburgh, BO",MLflow,1,1,0,0,0,0,0,0,0
+575,Data Analyst,Green-Poole,"Lake Timothyville, LB","FastAPI, BigQuery, MLflow",3,1,0,1,0,1,0,0,0
+576,Quant Researcher,Shaw-Bell,"Rodriguezfort, NZ","PyTorch, LangChain, KDB+",3,0,1,0,1,0,0,1,0
+577,NLP Engineer,"Mason, Gonzalez and Miller","Garciamouth, DE","KDB+, Scikit-learn",2,0,0,0,1,0,0,0,1
+578,AI Researcher,Carroll-Carroll,"Lake Andrewbury, ZA",TensorFlow,1,0,0,0,0,0,1,0,0
+579,ML Engineer,"Fisher, Davis and Kelly","North Kevin, VA","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+580,Quant Researcher,Hughes Ltd,"East Lisa, GY","MLflow, LangChain, BigQuery",3,1,1,0,0,1,0,0,0
+581,Data Analyst,Mcneil Ltd,"Brandonshire, MU",LangChain,1,0,1,0,0,0,0,0,0
+582,ML Engineer,"Clark, Garcia and Smith","East Laurenland, UA","FastAPI, Scikit-learn, PyTorch",3,0,0,1,0,0,0,1,1
+583,AI Researcher,Robinson-Murphy,"East Raymond, NR","Scikit-learn, FastAPI, TensorFlow",3,0,0,1,0,0,1,0,1
+584,Data Analyst,"Jenkins, Shelton and Galloway","Port Jenniferhaven, DM",MLflow,1,1,0,0,0,0,0,0,0
+585,Quant Researcher,"Oconnor, Montgomery and Figueroa","Lake Elizabeth, BA",MLflow,1,1,0,0,0,0,0,0,0
+586,AI Researcher,Lin-Robinson,"Jamesmouth, TO","LangChain, Scikit-learn, MLflow",3,1,1,0,0,0,0,0,1
+587,ML Engineer,"Thompson, Mosley and Mitchell","Lake April, UA",PyTorch,1,0,0,0,0,0,0,1,0
+588,NLP Engineer,Austin-Burke,"South Christophermouth, PW","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+589,NLP Engineer,Smith-Webster,"West Karen, DK","TensorFlow, KDB+, MLflow",3,1,0,0,1,0,1,0,0
+590,Data Scientist,Bennett and Sons,"Burnetttown, KE",BigQuery,1,0,0,0,0,1,0,0,0
+591,Data Scientist,Hess-Hobbs,"Jacquelineview, MN","Scikit-learn, KDB+, MLflow",3,1,0,0,1,0,0,0,1
+592,NLP Engineer,Scott-Garcia,"Raymondville, SR","FastAPI, TensorFlow, MLflow",3,1,0,1,0,0,1,0,0
+593,Quant Researcher,Scott Ltd,"Lake Colleenmouth, NA","TensorFlow, FastAPI, Scikit-learn",3,0,0,1,0,0,1,0,1
+594,Computer Vision Engineer,"Wheeler, Thompson and Rivera","Jacobland, BR","LangChain, KDB+, BigQuery",3,0,1,0,1,1,0,0,0
+595,ML Engineer,Collins LLC,"Ryanfort, SB","PyTorch, LangChain",2,0,1,0,0,0,0,1,0
+596,NLP Engineer,"Decker, Wilson and Daniel","North Elizabeth, VU","Scikit-learn, BigQuery, MLflow",3,1,0,0,0,1,0,0,1
+597,ML Engineer,Erickson-Hill,"Aaronview, AZ",KDB+,1,0,0,0,1,0,0,0,0
+598,Data Analyst,"Harrison, Miller and Vasquez","East Laceyville, FI","LangChain, Scikit-learn, FastAPI",3,0,1,1,0,0,0,0,1
+599,AI Researcher,Avery-Randall,"Thomasborough, SR",BigQuery,1,0,0,0,0,1,0,0,0
+600,Computer Vision Engineer,Gonzalez LLC,"Lake Kaylaport, VU","MLflow, LangChain, KDB+",3,1,1,0,1,0,0,0,0
+601,AI Researcher,Rodriguez LLC,"Lake Jamesberg, JM","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+602,AI Researcher,Diaz PLC,"Harrismouth, TR","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+603,NLP Engineer,Perez-Herman,"Michaelside, NA","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+604,AI Researcher,Reese Inc,"Webbmouth, NA","BigQuery, LangChain",2,0,1,0,0,1,0,0,0
+605,AI Product Manager,Yang-Ross,"Andrewschester, IQ","KDB+, TensorFlow, Scikit-learn",3,0,0,0,1,0,1,0,1
+606,ML Engineer,"Arnold, Burns and Garcia","Deniseport, NE","PyTorch, BigQuery, Scikit-learn",3,0,0,0,0,1,0,1,1
+607,NLP Engineer,Blankenship-Ferguson,"Aarontown, TO","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+608,Quant Researcher,"Acosta, Roy and Gutierrez","East Erica, GY","FastAPI, Scikit-learn, LangChain",3,0,1,1,0,0,0,0,1
+609,ML Engineer,"Barton, Guzman and Jones","East Eric, FI","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+610,Data Scientist,Miller-Schultz,"Beckerburgh, GA",TensorFlow,1,0,0,0,0,0,1,0,0
+611,ML Engineer,Hendricks Group,"West Julie, MX","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+612,Data Analyst,"Burke, Paul and Conner","New Jerome, BA",LangChain,1,0,1,0,0,0,0,0,0
+613,Data Analyst,Glenn-Rodriguez,"Maryton, TH","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+614,Computer Vision Engineer,Schaefer-Anderson,"New Natalieview, SE","FastAPI, Scikit-learn, PyTorch",3,0,0,1,0,0,0,1,1
+615,Computer Vision Engineer,"Harris, Hopkins and Miranda","Brooksmouth, TR","PyTorch, Scikit-learn, TensorFlow",3,0,0,0,0,0,1,1,1
+616,AI Product Manager,Reyes LLC,"West Lynnbury, BB",LangChain,1,0,1,0,0,0,0,0,0
+617,Computer Vision Engineer,"Smith, Adkins and Peterson","South Gregory, BO","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+618,Data Analyst,Guerra and Sons,"North Timothy, SC","MLflow, PyTorch, LangChain",3,1,1,0,0,0,0,1,0
+619,AI Product Manager,Smith Inc,"Bryanttown, ET","PyTorch, FastAPI",2,0,0,1,0,0,0,1,0
+620,Data Scientist,Rodriguez-Mcgrath,"Bonnieview, SN","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+621,ML Engineer,"Mullen, Chaney and Morris","Simmonston, HT","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+622,Quant Researcher,"Walker, Welch and Alexander","South Alyssaview, DK","Scikit-learn, LangChain, TensorFlow",3,0,1,0,0,0,1,0,1
+623,ML Engineer,Cochran Ltd,"Robinsonland, BR",FastAPI,1,0,0,1,0,0,0,0,0
+624,NLP Engineer,Wells PLC,"Kevinfurt, FM","MLflow, LangChain, KDB+",3,1,1,0,1,0,0,0,0
+625,Data Scientist,Knight PLC,"Woodberg, PL","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+626,Data Analyst,Rivers-Bautista,"Port Austinport, AT","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+627,Data Analyst,"Cabrera, Schultz and Walker","Jessicaland, MX","TensorFlow, LangChain, MLflow",3,1,1,0,0,0,1,0,0
+628,ML Engineer,"Morgan, Novak and Sullivan","North Ashley, KI","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+629,AI Product Manager,"Hall, Oconnell and Wilson","Careyland, MN",Scikit-learn,1,0,0,0,0,0,0,0,1
+630,Data Analyst,Harris Ltd,"South Keith, UY","MLflow, Scikit-learn",2,1,0,0,0,0,0,0,1
+631,Quant Researcher,Barajas-Wilson,"West Christopher, AR","KDB+, LangChain, Scikit-learn",3,0,1,0,1,0,0,0,1
+632,Quant Researcher,Olsen and Sons,"Michelleview, AE","MLflow, PyTorch, Scikit-learn",3,1,0,0,0,0,0,1,1
+633,Data Scientist,Adams-Bautista,"South Maryshire, DO",Scikit-learn,1,0,0,0,0,0,0,0,1
+634,ML Engineer,Montgomery-Bell,"Carpenterfurt, MV","FastAPI, MLflow, LangChain",3,1,1,1,0,0,0,0,0
+635,Quant Researcher,Case PLC,"Millerborough, MH","LangChain, KDB+, Scikit-learn",3,0,1,0,1,0,0,0,1
+636,Data Analyst,Fisher LLC,"Jacquelineburgh, ME",TensorFlow,1,0,0,0,0,0,1,0,0
+637,Data Analyst,Morgan Group,"South Jameshaven, TT","PyTorch, TensorFlow, Scikit-learn",3,0,0,0,0,0,1,1,1
+638,AI Product Manager,Weiss Inc,"North John, IE","TensorFlow, FastAPI, LangChain",3,0,1,1,0,0,1,0,0
+639,NLP Engineer,"Mendoza, Bishop and Wade","South Omarshire, DO","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+640,NLP Engineer,Stephenson and Sons,"Thomasshire, TT",MLflow,1,1,0,0,0,0,0,0,0
+641,AI Researcher,Hernandez-Robles,"Craigside, JM","BigQuery, LangChain",2,0,1,0,0,1,0,0,0
+642,ML Engineer,"Carter, Gordon and Hurst","South Cynthia, GB","FastAPI, KDB+, TensorFlow",3,0,0,1,1,0,1,0,0
+643,NLP Engineer,Thomas and Sons,"Garzashire, BT",MLflow,1,1,0,0,0,0,0,0,0
+644,AI Researcher,Love LLC,"North Dianaland, GR",KDB+,1,0,0,0,1,0,0,0,0
+645,ML Engineer,Ingram-Long,"Johnstad, MK","FastAPI, BigQuery, PyTorch",3,0,0,1,0,1,0,1,0
+646,AI Researcher,"Zavala, Jones and Williams","Hallport, BE",PyTorch,1,0,0,0,0,0,0,1,0
+647,ML Engineer,"Leon, May and Wilson","Jessicamouth, MY","PyTorch, LangChain, KDB+",3,0,1,0,1,0,0,1,0
+648,Quant Researcher,Norton-Flores,"Sanchezfurt, TJ","Scikit-learn, BigQuery, PyTorch",3,0,0,0,0,1,0,1,1
+649,Data Scientist,"Brown, Ross and Wright","Jillfort, JM",TensorFlow,1,0,0,0,0,0,1,0,0
+650,Quant Researcher,"Townsend, Jenkins and Johnson","West Joshuabury, KN","BigQuery, Scikit-learn, FastAPI",3,0,0,1,0,1,0,0,1
+651,NLP Engineer,"Riddle, Hicks and Thompson","Lake Melissafort, DJ",Scikit-learn,1,0,0,0,0,0,0,0,1
+652,AI Product Manager,"Herrera, Moore and Braun","North Kyleborough, BB","BigQuery, TensorFlow, FastAPI",3,0,0,1,0,1,1,0,0
+653,AI Product Manager,Jones LLC,"Mariabury, GQ",FastAPI,1,0,0,1,0,0,0,0,0
+654,ML Engineer,Jones-Ortiz,"West Michaelview, MN","LangChain, Scikit-learn, PyTorch",3,0,1,0,0,0,0,1,1
+655,Computer Vision Engineer,Howe-Gallagher,"Gilbertbury, DE",PyTorch,1,0,0,0,0,0,0,1,0
+656,Quant Researcher,Ellis-Bailey,"New Kristenburgh, VN",BigQuery,1,0,0,0,0,1,0,0,0
+657,NLP Engineer,Robinson Group,"South Daniel, OM","KDB+, BigQuery, FastAPI",3,0,0,1,1,1,0,0,0
+658,NLP Engineer,Goodwin-Ramirez,"New Vanessa, JO",BigQuery,1,0,0,0,0,1,0,0,0
+659,Quant Researcher,Bennett-Jackson,"Whitemouth, ZM","LangChain, MLflow, KDB+",3,1,1,0,1,0,0,0,0
+660,AI Product Manager,Bean-Chavez,"Jordanside, KR","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+661,ML Engineer,"Goodwin, Harrison and Lopez","Davidtown, AM",BigQuery,1,0,0,0,0,1,0,0,0
+662,ML Engineer,Gardner-Li,"Dustinberg, UZ","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+663,Computer Vision Engineer,Robinson-Hill,"Lake Melissahaven, TM",KDB+,1,0,0,0,1,0,0,0,0
+664,AI Researcher,Moore Inc,"Aimeestad, KM",FastAPI,1,0,0,1,0,0,0,0,0
+665,AI Researcher,"Fisher, Miller and Duarte","West Cassie, MD",TensorFlow,1,0,0,0,0,0,1,0,0
+666,NLP Engineer,"Clayton, Pratt and Stone","Stephanieside, AF",BigQuery,1,0,0,0,0,1,0,0,0
+667,Data Scientist,"Jones, Spencer and Bowers","Mooreside, GB",Scikit-learn,1,0,0,0,0,0,0,0,1
+668,NLP Engineer,Lyons Inc,"Wangside, UZ","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+669,Data Analyst,Robinson PLC,"West Brittanyland, MW","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+670,ML Engineer,"Lopez, Davis and Greene","Johnsonland, SM","KDB+, LangChain, PyTorch",3,0,1,0,1,0,0,1,0
+671,Data Scientist,"Williams, Romero and Goodwin","Gregorybury, MM","PyTorch, Scikit-learn, KDB+",3,0,0,0,1,0,0,1,1
+672,Computer Vision Engineer,Martinez LLC,"Timothytown, KZ","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+673,Quant Researcher,Lopez-Hughes,"Kentville, BT","LangChain, PyTorch, BigQuery",3,0,1,0,0,1,0,1,0
+674,NLP Engineer,"Palmer, Moody and Wallace","South Amanda, BE","PyTorch, MLflow, KDB+",3,1,0,0,1,0,0,1,0
+675,Computer Vision Engineer,Lawrence PLC,"Saraview, BR","FastAPI, PyTorch, MLflow",3,1,0,1,0,0,0,1,0
+676,NLP Engineer,Harrison-Stevenson,"Barberfurt, AD","MLflow, BigQuery",2,1,0,0,0,1,0,0,0
+677,ML Engineer,Webb-Garcia,"Andreaton, RO",LangChain,1,0,1,0,0,0,0,0,0
+678,Data Scientist,Williams-Leonard,"Samuelside, BI",KDB+,1,0,0,0,1,0,0,0,0
+679,AI Researcher,Fox Group,"West Madisonchester, NP","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+680,AI Product Manager,"Taylor, Ruiz and Hernandez","East Davidbury, SK","Scikit-learn, LangChain, TensorFlow",3,0,1,0,0,0,1,0,1
+681,Computer Vision Engineer,"Taylor, Thompson and Good","South Patriciaport, RS",PyTorch,1,0,0,0,0,0,0,1,0
+682,AI Researcher,"Wheeler, Hall and Gonzalez","New Devinview, AG",LangChain,1,0,1,0,0,0,0,0,0
+683,AI Product Manager,"Bell, Jones and Munoz","Angelastad, DE",FastAPI,1,0,0,1,0,0,0,0,0
+684,Computer Vision Engineer,"Moyer, Nelson and Johnston","Jordanport, NG",KDB+,1,0,0,0,1,0,0,0,0
+685,Quant Researcher,"Shepard, Anderson and Robinson","Lake Stacey, SE","TensorFlow, LangChain, PyTorch",3,0,1,0,0,0,1,1,0
+686,AI Researcher,Smith and Sons,"Collinsland, MA",MLflow,1,1,0,0,0,0,0,0,0
+687,Quant Researcher,"Mathews, Chavez and Scott","Hamiltonport, WS",LangChain,1,0,1,0,0,0,0,0,0
+688,AI Researcher,Wiley LLC,"West Manuel, RW",LangChain,1,0,1,0,0,0,0,0,0
+689,Data Analyst,"Lawrence, Smith and Powell","North Jessicamouth, BT",BigQuery,1,0,0,0,0,1,0,0,0
+690,NLP Engineer,"Allen, Harvey and Jordan","Montoyabury, AR",TensorFlow,1,0,0,0,0,0,1,0,0
+691,AI Product Manager,Shaw-Knapp,"North Williamside, FJ","FastAPI, LangChain, KDB+",3,0,1,1,1,0,0,0,0
+692,Computer Vision Engineer,Phillips Ltd,"North Davidshire, WS","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+693,Computer Vision Engineer,Lang-Hill,"Stephanieville, DE","TensorFlow, BigQuery, FastAPI",3,0,0,1,0,1,1,0,0
+694,Computer Vision Engineer,Hernandez LLC,"Danielberg, DZ","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+695,NLP Engineer,"Bradford, Ryan and Edwards","Port Austinfort, SZ","LangChain, Scikit-learn, KDB+",3,0,1,0,1,0,0,0,1
+696,Data Analyst,Lang PLC,"Jaredberg, LT",FastAPI,1,0,0,1,0,0,0,0,0
+697,Data Analyst,Rivas Inc,"West Rick, CY",BigQuery,1,0,0,0,0,1,0,0,0
+698,NLP Engineer,Spencer-Watson,"Wilsonfurt, VU",FastAPI,1,0,0,1,0,0,0,0,0
+699,AI Product Manager,"Ward, Morton and Taylor","Lisaview, GM","KDB+, MLflow, Scikit-learn",3,1,0,0,1,0,0,0,1
+700,Quant Researcher,"Deleon, Waters and Perez","Lake Michael, AU",PyTorch,1,0,0,0,0,0,0,1,0
+701,Quant Researcher,"Thomas, Park and Smith","North Shaneland, LB","TensorFlow, MLflow, KDB+",3,1,0,0,1,0,1,0,0
+702,Data Analyst,Wilcox PLC,"East Leonard, CM","PyTorch, FastAPI, BigQuery",3,0,0,1,0,1,0,1,0
+703,NLP Engineer,Sanders-English,"Jeanettefurt, SL",FastAPI,1,0,0,1,0,0,0,0,0
+704,Quant Researcher,Jackson-Johnson,"Smithton, BH","PyTorch, KDB+, MLflow",3,1,0,0,1,0,0,1,0
+705,Quant Researcher,"Morgan, Moore and Ramirez","Alexanderfurt, BE","KDB+, MLflow, TensorFlow",3,1,0,0,1,0,1,0,0
+706,Quant Researcher,Ellis PLC,"Youngton, WS",LangChain,1,0,1,0,0,0,0,0,0
+707,ML Engineer,Rojas-Mckinney,"East Anthony, CM","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+708,Quant Researcher,Gilbert-Gonzalez,"West Anthonyfurt, CV",LangChain,1,0,1,0,0,0,0,0,0
+709,Data Analyst,Martinez-Martin,"Port Brian, LC",FastAPI,1,0,0,1,0,0,0,0,0
+710,Computer Vision Engineer,Ayers-Davis,"Tracyshire, SC",Scikit-learn,1,0,0,0,0,0,0,0,1
+711,Computer Vision Engineer,Mcintosh Inc,"Jameshaven, CF","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+712,NLP Engineer,"Barnes, Cervantes and Ramos","Kristinaville, LT","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+713,Quant Researcher,Harris-Flores,"Donnaland, FJ","MLflow, LangChain, PyTorch",3,1,1,0,0,0,0,1,0
+714,AI Researcher,"Montgomery, Bradley and Brandt","North Royborough, IR","MLflow, BigQuery",2,1,0,0,0,1,0,0,0
+715,NLP Engineer,Wright-Ochoa,"Williamsfort, BZ","PyTorch, FastAPI, TensorFlow",3,0,0,1,0,0,1,1,0
+716,NLP Engineer,Sanders Group,"Port Robinchester, NG",TensorFlow,1,0,0,0,0,0,1,0,0
+717,Data Scientist,Meadows Group,"Joshuamouth, TN",LangChain,1,0,1,0,0,0,0,0,0
+718,AI Researcher,Thompson-Patterson,"Michaelville, BG","TensorFlow, PyTorch, FastAPI",3,0,0,1,0,0,1,1,0
+719,Data Analyst,"Edwards, Moore and Miller","North Justinmouth, MG",MLflow,1,1,0,0,0,0,0,0,0
+720,NLP Engineer,Martinez and Sons,"Cooperport, WS","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+721,Data Analyst,Shepard-Kelly,"New Susan, FJ","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+722,ML Engineer,Lambert Inc,"West Ericshire, ZA","MLflow, BigQuery",2,1,0,0,0,1,0,0,0
+723,Data Analyst,"Blankenship, Greer and Hernandez","Port Jessica, PG","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+724,Computer Vision Engineer,Benson LLC,"Curtischester, MN","MLflow, FastAPI",2,1,0,1,0,0,0,0,0
+725,AI Researcher,Martinez-Braun,"Lake Patricia, VC",BigQuery,1,0,0,0,0,1,0,0,0
+726,Data Analyst,Powell-Moreno,"South Jamesstad, MV","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+727,ML Engineer,Pitts-Fuentes,"Matthewmouth, DK","KDB+, PyTorch, FastAPI",3,0,0,1,1,0,0,1,0
+728,Quant Researcher,Allen Ltd,"Cruzmouth, MY","PyTorch, TensorFlow",2,0,0,0,0,0,1,1,0
+729,NLP Engineer,"Anderson, Reyes and Perez","Smithview, BS","PyTorch, Scikit-learn, MLflow",3,1,0,0,0,0,0,1,1
+730,ML Engineer,Boyd-Brooks,"Gamblemouth, TH","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+731,Quant Researcher,Hill LLC,"West Mary, MZ","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+732,AI Product Manager,Oconnor-Russell,"South Tarabury, GT","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+733,AI Product Manager,Jensen-Adams,"New Bethburgh, IL","TensorFlow, FastAPI, LangChain",3,0,1,1,0,0,1,0,0
+734,ML Engineer,Smith-Coleman,"Lake Scottfort, GN","Scikit-learn, MLflow, BigQuery",3,1,0,0,0,1,0,0,1
+735,Data Scientist,"Rose, Johnson and Cook","West Mariaberg, HU","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+736,Computer Vision Engineer,Davies-Vazquez,"Karenborough, LK","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+737,Computer Vision Engineer,"Frazier, Torres and Humphrey","Michaelstad, HN","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+738,Data Scientist,Chen and Sons,"South Kristymouth, SI","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+739,ML Engineer,"Kramer, Mccall and Simpson","Brianfort, BD","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+740,AI Product Manager,Lee LLC,"Watkinston, MM","MLflow, BigQuery, KDB+",3,1,0,0,1,1,0,0,0
+741,AI Researcher,Bennett-Johnson,"West Katherineview, GR","BigQuery, LangChain",2,0,1,0,0,1,0,0,0
+742,ML Engineer,Butler-Reese,"Port Connieville, FR",FastAPI,1,0,0,1,0,0,0,0,0
+743,Computer Vision Engineer,Hernandez-Schwartz,"South Annafort, KI","LangChain, MLflow, FastAPI",3,1,1,1,0,0,0,0,0
+744,AI Researcher,"Reynolds, James and Holland","Wrightton, NL","MLflow, PyTorch, TensorFlow",3,1,0,0,0,0,1,1,0
+745,AI Product Manager,Peterson Inc,"Michaelmouth, BH","KDB+, PyTorch",2,0,0,0,1,0,0,1,0
+746,ML Engineer,"Johnson, Gomez and Simpson","Yangstad, BE",Scikit-learn,1,0,0,0,0,0,0,0,1
+747,Data Scientist,"Hughes, Hoover and Reyes","South Jason, SY","MLflow, FastAPI, PyTorch",3,1,0,1,0,0,0,1,0
+748,NLP Engineer,Ibarra-Garcia,"Armstrongburgh, LR","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+749,AI Researcher,Stafford Ltd,"Lake Andrewstad, PG","KDB+, Scikit-learn",2,0,0,0,1,0,0,0,1
+750,AI Product Manager,Roberts-Green,"Jonesmouth, ER",KDB+,1,0,0,0,1,0,0,0,0
+751,NLP Engineer,Graham-Cruz,"Port Pamela, BO","PyTorch, BigQuery, TensorFlow",3,0,0,0,0,1,1,1,0
+752,Computer Vision Engineer,"Hernandez, Carrillo and Garza","East Glennville, MH",TensorFlow,1,0,0,0,0,0,1,0,0
+753,Computer Vision Engineer,"Kelley, Mathews and Serrano","Whitestad, TV","PyTorch, KDB+, BigQuery",3,0,0,0,1,1,0,1,0
+754,ML Engineer,Norton-White,"Bishopstad, MU","KDB+, PyTorch, TensorFlow",3,0,0,0,1,0,1,1,0
+755,ML Engineer,Leonard-Cooper,"South Nicolasshire, NA","Scikit-learn, KDB+, FastAPI",3,0,0,1,1,0,0,0,1
+756,Computer Vision Engineer,"Patel, Davis and Anderson","Port Kevin, FJ",FastAPI,1,0,0,1,0,0,0,0,0
+757,ML Engineer,"White, Valencia and Humphrey","West Lori, VA","FastAPI, MLflow",2,1,0,1,0,0,0,0,0
+758,Data Analyst,Taylor PLC,"West Whitney, BW",PyTorch,1,0,0,0,0,0,0,1,0
+759,NLP Engineer,White-Hayes,"West William, MM","KDB+, Scikit-learn",2,0,0,0,1,0,0,0,1
+760,ML Engineer,Hill Inc,"West Margaretland, SI",TensorFlow,1,0,0,0,0,0,1,0,0
+761,Computer Vision Engineer,Mcdowell-Thompson,"Nathanville, GH",TensorFlow,1,0,0,0,0,0,1,0,0
+762,AI Product Manager,Hampton-Brooks,"North Sheryltown, IQ","Scikit-learn, FastAPI, LangChain",3,0,1,1,0,0,0,0,1
+763,Data Scientist,Hartman Inc,"Shannonfort, ZM","Scikit-learn, LangChain, FastAPI",3,0,1,1,0,0,0,0,1
+764,AI Researcher,"Gray, Gonzalez and Moore","Susanland, JO","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+765,NLP Engineer,Mcgee and Sons,"Lopezville, TW","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+766,AI Product Manager,Zimmerman-Becker,"Jamiestad, KE","BigQuery, PyTorch, TensorFlow",3,0,0,0,0,1,1,1,0
+767,ML Engineer,Bray-Hayden,"Cruzhaven, KI",BigQuery,1,0,0,0,0,1,0,0,0
+768,Data Analyst,"Adams, Mitchell and Stanley","South Marissa, CZ",Scikit-learn,1,0,0,0,0,0,0,0,1
+769,Quant Researcher,Cameron Group,"Franciscofort, MT","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+770,Data Analyst,Crawford Ltd,"East Brian, UZ",PyTorch,1,0,0,0,0,0,0,1,0
+771,Data Analyst,"Nunez, Reed and Dominguez","Port Stacyville, AO","KDB+, MLflow, TensorFlow",3,1,0,0,1,0,1,0,0
+772,AI Researcher,Martinez-Jacobs,"North Josephhaven, CZ","FastAPI, KDB+, MLflow",3,1,0,1,1,0,0,0,0
+773,Quant Researcher,Smith-Jones,"Ramirezville, IT","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+774,AI Product Manager,Davis Inc,"Lake Reneefurt, NG","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+775,ML Engineer,Taylor and Sons,"West Robertborough, UG",LangChain,1,0,1,0,0,0,0,0,0
+776,ML Engineer,Burns-Lewis,"West Austinland, JO","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+777,Quant Researcher,Khan Inc,"Ashleyview, KR","KDB+, Scikit-learn",2,0,0,0,1,0,0,0,1
+778,Quant Researcher,"Hall, Golden and Randall","North Susanfort, CO","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+779,AI Researcher,Anderson Inc,"East Alyssaland, SM",MLflow,1,1,0,0,0,0,0,0,0
+780,Data Analyst,Harris and Sons,"Amandabury, GW","PyTorch, Scikit-learn, BigQuery",3,0,0,0,0,1,0,1,1
+781,Computer Vision Engineer,"Thomas, Horton and Evans","Ellisonland, LI",TensorFlow,1,0,0,0,0,0,1,0,0
+782,NLP Engineer,Lee Group,"North Hollyport, JP",FastAPI,1,0,0,1,0,0,0,0,0
+783,Data Scientist,Coleman-Brown,"South Brooketon, LT","TensorFlow, KDB+, Scikit-learn",3,0,0,0,1,0,1,0,1
+784,Data Analyst,"Walker, Miller and Williams","New Jonathanview, ME","KDB+, TensorFlow, Scikit-learn",3,0,0,0,1,0,1,0,1
+785,AI Researcher,Graham Group,"South Marcport, NI","KDB+, PyTorch",2,0,0,0,1,0,0,1,0
+786,Data Scientist,Wilcox-Orozco,"Stuartbury, DM","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+787,Quant Researcher,Fry-Sanders,"Port Christinaburgh, TV",FastAPI,1,0,0,1,0,0,0,0,0
+788,AI Researcher,"Herrera, Dean and Wright","Roachchester, VU","MLflow, LangChain, Scikit-learn",3,1,1,0,0,0,0,0,1
+789,ML Engineer,Black Ltd,"Angelafurt, GN",BigQuery,1,0,0,0,0,1,0,0,0
+790,AI Product Manager,Maldonado-Reyes,"Nicholasstad, NO","Scikit-learn, FastAPI",2,0,0,1,0,0,0,0,1
+791,ML Engineer,Jones-Jordan,"Walkerport, NR","Scikit-learn, TensorFlow, MLflow",3,1,0,0,0,0,1,0,1
+792,Computer Vision Engineer,Stafford-Fuller,"New Danielville, ZA","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+793,AI Product Manager,"Dickerson, Tate and Mason","Booneshire, FI","LangChain, KDB+, BigQuery",3,0,1,0,1,1,0,0,0
+794,AI Researcher,Anderson-Glenn,"Jessemouth, MK","MLflow, LangChain, Scikit-learn",3,1,1,0,0,0,0,0,1
+795,Data Analyst,"Elliott, Campbell and Moore","Harriston, GE","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+796,Data Scientist,"Garcia, Murphy and Clark","Payneburgh, BS","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+797,Quant Researcher,Allen-Sutton,"South Kaitlyn, BF","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+798,AI Researcher,"Snow, Welch and Meyer","South Thomasbury, NA","FastAPI, LangChain, PyTorch",3,0,1,1,0,0,0,1,0
+799,ML Engineer,Farley LLC,"Garciaberg, VE",FastAPI,1,0,0,1,0,0,0,0,0
+800,Quant Researcher,Smith Group,"East Nicholas, BT",MLflow,1,1,0,0,0,0,0,0,0
+801,NLP Engineer,Suarez Group,"Coxland, CV","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+802,Data Analyst,"Haas, Bryant and Scott","Connorport, BI","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+803,Data Scientist,Hernandez-Rodriguez,"Jesseshire, GY","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+804,Computer Vision Engineer,"Robbins, Hall and Barnett","Lake Sarabury, JO","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+805,AI Researcher,Johnson-Kelly,"Lake Vickibury, MG",TensorFlow,1,0,0,0,0,0,1,0,0
+806,Computer Vision Engineer,"Cardenas, Kemp and Roberts","Lake Moniquemouth, PL",FastAPI,1,0,0,1,0,0,0,0,0
+807,Computer Vision Engineer,Henry-Mason,"Bentonhaven, KR",MLflow,1,1,0,0,0,0,0,0,0
+808,NLP Engineer,Miller PLC,"Lake Jamestown, MU","PyTorch, TensorFlow, Scikit-learn",3,0,0,0,0,0,1,1,1
+809,ML Engineer,Hopkins-Smith,"Pricefurt, ZW",BigQuery,1,0,0,0,0,1,0,0,0
+810,AI Product Manager,Miller-Riley,"Smithstad, NG",KDB+,1,0,0,0,1,0,0,0,0
+811,ML Engineer,Bauer Group,"Hortonbury, BR","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+812,Quant Researcher,Downs-Griffin,"Austinport, PL","TensorFlow, MLflow, Scikit-learn",3,1,0,0,0,0,1,0,1
+813,AI Product Manager,"Hunt, Ortiz and Erickson","Lake Laurenville, IS","KDB+, PyTorch, FastAPI",3,0,0,1,1,0,0,1,0
+814,Computer Vision Engineer,"Sanchez, Jackson and Fernandez","Lake Antonio, TR","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+815,Quant Researcher,Ward LLC,"North Shawnside, BT","FastAPI, KDB+, Scikit-learn",3,0,0,1,1,0,0,0,1
+816,Computer Vision Engineer,"James, Pearson and Roth","Bentleyville, FI","BigQuery, FastAPI, LangChain",3,0,1,1,0,1,0,0,0
+817,AI Product Manager,Woodard Inc,"Mcphersonbury, SM",TensorFlow,1,0,0,0,0,0,1,0,0
+818,ML Engineer,Perry-Mcmahon,"Knightville, CR","Scikit-learn, TensorFlow, FastAPI",3,0,0,1,0,0,1,0,1
+819,AI Researcher,"Galloway, Jordan and Cox","North Tina, NG","FastAPI, LangChain, TensorFlow",3,0,1,1,0,0,1,0,0
+820,Data Analyst,Jensen-Harris,"South Patriciaburgh, TT","Scikit-learn, KDB+",2,0,0,0,1,0,0,0,1
+821,Data Analyst,Hurley Ltd,"West Timothystad, ZM","KDB+, PyTorch",2,0,0,0,1,0,0,1,0
+822,ML Engineer,Waters Group,"Port Ryan, GM",TensorFlow,1,0,0,0,0,0,1,0,0
+823,Quant Researcher,Curry PLC,"Port Rebeccahaven, MN",KDB+,1,0,0,0,1,0,0,0,0
+824,AI Researcher,Reynolds-Castillo,"Josephfort, KN",PyTorch,1,0,0,0,0,0,0,1,0
+825,AI Researcher,"Gordon, Rose and Byrd","South Alexis, CV","Scikit-learn, KDB+, BigQuery",3,0,0,0,1,1,0,0,1
+826,AI Product Manager,"Andersen, Rose and Scott","Port Justinfort, NR","MLflow, PyTorch, FastAPI",3,1,0,1,0,0,0,1,0
+827,AI Product Manager,Ross Group,"South Joelport, AU","PyTorch, TensorFlow, KDB+",3,0,0,0,1,0,1,1,0
+828,NLP Engineer,"Myers, Bradley and Gilmore","Charlesside, MH",PyTorch,1,0,0,0,0,0,0,1,0
+829,AI Researcher,Mack and Sons,"North Jayberg, PY","MLflow, BigQuery",2,1,0,0,0,1,0,0,0
+830,Computer Vision Engineer,Bartlett PLC,"West Bailey, BE","PyTorch, Scikit-learn, TensorFlow",3,0,0,0,0,0,1,1,1
+831,Data Scientist,Thompson LLC,"Hortonmouth, MX","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+832,AI Product Manager,"Crawford, Schmidt and Gonzalez","Whitneyport, TN","Scikit-learn, KDB+",2,0,0,0,1,0,0,0,1
+833,AI Researcher,"Watson, Richardson and Baker","Hamiltonville, VE","BigQuery, PyTorch, MLflow",3,1,0,0,0,1,0,1,0
+834,ML Engineer,"Ruiz, Johnson and Christensen","Port Shane, ML",LangChain,1,0,1,0,0,0,0,0,0
+835,Data Scientist,Hernandez Ltd,"Chavezchester, CU","FastAPI, PyTorch, BigQuery",3,0,0,1,0,1,0,1,0
+836,ML Engineer,"Richmond, Jones and Reilly","Royborough, AG",KDB+,1,0,0,0,1,0,0,0,0
+837,AI Researcher,Martinez Inc,"Port Timothy, NA","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+838,AI Product Manager,Fisher Group,"Richardsonburgh, TH",KDB+,1,0,0,0,1,0,0,0,0
+839,Data Scientist,"Jones, Crawford and Kelly","East Ashleychester, NO","MLflow, LangChain, BigQuery",3,1,1,0,0,1,0,0,0
+840,Quant Researcher,"Boyd, Howard and Morgan","Lake Sarahfort, MX",BigQuery,1,0,0,0,0,1,0,0,0
+841,Data Scientist,Wood Inc,"Brownberg, AL",Scikit-learn,1,0,0,0,0,0,0,0,1
+842,Data Scientist,"Jackson, Yang and Freeman","East Wendyville, NR",TensorFlow,1,0,0,0,0,0,1,0,0
+843,NLP Engineer,Martin PLC,"Lewisville, KP","BigQuery, MLflow, Scikit-learn",3,1,0,0,0,1,0,0,1
+844,Data Scientist,"Burns, Suarez and Morrison","West Kyle, FM","Scikit-learn, LangChain, KDB+",3,0,1,0,1,0,0,0,1
+845,ML Engineer,"Russo, Sharp and Bailey","Port Bryanview, GE","KDB+, BigQuery, Scikit-learn",3,0,0,0,1,1,0,0,1
+846,AI Researcher,"Estrada, Smith and Baldwin","Robertshire, NE","FastAPI, MLflow, KDB+",3,1,0,1,1,0,0,0,0
+847,Quant Researcher,"Gregory, Nelson and Smith","Ronaldland, AD","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+848,AI Product Manager,Houston-Miller,"East Michaelberg, BY","LangChain, BigQuery, MLflow",3,1,1,0,0,1,0,0,0
+849,Computer Vision Engineer,"Smith, Wallace and Garza","Andersonberg, GD",MLflow,1,1,0,0,0,0,0,0,0
+850,AI Researcher,Ford Inc,"Petersonburgh, DZ",FastAPI,1,0,0,1,0,0,0,0,0
+851,Data Analyst,"Meadows, Wilkinson and Palmer","Rhondafurt, IQ","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+852,AI Researcher,Hess and Sons,"Lake Jameston, GR",LangChain,1,0,1,0,0,0,0,0,0
+853,NLP Engineer,Grimes-Sullivan,"Beckerberg, MA","Scikit-learn, FastAPI, LangChain",3,0,1,1,0,0,0,0,1
+854,NLP Engineer,"Weeks, Williams and Smith","North Kevinshire, RU","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+855,Data Scientist,Mcguire-Hayes,"Jenniferborough, CD","MLflow, Scikit-learn, BigQuery",3,1,0,0,0,1,0,0,1
+856,Data Scientist,"Williams, Adams and Dominguez","West Cathy, NO","Scikit-learn, BigQuery, MLflow",3,1,0,0,0,1,0,0,1
+857,AI Product Manager,Buchanan-James,"Lake Jacobport, SY",KDB+,1,0,0,0,1,0,0,0,0
+858,ML Engineer,Hall-Wilcox,"Jasontown, TV","BigQuery, PyTorch, FastAPI",3,0,0,1,0,1,0,1,0
+859,Data Analyst,"Brown, Gallagher and Scott","Powersfort, BB","BigQuery, PyTorch, KDB+",3,0,0,0,1,1,0,1,0
+860,ML Engineer,Miller-Cole,"Mirandatown, GR","BigQuery, MLflow, TensorFlow",3,1,0,0,0,1,1,0,0
+861,Computer Vision Engineer,Fox Ltd,"Whiteton, BS","MLflow, Scikit-learn",2,1,0,0,0,0,0,0,1
+862,NLP Engineer,Odonnell Group,"Kaylaport, LC","LangChain, PyTorch, MLflow",3,1,1,0,0,0,0,1,0
+863,Data Analyst,Schultz Inc,"Rileyville, QA",LangChain,1,0,1,0,0,0,0,0,0
+864,Data Scientist,"Robinson, Espinoza and Garcia","New Robyn, YE","Scikit-learn, BigQuery, KDB+",3,0,0,0,1,1,0,0,1
+865,Computer Vision Engineer,"Henson, Sawyer and Gordon","Brownmouth, ME","LangChain, KDB+, PyTorch",3,0,1,0,1,0,0,1,0
+866,AI Product Manager,Rodriguez-Morales,"Wandamouth, MY","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+867,ML Engineer,"Munoz, Parker and Marsh","Nicoleside, CD","LangChain, Scikit-learn, MLflow",3,1,1,0,0,0,0,0,1
+868,NLP Engineer,Collins Ltd,"Kennedymouth, MG","MLflow, FastAPI",2,1,0,1,0,0,0,0,0
+869,NLP Engineer,Sanchez-Camacho,"Port Michael, CH",Scikit-learn,1,0,0,0,0,0,0,0,1
+870,Computer Vision Engineer,Paul-Ellis,"Ayalaland, VA","LangChain, TensorFlow",2,0,1,0,0,0,1,0,0
+871,AI Researcher,Church LLC,"Melissaburgh, AL",PyTorch,1,0,0,0,0,0,0,1,0
+872,NLP Engineer,"Holt, Carlson and Shaffer","New Anthonyport, SC","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+873,Data Analyst,Wells and Sons,"South Jillside, CG",KDB+,1,0,0,0,1,0,0,0,0
+874,Data Analyst,Gomez-Anderson,"New Jennifer, ZW","LangChain, Scikit-learn, PyTorch",3,0,1,0,0,0,0,1,1
+875,ML Engineer,Robinson Group,"Port Haleyport, KE",FastAPI,1,0,0,1,0,0,0,0,0
+876,ML Engineer,Klein-Ramirez,"Davishaven, MW","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+877,Quant Researcher,Obrien-Kelley,"East Katiemouth, SA",LangChain,1,0,1,0,0,0,0,0,0
+878,Quant Researcher,Hernandez LLC,"Sherrimouth, GA",FastAPI,1,0,0,1,0,0,0,0,0
+879,Data Scientist,Bryan Inc,"Nguyenmouth, SK","MLflow, Scikit-learn",2,1,0,0,0,0,0,0,1
+880,AI Product Manager,Anderson PLC,"Lake Davidfort, BD","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+881,NLP Engineer,Evans Group,"Kylieside, MM",Scikit-learn,1,0,0,0,0,0,0,0,1
+882,Data Scientist,Garcia Inc,"West Sonya, GN",BigQuery,1,0,0,0,0,1,0,0,0
+883,Quant Researcher,Bennett Inc,"Wrightville, IT",MLflow,1,1,0,0,0,0,0,0,0
+884,ML Engineer,Brown-Jones,"Johnsonside, BG",LangChain,1,0,1,0,0,0,0,0,0
+885,ML Engineer,"Irwin, Flores and Fowler","North Virginia, UZ","Scikit-learn, LangChain, BigQuery",3,0,1,0,0,1,0,0,1
+886,Quant Researcher,"Olsen, Turner and Carpenter","East Michael, CH",Scikit-learn,1,0,0,0,0,0,0,0,1
+887,AI Researcher,Gray-Simmons,"South Mark, MK","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+888,AI Researcher,Garcia-Obrien,"Kimberlychester, BI","BigQuery, Scikit-learn",2,0,0,0,0,1,0,0,1
+889,Computer Vision Engineer,Travis-Murphy,"North Dennisview, CU","MLflow, Scikit-learn",2,1,0,0,0,0,0,0,1
+890,NLP Engineer,Perez Inc,"Nicolastown, SG",LangChain,1,0,1,0,0,0,0,0,0
+891,Data Scientist,Owen-Lopez,"Walkerton, UG",FastAPI,1,0,0,1,0,0,0,0,0
+892,ML Engineer,"Ashley, Owens and Garcia","Lake Davidport, PG",BigQuery,1,0,0,0,0,1,0,0,0
+893,NLP Engineer,Miranda Group,"Lake Sarahmouth, BI",Scikit-learn,1,0,0,0,0,0,0,0,1
+894,Quant Researcher,Carter Inc,"Rosemouth, LU","MLflow, TensorFlow, PyTorch",3,1,0,0,0,0,1,1,0
+895,Computer Vision Engineer,Norton Ltd,"Crystaltown, TL","KDB+, LangChain, BigQuery",3,0,1,0,1,1,0,0,0
+896,AI Researcher,Hernandez-Guerrero,"Joshuamouth, GQ",Scikit-learn,1,0,0,0,0,0,0,0,1
+897,Quant Researcher,"Harris, Braun and Patton","Port Stacyberg, MC","BigQuery, KDB+, TensorFlow",3,0,0,0,1,1,1,0,0
+898,Quant Researcher,Tate-Snow,"Port Katieborough, TD",KDB+,1,0,0,0,1,0,0,0,0
+899,Quant Researcher,Conner-Jones,"Jasonmouth, MX","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+900,NLP Engineer,Douglas-Ferguson,"Phillipsville, MN","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+901,Data Scientist,"Garcia, Moore and Fox","Craigmouth, VN","TensorFlow, MLflow",2,1,0,0,0,0,1,0,0
+902,AI Product Manager,Cooper-Bruce,"Andrewborough, MW",BigQuery,1,0,0,0,0,1,0,0,0
+903,ML Engineer,Mcintyre-Wagner,"West Karamouth, CY","Scikit-learn, FastAPI, LangChain",3,0,1,1,0,0,0,0,1
+904,ML Engineer,Jones-George,"South Kayla, ME",Scikit-learn,1,0,0,0,0,0,0,0,1
+905,Data Analyst,Tapia Group,"West Stuart, AU","LangChain, BigQuery, KDB+",3,0,1,0,1,1,0,0,0
+906,Quant Researcher,Carpenter Group,"Gonzalezville, HR","LangChain, PyTorch, MLflow",3,1,1,0,0,0,0,1,0
+907,NLP Engineer,Deleon-Lyons,"Josefurt, TO",PyTorch,1,0,0,0,0,0,0,1,0
+908,AI Product Manager,Petersen-Fuentes,"West Curtiston, AF",MLflow,1,1,0,0,0,0,0,0,0
+909,Computer Vision Engineer,Bryant PLC,"Austinville, MR",KDB+,1,0,0,0,1,0,0,0,0
+910,NLP Engineer,"Long, Harrington and Bryant","Lake Megan, MN","PyTorch, FastAPI, LangChain",3,0,1,1,0,0,0,1,0
+911,Data Scientist,Vaughn and Sons,"South Samanthabury, AR","LangChain, Scikit-learn",2,0,1,0,0,0,0,0,1
+912,ML Engineer,"Johnson, Yates and Lee","Maryview, MW",KDB+,1,0,0,0,1,0,0,0,0
+913,AI Product Manager,Esparza-Chen,"Robertsport, SC",TensorFlow,1,0,0,0,0,0,1,0,0
+914,ML Engineer,Hall-Lynn,"New Kimberlyland, ZA",BigQuery,1,0,0,0,0,1,0,0,0
+915,ML Engineer,Gutierrez-Flores,"Crawfordtown, PY","BigQuery, LangChain, Scikit-learn",3,0,1,0,0,1,0,0,1
+916,AI Researcher,Stanley-Stone,"Silvafort, MZ","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+917,AI Researcher,"Jones, Allen and Horton","New Stevenfurt, JO",PyTorch,1,0,0,0,0,0,0,1,0
+918,Quant Researcher,White-Everett,"Tracyborough, EG",FastAPI,1,0,0,1,0,0,0,0,0
+919,AI Product Manager,Mayo-Mullins,"Lake Michaelberg, VC","MLflow, Scikit-learn, LangChain",3,1,1,0,0,0,0,0,1
+920,Computer Vision Engineer,Wiggins and Sons,"Yvettefort, AT","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+921,AI Product Manager,"Larson, Vasquez and Bishop","East Lorifort, JO","PyTorch, TensorFlow, LangChain",3,0,1,0,0,0,1,1,0
+922,Data Scientist,Carter-Pittman,"Baileyburgh, MG","MLflow, FastAPI",2,1,0,1,0,0,0,0,0
+923,ML Engineer,Holmes-Sloan,"Port Carmen, SB","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+924,AI Product Manager,"Stevens, Smith and Mendez","Perkinstown, TN","TensorFlow, LangChain, PyTorch",3,0,1,0,0,0,1,1,0
+925,NLP Engineer,Pope Inc,"Pattonton, KZ","Scikit-learn, BigQuery, FastAPI",3,0,0,1,0,1,0,0,1
+926,Computer Vision Engineer,"Davis, Brown and Burke","South Nathanielville, PG",BigQuery,1,0,0,0,0,1,0,0,0
+927,Computer Vision Engineer,Evans-Scott,"Pearsonberg, TN",LangChain,1,0,1,0,0,0,0,0,0
+928,Data Analyst,Owen Ltd,"Sherriside, SN","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+929,Data Analyst,"Lynn, Davenport and Gonzales","South Ryan, IQ",PyTorch,1,0,0,0,0,0,0,1,0
+930,ML Engineer,Colon Ltd,"Angelamouth, IQ",KDB+,1,0,0,0,1,0,0,0,0
+931,Data Scientist,Barnett-Boyer,"Lake Michelle, MW","LangChain, MLflow, Scikit-learn",3,1,1,0,0,0,0,0,1
+932,AI Product Manager,Sanchez Inc,"Trevorhaven, BZ","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+933,Data Analyst,"Anderson, Ortiz and Stanley","Lake Andre, EG",FastAPI,1,0,0,1,0,0,0,0,0
+934,NLP Engineer,Parker PLC,"North Laurenmouth, MM",PyTorch,1,0,0,0,0,0,0,1,0
+935,Computer Vision Engineer,Hernandez-Taylor,"Shortburgh, CR",BigQuery,1,0,0,0,0,1,0,0,0
+936,Quant Researcher,Cantu and Sons,"West Mary, TJ","Scikit-learn, TensorFlow, KDB+",3,0,0,0,1,0,1,0,1
+937,Computer Vision Engineer,"Harrington, Clark and Carter","Warrenbury, WS",PyTorch,1,0,0,0,0,0,0,1,0
+938,NLP Engineer,"Hernandez, Myers and Ward","Danielville, NE","BigQuery, KDB+, FastAPI",3,0,0,1,1,1,0,0,0
+939,Quant Researcher,Price-Kelley,"Thomasfort, HN","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+940,NLP Engineer,Lopez Group,"West Toddmouth, VA","LangChain, BigQuery, KDB+",3,0,1,0,1,1,0,0,0
+941,AI Product Manager,Kidd LLC,"Jillport, US","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+942,Quant Researcher,"Williams, Poole and Anderson","North Paige, BS","MLflow, KDB+, FastAPI",3,1,0,1,1,0,0,0,0
+943,Computer Vision Engineer,Mcdowell-Davis,"Lake Aliciaberg, MC",Scikit-learn,1,0,0,0,0,0,0,0,1
+944,AI Researcher,"Pineda, Williams and George","Port Richard, KE","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+945,AI Product Manager,Peck-Olson,"Johnsonport, IE","MLflow, BigQuery, PyTorch",3,1,0,0,0,1,0,1,0
+946,AI Product Manager,"Johnson, Hodge and Shaffer","Port Jonathan, GR","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+947,NLP Engineer,Carlson Group,"Michaelfort, UA",BigQuery,1,0,0,0,0,1,0,0,0
+948,Quant Researcher,"Davis, Bailey and Hebert","Rayport, GM","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+949,Data Scientist,"Aguirre, Collins and Manning","Lake Ryan, RU","Scikit-learn, BigQuery, LangChain",3,0,1,0,0,1,0,0,1
+950,Quant Researcher,"Freeman, Foley and Smith","Michaelview, VC",LangChain,1,0,1,0,0,0,0,0,0
+951,Data Analyst,Acevedo-Frazier,"Ellisport, CY","MLflow, BigQuery, PyTorch",3,1,0,0,0,1,0,1,0
+952,Computer Vision Engineer,Davis PLC,"South Katherineton, LY","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+953,Computer Vision Engineer,Ford-Taylor,"Lake Melissa, MV",Scikit-learn,1,0,0,0,0,0,0,0,1
+954,Computer Vision Engineer,Sanchez LLC,"South Jilltown, IQ",TensorFlow,1,0,0,0,0,0,1,0,0
+955,AI Researcher,Armstrong Inc,"Davisstad, HN","Scikit-learn, FastAPI, LangChain",3,0,1,1,0,0,0,0,1
+956,Data Analyst,Gilbert Inc,"New Megantown, BT","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+957,Data Scientist,Miller Ltd,"North Dianaton, RU","TensorFlow, Scikit-learn, LangChain",3,0,1,0,0,0,1,0,1
+958,Data Scientist,Moore-Garner,"Hollyborough, MX","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+959,Data Analyst,Jenkins-Good,"Contreraston, LC","KDB+, MLflow",2,1,0,0,1,0,0,0,0
+960,Quant Researcher,Vance Ltd,"Wardbury, RW",KDB+,1,0,0,0,1,0,0,0,0
+961,Computer Vision Engineer,"Sellers, Williams and Ortiz","Matthewshire, SB",PyTorch,1,0,0,0,0,0,0,1,0
+962,Data Analyst,"Rodgers, Martinez and Zhang","North Shane, LR","BigQuery, FastAPI",2,0,0,1,0,1,0,0,0
+963,Data Scientist,Simon LLC,"West Michaelborough, BE","BigQuery, Scikit-learn, MLflow",3,1,0,0,0,1,0,0,1
+964,AI Product Manager,Flynn-Franco,"North Grant, MR",KDB+,1,0,0,0,1,0,0,0,0
+965,Computer Vision Engineer,Floyd-Smith,"East Willie, BO","FastAPI, MLflow",2,1,0,1,0,0,0,0,0
+966,Quant Researcher,"Bailey, Mccullough and Moon","Davidhaven, CL","PyTorch, BigQuery, TensorFlow",3,0,0,0,0,1,1,1,0
+967,Quant Researcher,"Kerr, Austin and Smith","Port Charles, GM","LangChain, MLflow, PyTorch",3,1,1,0,0,0,0,1,0
+968,Computer Vision Engineer,"Potter, Chapman and Christensen","Colemanfort, SM","Scikit-learn, KDB+, TensorFlow",3,0,0,0,1,0,1,0,1
+969,NLP Engineer,Francis-Jones,"North Jacqueline, SV",KDB+,1,0,0,0,1,0,0,0,0
+970,Computer Vision Engineer,"Stephens, Garcia and Yoder","South Caitlynchester, NL",Scikit-learn,1,0,0,0,0,0,0,0,1
+971,Computer Vision Engineer,Robbins-Burke,"Sherrichester, BN","BigQuery, PyTorch, Scikit-learn",3,0,0,0,0,1,0,1,1
+972,Data Scientist,"Hall, Savage and Walker","Bowersberg, SK","KDB+, MLflow, FastAPI",3,1,0,1,1,0,0,0,0
+973,AI Product Manager,Smith-Cross,"Anthonybury, ET",FastAPI,1,0,0,1,0,0,0,0,0
+974,AI Product Manager,Martinez-Stephens,"South Michellebury, GR","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+975,Data Scientist,"Barton, Wilson and Russell","Kristiemouth, DK",FastAPI,1,0,0,1,0,0,0,0,0
+976,Data Scientist,"Brown, Bernard and Flores","West Andrew, MD",TensorFlow,1,0,0,0,0,0,1,0,0
+977,AI Product Manager,Mendoza-Flores,"West Andrew, ID","TensorFlow, MLflow, BigQuery",3,1,0,0,0,1,1,0,0
+978,AI Product Manager,Bowman PLC,"Nicholshaven, HR","LangChain, TensorFlow",2,0,1,0,0,0,1,0,0
+979,ML Engineer,"Turner, Hernandez and White","North Alicia, IQ","BigQuery, KDB+, TensorFlow",3,0,0,0,1,1,1,0,0
+980,NLP Engineer,Davis Inc,"Port Tina, PE",MLflow,1,1,0,0,0,0,0,0,0
+981,Computer Vision Engineer,Zhang-Watson,"New Veronica, AL","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+982,Quant Researcher,"Harrison, Wallace and Chen","Port Catherinetown, VE","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+983,NLP Engineer,"Cruz, Cruz and Flores","New Alyssa, CI","KDB+, BigQuery, PyTorch",3,0,0,0,1,1,0,1,0
+984,Data Scientist,Garcia-Smith,"North Kevin, YE","PyTorch, LangChain, Scikit-learn",3,0,1,0,0,0,0,1,1
+985,ML Engineer,Castaneda Group,"Nobleside, CY","BigQuery, FastAPI",2,0,0,1,0,1,0,0,0
+986,NLP Engineer,"Sawyer, Frye and Jenkins","West Hayleyton, DJ",FastAPI,1,0,0,1,0,0,0,0,0
+987,AI Researcher,Bradshaw and Sons,"Kathrynfort, TO",BigQuery,1,0,0,0,0,1,0,0,0
+988,Computer Vision Engineer,"Cross, Johnson and Chan","Danielview, BT",FastAPI,1,0,0,1,0,0,0,0,0
+989,NLP Engineer,Jones LLC,"Taraborough, KG",MLflow,1,1,0,0,0,0,0,0,0
+990,AI Product Manager,Adams-Chapman,"Littleshire, CF","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+991,Data Analyst,Duran-Williams,"East Patrickfurt, BT",BigQuery,1,0,0,0,0,1,0,0,0
+992,Quant Researcher,Arnold Inc,"Jonesfurt, NL","LangChain, KDB+, BigQuery",3,0,1,0,1,1,0,0,0
+993,Data Scientist,Kirk Group,"Chasestad, LU","TensorFlow, BigQuery, Scikit-learn",3,0,0,0,0,1,1,0,1
+994,AI Researcher,Flynn-Kennedy,"Villaport, CO","PyTorch, FastAPI, KDB+",3,0,0,1,1,0,0,1,0
+995,Quant Researcher,Singleton-Roy,"Port Rodney, LR","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+996,Data Analyst,"Combs, Brown and Williams","Jessicatown, PH","KDB+, MLflow, FastAPI",3,1,0,1,1,0,0,0,0
+997,ML Engineer,Meyer-Reyes,"Port Christine, BH","MLflow, KDB+, Scikit-learn",3,1,0,0,1,0,0,0,1
+998,ML Engineer,Anderson LLC,"Elizabethton, PW","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+999,Data Analyst,Duncan-Reyes,"New Ryan, BW","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+1000,Data Scientist,"Davis, Murphy and Cox","Pittmanville, CR","KDB+, Scikit-learn, LangChain",3,0,1,0,1,0,0,0,1
+1001,ML Engineer,"Peterson, Brown and Mcdonald","Port Bernard, BY","TensorFlow, KDB+, FastAPI",3,0,0,1,1,0,1,0,0
+1002,Data Analyst,Turner and Sons,"Robertsmouth, MN",LangChain,1,0,1,0,0,0,0,0,0
+1003,ML Engineer,"Spears, Moore and Mccormick","South Lisa, IS","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+1004,Data Scientist,Shaw LLC,"New Johnnybury, LI",BigQuery,1,0,0,0,0,1,0,0,0
+1005,Data Analyst,Gill-Schmidt,"New Williambury, FR","TensorFlow, BigQuery, MLflow",3,1,0,0,0,1,1,0,0
+1006,Data Analyst,"Fuentes, Russo and Watson","East Amanda, GA",FastAPI,1,0,0,1,0,0,0,0,0
+1007,Quant Researcher,Weaver-Mills,"South Benjamin, PY",BigQuery,1,0,0,0,0,1,0,0,0
+1008,Quant Researcher,Lee-Levy,"West Lindsayfurt, LK","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+1009,ML Engineer,Anderson PLC,"Younghaven, KM",Scikit-learn,1,0,0,0,0,0,0,0,1
+1010,Quant Researcher,Murphy-Sosa,"North Patrick, SZ",TensorFlow,1,0,0,0,0,0,1,0,0
+1011,ML Engineer,Lawrence Group,"Lake Aliciachester, TM",FastAPI,1,0,0,1,0,0,0,0,0
+1012,NLP Engineer,Gonzales-Gardner,"Frazierberg, DO","PyTorch, LangChain, BigQuery",3,0,1,0,0,1,0,1,0
+1013,ML Engineer,"Padilla, Mann and Pierce","West Brandon, RW","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+1014,AI Researcher,"Vazquez, Mcknight and Vega","Ramseyview, TV","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+1015,Data Analyst,"Walker, Soto and Miles","Oconnorville, IT",TensorFlow,1,0,0,0,0,0,1,0,0
+1016,Computer Vision Engineer,Kelly-Walls,"East Ana, KN","LangChain, MLflow, KDB+",3,1,1,0,1,0,0,0,0
+1017,Data Analyst,Roberts-Watson,"Perryside, CZ",LangChain,1,0,1,0,0,0,0,0,0
+1018,NLP Engineer,"George, Hines and Galvan","East Rachelland, MH",Scikit-learn,1,0,0,0,0,0,0,0,1
+1019,Computer Vision Engineer,"Lam, Garcia and Lopez","Baldwinland, TV","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+1020,ML Engineer,"Vasquez, Grimes and Mooney","Brewerland, AT","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1021,Data Analyst,Mcneil-Nelson,"Duartebury, VA","MLflow, KDB+, TensorFlow",3,1,0,0,1,0,1,0,0
+1022,NLP Engineer,Wiggins-Rivera,"Andreashire, TO",MLflow,1,1,0,0,0,0,0,0,0
+1023,NLP Engineer,Morris-Swanson,"Howellburgh, NO","BigQuery, LangChain",2,0,1,0,0,1,0,0,0
+1024,AI Product Manager,Wong and Sons,"North Kristie, CL","Scikit-learn, PyTorch, MLflow",3,1,0,0,0,0,0,1,1
+1025,Data Analyst,"Davidson, Green and Johnson","West Tylerberg, JO","Scikit-learn, PyTorch",2,0,0,0,0,0,0,1,1
+1026,Data Analyst,Greer-Garner,"South Chadton, IQ","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+1027,NLP Engineer,"Nash, Solomon and Cameron","Davidfurt, IT","BigQuery, LangChain",2,0,1,0,0,1,0,0,0
+1028,Data Scientist,Jimenez Group,"Williamview, CU",TensorFlow,1,0,0,0,0,0,1,0,0
+1029,ML Engineer,Garcia-Adams,"Port Victoriaburgh, TN",TensorFlow,1,0,0,0,0,0,1,0,0
+1030,Quant Researcher,Munoz and Sons,"Smithmouth, UG","Scikit-learn, KDB+",2,0,0,0,1,0,0,0,1
+1031,Data Analyst,Griffin Ltd,"Harrisonhaven, PT",FastAPI,1,0,0,1,0,0,0,0,0
+1032,Computer Vision Engineer,Briggs-Miller,"Janicemouth, UZ","Scikit-learn, FastAPI, PyTorch",3,0,0,1,0,0,0,1,1
+1033,Quant Researcher,Dominguez Group,"New Melissashire, RW",MLflow,1,1,0,0,0,0,0,0,0
+1034,ML Engineer,"Cohen, Schneider and Scott","Port Nathan, TM","MLflow, BigQuery",2,1,0,0,0,1,0,0,0
+1035,Quant Researcher,Peterson Ltd,"Staffordstad, AZ","PyTorch, LangChain, TensorFlow",3,0,1,0,0,0,1,1,0
+1036,AI Product Manager,Ramsey-Hamilton,"West Kyliechester, AD",Scikit-learn,1,0,0,0,0,0,0,0,1
+1037,Computer Vision Engineer,Davidson-Clark,"Lake Erika, VC",LangChain,1,0,1,0,0,0,0,0,0
+1038,NLP Engineer,"Ramirez, Sanchez and Lucas","Johnsonfurt, GQ","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+1039,Data Analyst,"Atkinson, Branch and Horton","New Darren, ET",KDB+,1,0,0,0,1,0,0,0,0
+1040,Data Scientist,Hawkins Ltd,"North Madison, UZ",TensorFlow,1,0,0,0,0,0,1,0,0
+1041,AI Researcher,Moore Ltd,"Abigailmouth, NE","Scikit-learn, FastAPI",2,0,0,1,0,0,0,0,1
+1042,Data Analyst,Hughes-Henry,"West James, ER","MLflow, LangChain, PyTorch",3,1,1,0,0,0,0,1,0
+1043,Data Analyst,Johnson-Thomas,"Lake Curtis, BS","FastAPI, PyTorch, KDB+",3,0,0,1,1,0,0,1,0
+1044,AI Researcher,"Hunt, White and Schmidt","Josephstad, DZ",TensorFlow,1,0,0,0,0,0,1,0,0
+1045,AI Product Manager,Harris-Zavala,"West Michael, NI","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+1046,AI Researcher,Price PLC,"Madisonside, BH",BigQuery,1,0,0,0,0,1,0,0,0
+1047,Data Analyst,Craig-Lloyd,"Priceborough, LU","BigQuery, MLflow, KDB+",3,1,0,0,1,1,0,0,0
+1048,NLP Engineer,Bell-Perez,"Rossbury, SC","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+1049,Data Scientist,Cole-Clark,"South Meganmouth, LI",FastAPI,1,0,0,1,0,0,0,0,0
+1050,NLP Engineer,Knight-Lozano,"New Heatherbury, BG","TensorFlow, Scikit-learn, KDB+",3,0,0,0,1,0,1,0,1
+1051,Data Scientist,Burton LLC,"South Jamesville, JM",KDB+,1,0,0,0,1,0,0,0,0
+1052,Computer Vision Engineer,"Castillo, Bonilla and Mclaughlin","West Jasonmouth, IR","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+1053,NLP Engineer,Byrd-Christian,"West Theresashire, NI","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+1054,Data Scientist,Price-Sandoval,"Lake Markport, PK","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+1055,Data Scientist,Black-Simmons,"Allenburgh, BW","PyTorch, BigQuery, TensorFlow",3,0,0,0,0,1,1,1,0
+1056,Data Analyst,"Berger, Jackson and Hansen","Hopkinstown, KP","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+1057,Data Analyst,Kent-Preston,"North Nicolechester, CO",KDB+,1,0,0,0,1,0,0,0,0
+1058,Data Analyst,"Hartman, Rowe and Hernandez","East Joseph, GR","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+1059,Computer Vision Engineer,Morrison-Turner,"Mayerview, NI","KDB+, TensorFlow",2,0,0,0,1,0,1,0,0
+1060,AI Product Manager,Smith Inc,"New Adam, BN","LangChain, MLflow, FastAPI",3,1,1,1,0,0,0,0,0
+1061,Data Scientist,Gardner-Chavez,"Lopezfort, KH","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+1062,Data Scientist,Morris-Blake,"Lake Anthony, CL","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+1063,ML Engineer,Hunter-Ward,"Millerborough, WS","MLflow, Scikit-learn, FastAPI",3,1,0,1,0,0,0,0,1
+1064,Data Scientist,Hicks and Sons,"Port Franciscoside, GT","PyTorch, BigQuery, FastAPI",3,0,0,1,0,1,0,1,0
+1065,NLP Engineer,Torres-Clark,"West Jason, RO","PyTorch, KDB+, BigQuery",3,0,0,0,1,1,0,1,0
+1066,Data Analyst,Brown Ltd,"West Keithview, LU",LangChain,1,0,1,0,0,0,0,0,0
+1067,Quant Researcher,Kerr Ltd,"Juanburgh, TD","MLflow, PyTorch, TensorFlow",3,1,0,0,0,0,1,1,0
+1068,ML Engineer,"Hobbs, Moreno and Williams","Andrewmouth, GN","LangChain, PyTorch, KDB+",3,0,1,0,1,0,0,1,0
+1069,ML Engineer,"Brown, Giles and Thompson","North Mistyland, DJ",BigQuery,1,0,0,0,0,1,0,0,0
+1070,ML Engineer,Jordan Inc,"Joelland, MC",Scikit-learn,1,0,0,0,0,0,0,0,1
+1071,AI Product Manager,Rodriguez Inc,"Lake Debbie, SZ","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+1072,NLP Engineer,Evans-Alvarado,"Davidmouth, BJ","FastAPI, TensorFlow, BigQuery",3,0,0,1,0,1,1,0,0
+1073,AI Product Manager,"Phillips, Sanchez and Christensen","East Davidchester, NE",LangChain,1,0,1,0,0,0,0,0,0
+1074,NLP Engineer,"Sexton, Davis and Allen","Lake David, FI",Scikit-learn,1,0,0,0,0,0,0,0,1
+1075,Quant Researcher,"Gill, Russo and Hill","Gomezchester, UG",PyTorch,1,0,0,0,0,0,0,1,0
+1076,Data Analyst,"Walsh, Davis and Tanner","North Brettfurt, MH","TensorFlow, BigQuery, FastAPI",3,0,0,1,0,1,1,0,0
+1077,AI Researcher,Green Group,"Port Yvetteland, LK","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+1078,Data Analyst,"Wilson, Wilson and Austin","Mistyfurt, KP","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+1079,NLP Engineer,Williams-Thomas,"North Patricia, YE",PyTorch,1,0,0,0,0,0,0,1,0
+1080,NLP Engineer,"Thompson, Gibson and Simmons","Gutierreztown, TJ",FastAPI,1,0,0,1,0,0,0,0,0
+1081,AI Product Manager,"Bush, Dennis and Burke","Benitezfurt, ST","PyTorch, Scikit-learn, BigQuery",3,0,0,0,0,1,0,1,1
+1082,Data Analyst,Anderson and Sons,"Griffintown, KP","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+1083,Quant Researcher,"Russell, Wood and Robertson","Gonzalezstad, VN","MLflow, LangChain, BigQuery",3,1,1,0,0,1,0,0,0
+1084,Data Scientist,Johnson LLC,"South Christopher, FJ","TensorFlow, MLflow, Scikit-learn",3,1,0,0,0,0,1,0,1
+1085,ML Engineer,Kaufman LLC,"Port Ianfurt, LR","Scikit-learn, KDB+, PyTorch",3,0,0,0,1,0,0,1,1
+1086,Data Analyst,Murphy LLC,"Whitefort, NI","LangChain, FastAPI, PyTorch",3,0,1,1,0,0,0,1,0
+1087,NLP Engineer,Matthews-Collins,"Jonesville, TO","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+1088,AI Product Manager,Rivas PLC,"South Timothystad, CH",KDB+,1,0,0,0,1,0,0,0,0
+1089,Computer Vision Engineer,Alvarez PLC,"North Connorfurt, PA","KDB+, TensorFlow",2,0,0,0,1,0,1,0,0
+1090,Data Analyst,Best Inc,"Lake Melanie, VU",PyTorch,1,0,0,0,0,0,0,1,0
+1091,Quant Researcher,"Ochoa, Davidson and Thomas","Coryton, WS","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+1092,AI Product Manager,"Reilly, Barajas and Hughes","South Kathleen, MV","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+1093,Data Analyst,"Dixon, Wright and Smith","Markfort, NO","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+1094,Data Analyst,"Sawyer, Hall and Lowe","Nancyberg, AF","TensorFlow, MLflow, PyTorch",3,1,0,0,0,0,1,1,0
+1095,AI Product Manager,"Donaldson, Espinoza and Mills","Matthewsberg, DO",FastAPI,1,0,0,1,0,0,0,0,0
+1096,Computer Vision Engineer,Davis-Moore,"North Jessica, VC","FastAPI, KDB+, TensorFlow",3,0,0,1,1,0,1,0,0
+1097,NLP Engineer,Clark PLC,"New Austin, BZ",TensorFlow,1,0,0,0,0,0,1,0,0
+1098,ML Engineer,Lynch-Coffey,"Deborahton, CV","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+1099,AI Product Manager,Archer Ltd,"Allisonview, ET",Scikit-learn,1,0,0,0,0,0,0,0,1
+1100,AI Product Manager,"Estrada, Perry and Jackson","Eatonmouth, PW","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+1101,NLP Engineer,Shelton-Ellison,"Davistown, NA","PyTorch, FastAPI, MLflow",3,1,0,1,0,0,0,1,0
+1102,Data Scientist,Montgomery Inc,"Danielside, SZ",KDB+,1,0,0,0,1,0,0,0,0
+1103,AI Researcher,"Rios, Evans and Foster","Hernandezland, ZA","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+1104,NLP Engineer,"Garcia, Lopez and Santiago","New Jared, BB",Scikit-learn,1,0,0,0,0,0,0,0,1
+1105,AI Researcher,Bell Group,"Nicholaschester, KE",LangChain,1,0,1,0,0,0,0,0,0
+1106,Data Analyst,Stevens-Foster,"Blairside, GH","Scikit-learn, PyTorch, BigQuery",3,0,0,0,0,1,0,1,1
+1107,NLP Engineer,Sawyer PLC,"Bryceport, AO","MLflow, BigQuery, PyTorch",3,1,0,0,0,1,0,1,0
+1108,Quant Researcher,Hurley-Scott,"West Christian, SO","TensorFlow, BigQuery, MLflow",3,1,0,0,0,1,1,0,0
+1109,Quant Researcher,Black-Bennett,"Lake Toddmouth, IN","LangChain, TensorFlow, KDB+",3,0,1,0,1,0,1,0,0
+1110,AI Product Manager,Perez Group,"South Erikchester, GA","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+1111,Quant Researcher,"Saunders, Bradford and Sharp","Port Meganstad, GW","KDB+, LangChain, PyTorch",3,0,1,0,1,0,0,1,0
+1112,Quant Researcher,Hudson-Gordon,"Port Erikaburgh, PG",LangChain,1,0,1,0,0,0,0,0,0
+1113,ML Engineer,"Nelson, Maddox and Klein","Philipmouth, GQ","Scikit-learn, FastAPI",2,0,0,1,0,0,0,0,1
+1114,Data Scientist,"Clark, Price and Dickson","Lake Misty, MZ","Scikit-learn, FastAPI, TensorFlow",3,0,0,1,0,0,1,0,1
+1115,NLP Engineer,Gonzalez PLC,"Campbellmouth, IN","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+1116,NLP Engineer,Pierce Inc,"Collierchester, PH","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+1117,Data Scientist,"House, Bond and Myers","West Cathy, PG","LangChain, MLflow, TensorFlow",3,1,1,0,0,0,1,0,0
+1118,AI Researcher,Johns Inc,"Rodriguezstad, GN","KDB+, TensorFlow, FastAPI",3,0,0,1,1,0,1,0,0
+1119,Computer Vision Engineer,"Matthews, Mcdowell and Reynolds","Port Jeffstad, MD","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+1120,ML Engineer,Navarro-Costa,"Lawrenceton, BG","KDB+, PyTorch",2,0,0,0,1,0,0,1,0
+1121,AI Product Manager,Morris Inc,"Zunigaside, DM","KDB+, LangChain, Scikit-learn",3,0,1,0,1,0,0,0,1
+1122,AI Product Manager,"Miller, Pena and Spencer","East Timothy, BF","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+1123,Quant Researcher,"Davis, Sosa and Greene","North Kristafort, CV","MLflow, PyTorch, BigQuery",3,1,0,0,0,1,0,1,0
+1124,NLP Engineer,"Klein, Jordan and Lang","Scottport, SZ","TensorFlow, MLflow, LangChain",3,1,1,0,0,0,1,0,0
+1125,Data Analyst,"Valdez, Nguyen and Espinoza","Andreatown, SR","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+1126,Computer Vision Engineer,Patterson-Salazar,"Port Nicholas, KW","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+1127,ML Engineer,"Thomas, Greene and Munoz","Lake Jaime, VA","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+1128,NLP Engineer,Torres Ltd,"Grahambury, BR",FastAPI,1,0,0,1,0,0,0,0,0
+1129,Data Scientist,"Young, Peterson and Wood","New Masonton, KI","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+1130,NLP Engineer,Reilly PLC,"Cabrerafort, GW","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+1131,Data Scientist,Woods-Kelly,"Millerborough, AL",KDB+,1,0,0,0,1,0,0,0,0
+1132,Computer Vision Engineer,Moss-Jackson,"Christopherton, TM","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+1133,NLP Engineer,Johnson and Sons,"Joneschester, LK","PyTorch, MLflow, TensorFlow",3,1,0,0,0,0,1,1,0
+1134,Computer Vision Engineer,Green Group,"Ramostown, BI",FastAPI,1,0,0,1,0,0,0,0,0
+1135,AI Product Manager,Evans LLC,"Port Kelsey, KI","PyTorch, TensorFlow, Scikit-learn",3,0,0,0,0,0,1,1,1
+1136,AI Product Manager,Chambers PLC,"Johnberg, VC","PyTorch, MLflow, BigQuery",3,1,0,0,0,1,0,1,0
+1137,AI Product Manager,Conner-Young,"Port Amandaburgh, GA",BigQuery,1,0,0,0,0,1,0,0,0
+1138,Data Analyst,Morris LLC,"East Barrybury, GA","LangChain, FastAPI, KDB+",3,0,1,1,1,0,0,0,0
+1139,ML Engineer,Hawkins-Valdez,"Roseton, VE",FastAPI,1,0,0,1,0,0,0,0,0
+1140,NLP Engineer,Vance-Mcdowell,"Port Jessica, SG","MLflow, FastAPI",2,1,0,1,0,0,0,0,0
+1141,Quant Researcher,Wright LLC,"Sandrastad, IE","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+1142,Data Analyst,Silva LLC,"Lewisburgh, BF","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+1143,Quant Researcher,"Sanders, Rodriguez and Meyers","Port Kathyton, GQ",FastAPI,1,0,0,1,0,0,0,0,0
+1144,NLP Engineer,Allen Group,"Williamsville, MG",PyTorch,1,0,0,0,0,0,0,1,0
+1145,ML Engineer,Webb LLC,"Sylviaport, BS","KDB+, MLflow",2,1,0,0,1,0,0,0,0
+1146,ML Engineer,Harris-Brown,"East Kimberlyview, ME",PyTorch,1,0,0,0,0,0,0,1,0
+1147,Data Scientist,Stewart-White,"West Amber, HU","Scikit-learn, PyTorch, LangChain",3,0,1,0,0,0,0,1,1
+1148,AI Product Manager,"Roberts, Ford and Davis","Hannahfort, LS","KDB+, LangChain, BigQuery",3,0,1,0,1,1,0,0,0
+1149,Data Analyst,"Garcia, Blake and Gardner","North Cassandraborough, FJ",KDB+,1,0,0,0,1,0,0,0,0
+1150,ML Engineer,Brown-Fisher,"Lake Ruthport, JM",FastAPI,1,0,0,1,0,0,0,0,0
+1151,Computer Vision Engineer,Hayes PLC,"South Michael, GE","KDB+, PyTorch, BigQuery",3,0,0,0,1,1,0,1,0
+1152,NLP Engineer,"Mccoy, Barnes and Mercado","New Richardburgh, PS",FastAPI,1,0,0,1,0,0,0,0,0
+1153,ML Engineer,Herrera and Sons,"East Michael, AO","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+1154,Quant Researcher,Smith-Hansen,"North Michellestad, ME","TensorFlow, FastAPI, MLflow",3,1,0,1,0,0,1,0,0
+1155,AI Researcher,"Goodman, Watson and Norman","Davidshire, ES",KDB+,1,0,0,0,1,0,0,0,0
+1156,Data Analyst,Bennett PLC,"West Jennifertown, NP","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+1157,Quant Researcher,Brady-Jones,"Jasonbury, HT",TensorFlow,1,0,0,0,0,0,1,0,0
+1158,AI Product Manager,Walker and Sons,"New Amber, CL","MLflow, LangChain, FastAPI",3,1,1,1,0,0,0,0,0
+1159,Data Scientist,Bautista LLC,"Douglasberg, FM","FastAPI, KDB+, MLflow",3,1,0,1,1,0,0,0,0
+1160,ML Engineer,Church Ltd,"Jonathanland, FJ","KDB+, LangChain, MLflow",3,1,1,0,1,0,0,0,0
+1161,ML Engineer,Smith LLC,"New Sandraland, ZM","TensorFlow, MLflow",2,1,0,0,0,0,1,0,0
+1162,AI Researcher,"Acosta, Williams and Carter","Wrightland, ZW","Scikit-learn, FastAPI",2,0,0,1,0,0,0,0,1
+1163,Computer Vision Engineer,"Thornton, Pittman and Torres","Bowmanton, AG","BigQuery, Scikit-learn",2,0,0,0,0,1,0,0,1
+1164,Quant Researcher,Palmer Group,"Samanthahaven, CA","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+1165,Data Scientist,"Smith, Hancock and Bolton","Nicholasville, KN","KDB+, LangChain, BigQuery",3,0,1,0,1,1,0,0,0
+1166,AI Product Manager,"Shaffer, Wright and Morgan","South Richardtown, KP",Scikit-learn,1,0,0,0,0,0,0,0,1
+1167,Data Scientist,Proctor Inc,"Jeffreystad, GW",KDB+,1,0,0,0,1,0,0,0,0
+1168,NLP Engineer,"Ross, Barrera and Winters","East Seanview, GB","FastAPI, MLflow, Scikit-learn",3,1,0,1,0,0,0,0,1
+1169,Data Scientist,"Hernandez, Collins and Smith","Lake Jessicaside, DJ","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+1170,Computer Vision Engineer,"Nguyen, Shaffer and Thompson","South Danielle, TH","BigQuery, TensorFlow, KDB+",3,0,0,0,1,1,1,0,0
+1171,Data Scientist,"Nguyen, Brown and Edwards","Port Victoriaburgh, PG",MLflow,1,1,0,0,0,0,0,0,0
+1172,Quant Researcher,Bartlett Group,"West Robin, PY","KDB+, TensorFlow, Scikit-learn",3,0,0,0,1,0,1,0,1
+1173,AI Product Manager,"Moran, Ellis and Vargas","New Sethtown, ZW",TensorFlow,1,0,0,0,0,0,1,0,0
+1174,AI Product Manager,"Porter, Hernandez and Hall","Ambertown, LV","KDB+, TensorFlow, FastAPI",3,0,0,1,1,0,1,0,0
+1175,AI Product Manager,Hunter and Sons,"South Jasonville, RO","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+1176,ML Engineer,Moore Ltd,"Garyville, BZ","BigQuery, MLflow, TensorFlow",3,1,0,0,0,1,1,0,0
+1177,AI Product Manager,Diaz-Gray,"West Justinside, KI","PyTorch, BigQuery, Scikit-learn",3,0,0,0,0,1,0,1,1
+1178,Data Analyst,Poole-Scott,"Kellyhaven, GQ","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1179,Computer Vision Engineer,"Bishop, Finley and Duran","South Meganfort, CZ","PyTorch, LangChain, MLflow",3,1,1,0,0,0,0,1,0
+1180,AI Product Manager,Rivera Group,"Port Jennifer, CF","MLflow, FastAPI, Scikit-learn",3,1,0,1,0,0,0,0,1
+1181,Data Scientist,Blanchard LLC,"North Robertberg, CL","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+1182,Data Analyst,"Herman, Rivera and Gonzalez","East Jessica, PG","Scikit-learn, LangChain, BigQuery",3,0,1,0,0,1,0,0,1
+1183,AI Product Manager,"Mcmillan, Jensen and Olson","Rachelmouth, EG",LangChain,1,0,1,0,0,0,0,0,0
+1184,Data Scientist,"Mcbride, Davenport and Kidd","Port Leahland, GQ","LangChain, Scikit-learn",2,0,1,0,0,0,0,0,1
+1185,AI Researcher,"Lane, Diaz and Khan","Melaniemouth, RS","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+1186,AI Researcher,Taylor LLC,"Lopezfurt, AD","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+1187,ML Engineer,"Moss, Simmons and Elliott","Matthewville, US","LangChain, TensorFlow, MLflow",3,1,1,0,0,0,1,0,0
+1188,ML Engineer,"Crane, Robles and Arias","New Michaelmouth, KR","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+1189,Data Scientist,Martinez-Fuller,"Ruizbury, NZ","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+1190,AI Researcher,Wood-Johnson,"Gailland, SK","TensorFlow, Scikit-learn, PyTorch",3,0,0,0,0,0,1,1,1
+1191,ML Engineer,Martin Group,"Lake Nicole, GT","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+1192,AI Researcher,"Morrison, Wallace and Wade","East Cheryl, PG","MLflow, LangChain, Scikit-learn",3,1,1,0,0,0,0,0,1
+1193,Data Analyst,"Villa, Hall and Bishop","New Garytown, FI",MLflow,1,1,0,0,0,0,0,0,0
+1194,Data Scientist,Kennedy-Davis,"East Jessicaport, CG","BigQuery, FastAPI, PyTorch",3,0,0,1,0,1,0,1,0
+1195,Data Scientist,Anderson Group,"Turnerville, AO",PyTorch,1,0,0,0,0,0,0,1,0
+1196,Computer Vision Engineer,"Price, Moore and Kidd","Rachelview, KH","TensorFlow, BigQuery, MLflow",3,1,0,0,0,1,1,0,0
+1197,NLP Engineer,Carroll Group,"West Monica, TT",KDB+,1,0,0,0,1,0,0,0,0
+1198,AI Researcher,Woods-French,"South Meagan, GQ","PyTorch, Scikit-learn, KDB+",3,0,0,0,1,0,0,1,1
+1199,Data Scientist,"Miller, Gonzalez and Kelly","Kellyborough, PA",Scikit-learn,1,0,0,0,0,0,0,0,1
+1200,Data Scientist,Marquez and Sons,"Pooleview, NL","FastAPI, MLflow, PyTorch",3,1,0,1,0,0,0,1,0
+1201,Quant Researcher,"Anderson, Lucas and Clements","West Bethanyshire, HU",PyTorch,1,0,0,0,0,0,0,1,0
+1202,ML Engineer,Williams LLC,"East Nicholeberg, DE","MLflow, PyTorch, BigQuery",3,1,0,0,0,1,0,1,0
+1203,Data Scientist,Braun Inc,"Brooksbury, GE",BigQuery,1,0,0,0,0,1,0,0,0
+1204,NLP Engineer,"Williams, Carter and Wilson","Juliemouth, TR","MLflow, KDB+, Scikit-learn",3,1,0,0,1,0,0,0,1
+1205,Quant Researcher,Howard-Farrell,"Fishershire, CN",FastAPI,1,0,0,1,0,0,0,0,0
+1206,Quant Researcher,Richards-Adams,"Lake Kathleenville, AZ","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+1207,Data Scientist,Olson Group,"East Nicole, GA","FastAPI, MLflow, BigQuery",3,1,0,1,0,1,0,0,0
+1208,Data Analyst,Montgomery-Castro,"South Michelebury, AO","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+1209,AI Researcher,Cannon Group,"Port Andrew, AF","FastAPI, MLflow, LangChain",3,1,1,1,0,0,0,0,0
+1210,Data Scientist,Green-Freeman,"East Edwardtown, ME","FastAPI, TensorFlow, MLflow",3,1,0,1,0,0,1,0,0
+1211,Quant Researcher,"Sullivan, Spencer and Holland","Thomasfurt, VA","Scikit-learn, MLflow, FastAPI",3,1,0,1,0,0,0,0,1
+1212,ML Engineer,Barrett-Smith,"Jessicachester, MW","MLflow, BigQuery, FastAPI",3,1,0,1,0,1,0,0,0
+1213,Data Analyst,Vargas-Rodriguez,"Debraton, GT","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+1214,NLP Engineer,Gaines-Vance,"Cervantesmouth, FM","MLflow, TensorFlow, FastAPI",3,1,0,1,0,0,1,0,0
+1215,AI Product Manager,"Brown, Fox and Stokes","Marcmouth, CN",LangChain,1,0,1,0,0,0,0,0,0
+1216,Data Analyst,Sparks-Garrison,"New Andreastad, RO","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+1217,AI Researcher,"Payne, Swanson and Silva","North Jamesside, YE","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+1218,Data Analyst,Vargas-Edwards,"Adamtown, CH","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+1219,AI Researcher,Huynh PLC,"West Christopher, QA","LangChain, BigQuery, Scikit-learn",3,0,1,0,0,1,0,0,1
+1220,AI Product Manager,"Griffith, Ruiz and Jones","West Christina, BW",TensorFlow,1,0,0,0,0,0,1,0,0
+1221,Computer Vision Engineer,Flowers Group,"New Robin, NR","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+1222,ML Engineer,Deleon PLC,"North Brendaview, SE","LangChain, Scikit-learn",2,0,1,0,0,0,0,0,1
+1223,ML Engineer,Mcintosh-Mitchell,"North John, YE","MLflow, Scikit-learn, FastAPI",3,1,0,1,0,0,0,0,1
+1224,Quant Researcher,Davies-Valentine,"Dixontown, BY","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+1225,NLP Engineer,Collins Group,"Brandonville, FR","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+1226,AI Researcher,Fields-Ramirez,"East Alexandratown, BT",BigQuery,1,0,0,0,0,1,0,0,0
+1227,Quant Researcher,"Christensen, Heath and Lopez","Mcdonaldview, TT","LangChain, BigQuery, MLflow",3,1,1,0,0,1,0,0,0
+1228,Data Analyst,Cross-Randall,"Brianshire, KE","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+1229,Quant Researcher,Brewer-Bruce,"New Donnaville, AG","BigQuery, MLflow, FastAPI",3,1,0,1,0,1,0,0,0
+1230,AI Product Manager,"Henderson, Owens and Jones","Sullivanborough, TH","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+1231,AI Product Manager,Lee-Davis,"Gonzalesland, UZ",Scikit-learn,1,0,0,0,0,0,0,0,1
+1232,Data Scientist,Watson-Fernandez,"Mosesland, FJ","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+1233,AI Product Manager,"Benjamin, Jordan and Larsen","New Angelton, SM","PyTorch, FastAPI",2,0,0,1,0,0,0,1,0
+1234,Data Scientist,Moore LLC,"Willischester, ET",KDB+,1,0,0,0,1,0,0,0,0
+1235,Data Scientist,"Wilson, Roberts and Frank","Port Amy, FJ","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+1236,AI Product Manager,"Hernandez, Long and Hutchinson","Hayesport, CH","MLflow, KDB+, LangChain",3,1,1,0,1,0,0,0,0
+1237,NLP Engineer,"Huffman, Larson and Bryant","South Devinburgh, GM","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+1238,Quant Researcher,"Perry, Ford and Watson","Leeville, IR","LangChain, BigQuery, FastAPI",3,0,1,1,0,1,0,0,0
+1239,AI Researcher,Coffey Ltd,"Port Aprilhaven, MD","PyTorch, LangChain",2,0,1,0,0,0,0,1,0
+1240,AI Researcher,Lewis-Suarez,"New Brandonfurt, TJ",PyTorch,1,0,0,0,0,0,0,1,0
+1241,NLP Engineer,Dominguez Ltd,"Gillbury, LR","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+1242,AI Researcher,Bennett-Peck,"Port Ernest, PY",Scikit-learn,1,0,0,0,0,0,0,0,1
+1243,AI Researcher,Jones and Sons,"New Loriberg, OM",LangChain,1,0,1,0,0,0,0,0,0
+1244,Data Scientist,Benton-Dunn,"Justinmouth, BF","Scikit-learn, MLflow, KDB+",3,1,0,0,1,0,0,0,1
+1245,Data Analyst,Martin and Sons,"South Lauraport, MC","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+1246,Computer Vision Engineer,"Washington, Allen and Watts","Kyliehaven, UY","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+1247,NLP Engineer,"Bauer, Hayden and Reynolds","Matthewland, FI","Scikit-learn, PyTorch",2,0,0,0,0,0,0,1,1
+1248,AI Researcher,Williams-Hamilton,"West Sierra, LT",FastAPI,1,0,0,1,0,0,0,0,0
+1249,Quant Researcher,Walters LLC,"Lake Rodneyfort, BF",BigQuery,1,0,0,0,0,1,0,0,0
+1250,AI Researcher,"Davis, Hanson and Gaines","Lake Phyllisburgh, MY","TensorFlow, FastAPI, BigQuery",3,0,0,1,0,1,1,0,0
+1251,ML Engineer,"Garcia, Smith and James","Lake Gregoryshire, CD","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+1252,Data Analyst,Williams PLC,"Vanessafurt, TG","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+1253,Computer Vision Engineer,Powell Ltd,"New Donaldmouth, BG","Scikit-learn, KDB+, LangChain",3,0,1,0,1,0,0,0,1
+1254,Computer Vision Engineer,Bell-Miles,"East Heather, MX",Scikit-learn,1,0,0,0,0,0,0,0,1
+1255,AI Product Manager,Cohen-Gardner,"Bairdmouth, BF",MLflow,1,1,0,0,0,0,0,0,0
+1256,NLP Engineer,"Smith, Shepherd and Dawson","East Matthew, KW",MLflow,1,1,0,0,0,0,0,0,0
+1257,AI Researcher,Dennis-West,"West Carolberg, KW",MLflow,1,1,0,0,0,0,0,0,0
+1258,Computer Vision Engineer,"Cortez, Kirby and Harris","North George, LC",BigQuery,1,0,0,0,0,1,0,0,0
+1259,Data Scientist,Martin and Sons,"Mitchelltown, GE",KDB+,1,0,0,0,1,0,0,0,0
+1260,Quant Researcher,Jones-Romero,"Coxstad, PE",PyTorch,1,0,0,0,0,0,0,1,0
+1261,Data Scientist,"Mercer, Robinson and Rhodes","Jacksonborough, BH",MLflow,1,1,0,0,0,0,0,0,0
+1262,Data Analyst,White-Gomez,"Carlaton, BR","PyTorch, TensorFlow",2,0,0,0,0,0,1,1,0
+1263,Data Analyst,Morgan-Phillips,"Rodriguezchester, SK",FastAPI,1,0,0,1,0,0,0,0,0
+1264,AI Researcher,Bailey-York,"Brittanymouth, ME",FastAPI,1,0,0,1,0,0,0,0,0
+1265,AI Product Manager,Rodriguez-Walters,"Travistown, PS","PyTorch, Scikit-learn, KDB+",3,0,0,0,1,0,0,1,1
+1266,AI Researcher,Ortiz PLC,"Rochastad, BB","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+1267,Data Analyst,Green-Moore,"East Valerieville, KE",PyTorch,1,0,0,0,0,0,0,1,0
+1268,Data Scientist,"Underwood, Scott and Norris","Davisville, GQ","BigQuery, TensorFlow, MLflow",3,1,0,0,0,1,1,0,0
+1269,Data Scientist,Gonzalez-Gordon,"Jodyville, BA","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+1270,Quant Researcher,Gilmore Group,"North William, FJ","PyTorch, LangChain, BigQuery",3,0,1,0,0,1,0,1,0
+1271,Data Scientist,Scott-Jones,"Haneyview, KR","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+1272,NLP Engineer,Johnson-Peters,"North Daniel, AZ",LangChain,1,0,1,0,0,0,0,0,0
+1273,AI Researcher,"Black, Baker and Sanchez","West Josebury, IS",MLflow,1,1,0,0,0,0,0,0,0
+1274,Data Analyst,Durham Ltd,"Lake Marychester, CU","KDB+, MLflow",2,1,0,0,1,0,0,0,0
+1275,AI Researcher,Lee LLC,"South Feliciafurt, SA","PyTorch, FastAPI, Scikit-learn",3,0,0,1,0,0,0,1,1
+1276,AI Product Manager,Lindsey LLC,"West Lauren, FM","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+1277,AI Researcher,"Miller, Garcia and Juarez","Port Kevin, TV","Scikit-learn, LangChain, FastAPI",3,0,1,1,0,0,0,0,1
+1278,NLP Engineer,Matthews and Sons,"Port Crystal, SN","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+1279,Quant Researcher,Cannon-Phelps,"Lake Danielle, IE","FastAPI, MLflow",2,1,0,1,0,0,0,0,0
+1280,NLP Engineer,Anderson PLC,"Sandovalberg, BY",Scikit-learn,1,0,0,0,0,0,0,0,1
+1281,ML Engineer,Brady and Sons,"Stewartfort, AM","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+1282,Quant Researcher,Johnson Inc,"West Jason, CU",Scikit-learn,1,0,0,0,0,0,0,0,1
+1283,Data Analyst,"Gonzalez, Burnett and Alexander","North Paulburgh, BF","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+1284,NLP Engineer,Morris-Lee,"West Eric, ZA",Scikit-learn,1,0,0,0,0,0,0,0,1
+1285,Data Scientist,Baxter and Sons,"West Carolynside, TN",FastAPI,1,0,0,1,0,0,0,0,0
+1286,ML Engineer,"King, Hatfield and Small","Wheelerview, BZ",KDB+,1,0,0,0,1,0,0,0,0
+1287,Data Scientist,"Bailey, Chavez and Green","East Marcus, TH","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+1288,Data Analyst,"Daniels, Lambert and Porter","Tylerberg, CU",LangChain,1,0,1,0,0,0,0,0,0
+1289,ML Engineer,Casey Ltd,"Priceland, TL",TensorFlow,1,0,0,0,0,0,1,0,0
+1290,ML Engineer,"Williams, Robinson and Scott","Parkborough, BI",TensorFlow,1,0,0,0,0,0,1,0,0
+1291,Data Scientist,Palmer Group,"Port Amyberg, CD",BigQuery,1,0,0,0,0,1,0,0,0
+1292,AI Researcher,Brooks Group,"New Jerome, CY","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+1293,Data Analyst,"Martinez, Nelson and Hernandez","Port Justin, RW","KDB+, PyTorch, FastAPI",3,0,0,1,1,0,0,1,0
+1294,Quant Researcher,Sanchez Ltd,"North Nicoleland, AF",Scikit-learn,1,0,0,0,0,0,0,0,1
+1295,Data Scientist,Riley Ltd,"Williamside, ST","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+1296,AI Researcher,Hunter Inc,"Lindabury, HN",KDB+,1,0,0,0,1,0,0,0,0
+1297,Quant Researcher,"Day, Jones and Castillo","North Carolfurt, MM","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+1298,NLP Engineer,"Tran, Williams and Ochoa","Lake Micheal, SC","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+1299,Computer Vision Engineer,"Deleon, Fuller and Hall","Parrishburgh, OM",MLflow,1,1,0,0,0,0,0,0,0
+1300,NLP Engineer,"Pierce, White and Poole","Port John, LU","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+1301,NLP Engineer,Johnson LLC,"Zacharyberg, PG",MLflow,1,1,0,0,0,0,0,0,0
+1302,NLP Engineer,Tucker LLC,"East Justin, FJ","MLflow, BigQuery, FastAPI",3,1,0,1,0,1,0,0,0
+1303,AI Product Manager,"Washington, Kirby and Kennedy","Lake Bryan, CD","FastAPI, LangChain, MLflow",3,1,1,1,0,0,0,0,0
+1304,Data Scientist,Mills LLC,"New Sonya, FJ","MLflow, LangChain, TensorFlow",3,1,1,0,0,0,1,0,0
+1305,AI Product Manager,Stewart Inc,"Bradleystad, KI","KDB+, MLflow",2,1,0,0,1,0,0,0,0
+1306,NLP Engineer,Mckay-Patton,"Kimfurt, MW",LangChain,1,0,1,0,0,0,0,0,0
+1307,Data Analyst,Cooley LLC,"East Jasonfort, MU",LangChain,1,0,1,0,0,0,0,0,0
+1308,Computer Vision Engineer,Williams PLC,"South Latoya, CV",Scikit-learn,1,0,0,0,0,0,0,0,1
+1309,Quant Researcher,"Carlson, Taylor and Johnson","Scottmouth, NP","LangChain, MLflow, Scikit-learn",3,1,1,0,0,0,0,0,1
+1310,NLP Engineer,Price LLC,"Brittanyborough, GN","TensorFlow, FastAPI, KDB+",3,0,0,1,1,0,1,0,0
+1311,AI Researcher,Adams and Sons,"Port Judyside, SL","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+1312,NLP Engineer,Roberts Ltd,"East Charles, CL","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+1313,Quant Researcher,"Johnson, Fuller and Rogers","New Antoniomouth, VN","PyTorch, TensorFlow",2,0,0,0,0,0,1,1,0
+1314,NLP Engineer,Morgan PLC,"Martinchester, SO",KDB+,1,0,0,0,1,0,0,0,0
+1315,Quant Researcher,Evans PLC,"West Karen, LI",FastAPI,1,0,0,1,0,0,0,0,0
+1316,Data Scientist,Young-Flores,"North Debbie, DJ",PyTorch,1,0,0,0,0,0,0,1,0
+1317,AI Researcher,"Howard, Owens and Coleman","Hollowayfort, QA","MLflow, TensorFlow, PyTorch",3,1,0,0,0,0,1,1,0
+1318,NLP Engineer,Jefferson-Cooper,"Marissabury, AO","MLflow, TensorFlow, FastAPI",3,1,0,1,0,0,1,0,0
+1319,ML Engineer,"Mosley, Schultz and Wilson","Roseland, IT",PyTorch,1,0,0,0,0,0,0,1,0
+1320,Quant Researcher,"Collier, Houston and Brown","Adrianstad, SG",PyTorch,1,0,0,0,0,0,0,1,0
+1321,ML Engineer,Raymond-Powell,"Alexchester, GT",PyTorch,1,0,0,0,0,0,0,1,0
+1322,ML Engineer,Booth-Gibbs,"Michaelchester, BR",LangChain,1,0,1,0,0,0,0,0,0
+1323,AI Product Manager,Henderson-Lewis,"Nelsonbury, AE","LangChain, TensorFlow",2,0,1,0,0,0,1,0,0
+1324,AI Product Manager,Rhodes PLC,"West Laura, SE",Scikit-learn,1,0,0,0,0,0,0,0,1
+1325,AI Researcher,"Yang, Wyatt and Jackson","Fitzgeraldmouth, TL",KDB+,1,0,0,0,1,0,0,0,0
+1326,NLP Engineer,Ortiz-Hogan,"Port Kellieview, FR","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+1327,AI Researcher,Morgan-Kelly,"Fryeside, UZ","MLflow, LangChain, BigQuery",3,1,1,0,0,1,0,0,0
+1328,Data Analyst,Kelly-Conrad,"Lake Kevinmouth, SE",KDB+,1,0,0,0,1,0,0,0,0
+1329,NLP Engineer,"Briggs, Chase and Thompson","Claudiaberg, DZ","PyTorch, Scikit-learn, KDB+",3,0,0,0,1,0,0,1,1
+1330,AI Product Manager,Payne-Reese,"Campbellville, BS","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+1331,AI Researcher,"Mullins, Black and Ferrell","North Donald, TL","LangChain, TensorFlow",2,0,1,0,0,0,1,0,0
+1332,AI Researcher,"Williams, Johnson and Williams","Charlesberg, DO",KDB+,1,0,0,0,1,0,0,0,0
+1333,Data Scientist,"Vega, Trujillo and Sanchez","East Lauraland, QA",TensorFlow,1,0,0,0,0,0,1,0,0
+1334,Computer Vision Engineer,Parker Group,"North Kelly, SI","PyTorch, FastAPI, Scikit-learn",3,0,0,1,0,0,0,1,1
+1335,AI Researcher,"Miranda, Gonzalez and Long","New Brettburgh, BR","LangChain, FastAPI, MLflow",3,1,1,1,0,0,0,0,0
+1336,AI Researcher,"Franklin, Saunders and Gray","Lake Kaitlyn, BH","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+1337,ML Engineer,"Smith, Montes and Rodriguez","Johnborough, IR","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+1338,ML Engineer,"Klein, Mason and Edwards","Carlsonside, KR",BigQuery,1,0,0,0,0,1,0,0,0
+1339,Data Scientist,Mcbride-Harrison,"East Angelaville, DM","FastAPI, MLflow, BigQuery",3,1,0,1,0,1,0,0,0
+1340,ML Engineer,Brown-Shaffer,"East Kimberlystad, LK","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+1341,Quant Researcher,"Mcintyre, Bradley and Scott","Lake Pamelafurt, BB","TensorFlow, MLflow",2,1,0,0,0,0,1,0,0
+1342,Quant Researcher,Harris-Miller,"New Matthew, GM","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+1343,Data Analyst,Meadows PLC,"Hendrickstown, UG","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+1344,Data Scientist,"Crawford, Perry and Reynolds","East Alexisbury, MC","BigQuery, FastAPI",2,0,0,1,0,1,0,0,0
+1345,AI Researcher,Taylor PLC,"Murrayton, ST","KDB+, Scikit-learn",2,0,0,0,1,0,0,0,1
+1346,Quant Researcher,"Herring, Smith and Fletcher","Monroemouth, GQ","PyTorch, FastAPI",2,0,0,1,0,0,0,1,0
+1347,AI Product Manager,Howard-Johnson,"Westville, ZA",MLflow,1,1,0,0,0,0,0,0,0
+1348,AI Product Manager,Kidd PLC,"Madisonstad, BT","LangChain, BigQuery, MLflow",3,1,1,0,0,1,0,0,0
+1349,ML Engineer,Mccoy Inc,"North Donnaside, FM","TensorFlow, MLflow",2,1,0,0,0,0,1,0,0
+1350,ML Engineer,"Riddle, Costa and Morris","Leeton, ZA",TensorFlow,1,0,0,0,0,0,1,0,0
+1351,AI Researcher,Allen-Middleton,"North Shannon, QA",LangChain,1,0,1,0,0,0,0,0,0
+1352,ML Engineer,"Walker, Parks and Ray","Sheltonburgh, DE","PyTorch, Scikit-learn, TensorFlow",3,0,0,0,0,0,1,1,1
+1353,Computer Vision Engineer,"Lee, Roberts and Jones","West Nathan, AF",MLflow,1,1,0,0,0,0,0,0,0
+1354,Data Analyst,"Cox, Jacobson and Gillespie","Delgadomouth, ID",MLflow,1,1,0,0,0,0,0,0,0
+1355,AI Product Manager,Stevenson-Flores,"East Kelli, TZ",KDB+,1,0,0,0,1,0,0,0,0
+1356,Quant Researcher,Fisher Inc,"Copelandfort, WS",PyTorch,1,0,0,0,0,0,0,1,0
+1357,AI Researcher,Santos and Sons,"Desireestad, MG","LangChain, TensorFlow",2,0,1,0,0,0,1,0,0
+1358,AI Product Manager,Washington Group,"Jasonstad, RW","LangChain, Scikit-learn, MLflow",3,1,1,0,0,0,0,0,1
+1359,Data Analyst,Hoffman LLC,"West Sarahborough, KG","MLflow, TensorFlow, Scikit-learn",3,1,0,0,0,0,1,0,1
+1360,AI Product Manager,Suarez LLC,"Hodgesborough, ER",KDB+,1,0,0,0,1,0,0,0,0
+1361,Computer Vision Engineer,Green Ltd,"Gordontown, CA","MLflow, LangChain, FastAPI",3,1,1,1,0,0,0,0,0
+1362,Computer Vision Engineer,Fischer-Guzman,"North James, UA","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+1363,Computer Vision Engineer,Powell-Hall,"Ortizside, PK","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+1364,ML Engineer,Price-Johnson,"Leestad, DE",Scikit-learn,1,0,0,0,0,0,0,0,1
+1365,AI Researcher,"Boyle, Griffin and Mitchell","Michaelport, GW",TensorFlow,1,0,0,0,0,0,1,0,0
+1366,Data Scientist,"Gould, Owen and Hahn","South Steven, NE","MLflow, FastAPI, BigQuery",3,1,0,1,0,1,0,0,0
+1367,Computer Vision Engineer,Fox Inc,"Wheelerborough, VC","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+1368,AI Researcher,"Martin, Morrison and Woods","South Veronicaberg, AD","PyTorch, FastAPI, LangChain",3,0,1,1,0,0,0,1,0
+1369,Quant Researcher,"Thornton, Johnson and Coleman","Daltontown, GD","LangChain, Scikit-learn, PyTorch",3,0,1,0,0,0,0,1,1
+1370,Quant Researcher,Nelson PLC,"North Linda, BG","KDB+, Scikit-learn",2,0,0,0,1,0,0,0,1
+1371,Data Scientist,"Peters, Martin and Gonzalez","South Jeremyborough, MM","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+1372,Data Analyst,Holmes-Palmer,"West Melanie, SG","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+1373,Computer Vision Engineer,"Bass, Carpenter and Bishop","West Rebeccachester, BE",Scikit-learn,1,0,0,0,0,0,0,0,1
+1374,AI Product Manager,Robinson Inc,"East Laurie, GH",LangChain,1,0,1,0,0,0,0,0,0
+1375,NLP Engineer,Moore-Ross,"Waltersfurt, KZ","PyTorch, MLflow, KDB+",3,1,0,0,1,0,0,1,0
+1376,AI Product Manager,Hernandez-Schneider,"South Ravenfurt, TW","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+1377,AI Product Manager,Singleton-Morris,"East Alyssahaven, ML","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+1378,AI Product Manager,"Smith, Barnett and Robles","Martinezburgh, IN","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+1379,Quant Researcher,"Anderson, Perez and Harrison","East Daniel, JM",PyTorch,1,0,0,0,0,0,0,1,0
+1380,ML Engineer,Woodard-Jones,"East Michael, CI",Scikit-learn,1,0,0,0,0,0,0,0,1
+1381,Computer Vision Engineer,"Taylor, Randolph and Robinson","Derekton, AL","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+1382,Data Scientist,"Scott, Nguyen and Gomez","West Austinbury, SC","FastAPI, BigQuery, TensorFlow",3,0,0,1,0,1,1,0,0
+1383,AI Researcher,"Stephens, Barnes and Howard","Lake Meganchester, CY","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1384,Data Scientist,Young-Cook,"North Stephen, LV",TensorFlow,1,0,0,0,0,0,1,0,0
+1385,Data Analyst,Perez-Mills,"Vanessamouth, ID","PyTorch, MLflow, Scikit-learn",3,1,0,0,0,0,0,1,1
+1386,ML Engineer,"Torres, Williams and Ramos","New Stephanieside, LI","BigQuery, LangChain, Scikit-learn",3,0,1,0,0,1,0,0,1
+1387,Quant Researcher,Mosley-Ferrell,"Paulberg, NE",FastAPI,1,0,0,1,0,0,0,0,0
+1388,Computer Vision Engineer,Roman Inc,"Lake Vanessashire, MW","LangChain, KDB+, PyTorch",3,0,1,0,1,0,0,1,0
+1389,ML Engineer,Johnson-Bell,"Toddfurt, LT",LangChain,1,0,1,0,0,0,0,0,0
+1390,AI Researcher,"Macias, King and Sanchez","South Jesus, NL","MLflow, PyTorch, LangChain",3,1,1,0,0,0,0,1,0
+1391,Quant Researcher,Franco and Sons,"North Amanda, JO",KDB+,1,0,0,0,1,0,0,0,0
+1392,Data Scientist,"Villa, Fowler and Oneill","New Jacob, CZ","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+1393,Quant Researcher,Cervantes-Parker,"Lake Jessicamouth, CH",TensorFlow,1,0,0,0,0,0,1,0,0
+1394,ML Engineer,Gonzalez Inc,"West Brian, VU","TensorFlow, LangChain, MLflow",3,1,1,0,0,0,1,0,0
+1395,ML Engineer,Suarez LLC,"North Richardburgh, HR","BigQuery, LangChain",2,0,1,0,0,1,0,0,0
+1396,NLP Engineer,"Cox, Taylor and Kent","New Jamesside, TJ",BigQuery,1,0,0,0,0,1,0,0,0
+1397,Computer Vision Engineer,Blanchard-Rodriguez,"South Corey, LY","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+1398,Data Analyst,"Schmitt, Terry and Ramirez","Petersonstad, MX","TensorFlow, BigQuery, FastAPI",3,0,0,1,0,1,1,0,0
+1399,NLP Engineer,Nixon-Martinez,"Jacksonfurt, EC",PyTorch,1,0,0,0,0,0,0,1,0
+1400,AI Product Manager,Jenkins Ltd,"New Jessicaburgh, SE","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+1401,AI Researcher,"Grant, Rosario and Williams","Lake Ryanville, AZ","TensorFlow, MLflow, PyTorch",3,1,0,0,0,0,1,1,0
+1402,ML Engineer,"Rogers, Nixon and Martinez","New Lauren, OM",Scikit-learn,1,0,0,0,0,0,0,0,1
+1403,AI Researcher,Carter-Lang,"Millerburgh, ZA","MLflow, BigQuery, LangChain",3,1,1,0,0,1,0,0,0
+1404,ML Engineer,"Moss, Salazar and Stanley","Kimberlyfurt, HN","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+1405,Data Analyst,Carlson-Allen,"New Kristinatown, GD","MLflow, FastAPI, LangChain",3,1,1,1,0,0,0,0,0
+1406,Quant Researcher,Robertson-Alvarez,"Lake Jacquelineside, SD","LangChain, TensorFlow, Scikit-learn",3,0,1,0,0,0,1,0,1
+1407,Computer Vision Engineer,Gutierrez-Solomon,"West James, FJ","Scikit-learn, KDB+",2,0,0,0,1,0,0,0,1
+1408,AI Product Manager,Holland PLC,"Michealburgh, BW","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+1409,AI Product Manager,"Gonzalez, Wilson and Barnett","Rogersstad, SL",BigQuery,1,0,0,0,0,1,0,0,0
+1410,ML Engineer,Tran and Sons,"Lake Jonathanhaven, SE","Scikit-learn, TensorFlow, PyTorch",3,0,0,0,0,0,1,1,1
+1411,NLP Engineer,"Pena, Figueroa and Gregory","West Christophermouth, UZ","KDB+, PyTorch, BigQuery",3,0,0,0,1,1,0,1,0
+1412,Data Scientist,Perez-Wilkins,"Lake Alice, TO","Scikit-learn, KDB+",2,0,0,0,1,0,0,0,1
+1413,AI Product Manager,Morales-Wallace,"Faulknerfort, SL",Scikit-learn,1,0,0,0,0,0,0,0,1
+1414,AI Product Manager,Steele-Hansen,"North Jaclynview, JM","KDB+, LangChain, BigQuery",3,0,1,0,1,1,0,0,0
+1415,Data Scientist,"Martin, Love and Gonzalez","Port Michael, CI",FastAPI,1,0,0,1,0,0,0,0,0
+1416,Quant Researcher,Wood PLC,"South Javierport, GB","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1417,Computer Vision Engineer,Watson and Sons,"Port Timothyhaven, MR","KDB+, BigQuery, FastAPI",3,0,0,1,1,1,0,0,0
+1418,Data Analyst,"Martinez, Frye and Murray","Zamorafort, BY","LangChain, KDB+, MLflow",3,1,1,0,1,0,0,0,0
+1419,Data Scientist,Austin-Garza,"Landryburgh, BO",KDB+,1,0,0,0,1,0,0,0,0
+1420,Quant Researcher,Cook-Francis,"Bridgesberg, AZ","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+1421,ML Engineer,Frank-Graham,"South Derrick, BT","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+1422,NLP Engineer,Miller Inc,"Alishire, YE","PyTorch, LangChain, BigQuery",3,0,1,0,0,1,0,1,0
+1423,Computer Vision Engineer,Hughes Group,"Susanville, JO",LangChain,1,0,1,0,0,0,0,0,0
+1424,AI Product Manager,Wallace LLC,"Williefort, SE","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1425,NLP Engineer,"Little, Bishop and Silva","Hubbardville, RU",Scikit-learn,1,0,0,0,0,0,0,0,1
+1426,AI Researcher,Randall-Lewis,"Lake Debbie, DZ","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+1427,ML Engineer,Jones PLC,"Lake Melissaburgh, NP","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+1428,Computer Vision Engineer,"Diaz, Thomas and Hahn","North Cody, QA","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+1429,Data Analyst,Strickland-Oliver,"Kimberlyland, SN","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+1430,NLP Engineer,Bartlett-Long,"New Chrisport, MC","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+1431,Data Scientist,"Martin, Reeves and Holt","Carolport, WS","BigQuery, LangChain",2,0,1,0,0,1,0,0,0
+1432,NLP Engineer,Roth-Caldwell,"Brownmouth, SA","TensorFlow, MLflow, BigQuery",3,1,0,0,0,1,1,0,0
+1433,ML Engineer,"Cherry, Hernandez and Powell","Carrollbury, TG","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+1434,Data Scientist,Ross-Harris,"East Austinchester, GT","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+1435,NLP Engineer,Riley-Little,"South Rachel, MU",LangChain,1,0,1,0,0,0,0,0,0
+1436,ML Engineer,"Bell, Boyer and Thompson","Stevehaven, VC",MLflow,1,1,0,0,0,0,0,0,0
+1437,AI Product Manager,"Carter, Green and Page","Port Breannastad, DJ","LangChain, TensorFlow, KDB+",3,0,1,0,1,0,1,0,0
+1438,Data Analyst,Fernandez-Campos,"Virginiaside, SA","FastAPI, KDB+, TensorFlow",3,0,0,1,1,0,1,0,0
+1439,Data Analyst,"Smith, Austin and Robinson","Jenniferland, PS",Scikit-learn,1,0,0,0,0,0,0,0,1
+1440,Quant Researcher,Graham-Cox,"Suzanneton, GQ",TensorFlow,1,0,0,0,0,0,1,0,0
+1441,Computer Vision Engineer,"Blake, Chen and Barnes","Davidmouth, AR",TensorFlow,1,0,0,0,0,0,1,0,0
+1442,Computer Vision Engineer,Wilson-Anderson,"South Alexton, IQ","BigQuery, FastAPI",2,0,0,1,0,1,0,0,0
+1443,Data Analyst,"Allison, Jensen and Wilson","West Larrybury, GB",BigQuery,1,0,0,0,0,1,0,0,0
+1444,Computer Vision Engineer,Smith PLC,"West Gerald, SV","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+1445,Computer Vision Engineer,Rose-Knight,"Marcustown, TL",FastAPI,1,0,0,1,0,0,0,0,0
+1446,AI Product Manager,Castro-Carpenter,"East Jonathanville, CF","Scikit-learn, KDB+",2,0,0,0,1,0,0,0,1
+1447,Data Analyst,Wilson PLC,"Lake Patrickmouth, SG",LangChain,1,0,1,0,0,0,0,0,0
+1448,AI Product Manager,Hodges-Johnson,"Robersonport, DO","BigQuery, LangChain, Scikit-learn",3,0,1,0,0,1,0,0,1
+1449,Quant Researcher,Alvarado PLC,"Lake William, FI","LangChain, TensorFlow",2,0,1,0,0,0,1,0,0
+1450,ML Engineer,"Brown, White and Alvarado","Loweland, CN","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1451,Data Analyst,Flores-Lee,"Catherineshire, BG",TensorFlow,1,0,0,0,0,0,1,0,0
+1452,ML Engineer,"Sexton, Woods and Allen","West Ruth, NZ",PyTorch,1,0,0,0,0,0,0,1,0
+1453,ML Engineer,Robinson Ltd,"West Michael, BS","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+1454,Data Analyst,Williams-Cooper,"North Kelly, JO","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+1455,AI Product Manager,Garcia-Moss,"North Jay, AG","PyTorch, TensorFlow, MLflow",3,1,0,0,0,0,1,1,0
+1456,NLP Engineer,"Lopez, Kelley and Davis","West Robertfort, NR","KDB+, FastAPI, PyTorch",3,0,0,1,1,0,0,1,0
+1457,NLP Engineer,Hunter Inc,"Adamfort, PK","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+1458,AI Researcher,Bush Inc,"New Christophermouth, MC","FastAPI, KDB+, PyTorch",3,0,0,1,1,0,0,1,0
+1459,NLP Engineer,"Martin, Joseph and Baldwin","North Jamiestad, CA","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+1460,NLP Engineer,Kelly and Sons,"Taylorchester, VE",MLflow,1,1,0,0,0,0,0,0,0
+1461,Computer Vision Engineer,Wheeler LLC,"Wellsport, SL","PyTorch, KDB+, TensorFlow",3,0,0,0,1,0,1,1,0
+1462,Quant Researcher,"Moore, Smith and Obrien","West Chad, GY",BigQuery,1,0,0,0,0,1,0,0,0
+1463,AI Product Manager,"Perez, Rangel and Pugh","Jeremyshire, CI","KDB+, Scikit-learn, MLflow",3,1,0,0,1,0,0,0,1
+1464,Data Analyst,Martinez-Williams,"Christopherfort, BJ","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+1465,NLP Engineer,Klein-Williams,"Amberchester, AU","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+1466,AI Researcher,Vazquez and Sons,"Porterland, UZ",TensorFlow,1,0,0,0,0,0,1,0,0
+1467,ML Engineer,"Calderon, Kelly and Velasquez","West Drew, MU","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+1468,AI Researcher,Johnson-Rivas,"North Lauren, LU","LangChain, TensorFlow, BigQuery",3,0,1,0,0,1,1,0,0
+1469,AI Researcher,"Lee, Huerta and Mcclain","New Benjamin, NO","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+1470,Data Analyst,Wilson LLC,"Stacyview, AO","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+1471,Computer Vision Engineer,Beck-Miller,"Bushport, SC","Scikit-learn, MLflow, LangChain",3,1,1,0,0,0,0,0,1
+1472,Data Analyst,Dominguez LLC,"New Austin, CN",TensorFlow,1,0,0,0,0,0,1,0,0
+1473,AI Researcher,Ruiz-Smith,"Jennifershire, ES",FastAPI,1,0,0,1,0,0,0,0,0
+1474,ML Engineer,Johnson LLC,"West Samanthamouth, VU",PyTorch,1,0,0,0,0,0,0,1,0
+1475,Data Scientist,"Gonzalez, Smith and Rice","Port Robert, CG","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+1476,Computer Vision Engineer,"Trevino, Adams and Carroll","East Jocelynfort, HN","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+1477,NLP Engineer,"Ellis, Jones and Grant","Johnbury, TR","FastAPI, BigQuery, PyTorch",3,0,0,1,0,1,0,1,0
+1478,Computer Vision Engineer,Griffin and Sons,"Ronaldbury, LA",PyTorch,1,0,0,0,0,0,0,1,0
+1479,Quant Researcher,Crawford Ltd,"Ericfurt, NO",FastAPI,1,0,0,1,0,0,0,0,0
+1480,Data Scientist,"Bell, Ruiz and Hull","Michaeltown, PW","TensorFlow, FastAPI, BigQuery",3,0,0,1,0,1,1,0,0
+1481,NLP Engineer,Wilkerson LLC,"Jenniferbury, DJ",KDB+,1,0,0,0,1,0,0,0,0
+1482,NLP Engineer,Davis-Owen,"Nicholaston, MN","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+1483,Data Analyst,Fry Inc,"North Melanie, SG","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+1484,NLP Engineer,Myers PLC,"West Denise, SZ",FastAPI,1,0,0,1,0,0,0,0,0
+1485,Quant Researcher,Rosales Ltd,"Mitchellview, CO","KDB+, Scikit-learn, PyTorch",3,0,0,0,1,0,0,1,1
+1486,Data Scientist,"Wilkerson, Chase and Rivera","Torresport, IL",TensorFlow,1,0,0,0,0,0,1,0,0
+1487,AI Product Manager,Clark Ltd,"North Cassandraville, SI","LangChain, MLflow, TensorFlow",3,1,1,0,0,0,1,0,0
+1488,Computer Vision Engineer,Holt-Wells,"Bryanshire, JM","MLflow, Scikit-learn",2,1,0,0,0,0,0,0,1
+1489,ML Engineer,Larson Ltd,"Carterton, BN","PyTorch, LangChain",2,0,1,0,0,0,0,1,0
+1490,AI Researcher,Ray-Edwards,"Port Krista, BZ","MLflow, LangChain, FastAPI",3,1,1,1,0,0,0,0,0
+1491,NLP Engineer,"Roth, Johnson and Cummings","Brianfurt, RO","FastAPI, MLflow, LangChain",3,1,1,1,0,0,0,0,0
+1492,Computer Vision Engineer,Powell-Parker,"West Jeffreyburgh, CR",BigQuery,1,0,0,0,0,1,0,0,0
+1493,Computer Vision Engineer,Montoya Inc,"Simmonsfurt, GT","LangChain, TensorFlow",2,0,1,0,0,0,1,0,0
+1494,Data Analyst,"Allen, Hernandez and Salazar","East Anthony, HU",TensorFlow,1,0,0,0,0,0,1,0,0
+1495,AI Researcher,Miller-Salazar,"Mccoyfort, BB","FastAPI, TensorFlow, BigQuery",3,0,0,1,0,1,1,0,0
+1496,AI Product Manager,"Klein, Brown and Wallace","Markside, UY","FastAPI, PyTorch, KDB+",3,0,0,1,1,0,0,1,0
+1497,AI Product Manager,"Kim, Farrell and Tucker","New Julie, KZ",TensorFlow,1,0,0,0,0,0,1,0,0
+1498,NLP Engineer,Mckee-Brown,"Zacharyside, HR",FastAPI,1,0,0,1,0,0,0,0,0
+1499,NLP Engineer,"Campbell, Winters and Glover","Haroldside, SN","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+1500,Quant Researcher,Hart LLC,"Lake Grace, ID",Scikit-learn,1,0,0,0,0,0,0,0,1
+1501,Quant Researcher,Burns-Guzman,"South Stacymouth, KP",TensorFlow,1,0,0,0,0,0,1,0,0
+1502,Computer Vision Engineer,"Craig, Ortiz and Gross","Garyfurt, PK","Scikit-learn, BigQuery, KDB+",3,0,0,0,1,1,0,0,1
+1503,AI Researcher,Mccormick Group,"Julieton, NL",KDB+,1,0,0,0,1,0,0,0,0
+1504,AI Product Manager,Ortiz and Sons,"East Nancy, PG","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+1505,Computer Vision Engineer,"Guzman, Peterson and Perry","North Mikayla, BZ",TensorFlow,1,0,0,0,0,0,1,0,0
+1506,AI Product Manager,Vazquez-Davis,"North Emilyton, PT","LangChain, TensorFlow, FastAPI",3,0,1,1,0,0,1,0,0
+1507,Computer Vision Engineer,Gross PLC,"Billyton, LS",PyTorch,1,0,0,0,0,0,0,1,0
+1508,AI Product Manager,Lee-Johnson,"Rachelside, MM","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+1509,Data Analyst,Kelly Group,"East Robertmouth, SO",Scikit-learn,1,0,0,0,0,0,0,0,1
+1510,NLP Engineer,Johnson-Guzman,"Elizabethbury, VE","TensorFlow, PyTorch, MLflow",3,1,0,0,0,0,1,1,0
+1511,AI Researcher,Schneider-Barnett,"Jenniferfurt, SN",PyTorch,1,0,0,0,0,0,0,1,0
+1512,NLP Engineer,"Evans, Le and Gomez","Phyllisburgh, BS",BigQuery,1,0,0,0,0,1,0,0,0
+1513,AI Researcher,Wade PLC,"Greenmouth, VC",TensorFlow,1,0,0,0,0,0,1,0,0
+1514,Data Analyst,Figueroa LLC,"East Nathan, MV",Scikit-learn,1,0,0,0,0,0,0,0,1
+1515,Quant Researcher,Marshall LLC,"Peterville, SM","BigQuery, MLflow, KDB+",3,1,0,0,1,1,0,0,0
+1516,Computer Vision Engineer,"Browning, Sanchez and Elliott","Spearshaven, RU","PyTorch, MLflow, Scikit-learn",3,1,0,0,0,0,0,1,1
+1517,Data Scientist,"Thompson, Baker and Ortega","Parkerfort, IT","PyTorch, FastAPI, TensorFlow",3,0,0,1,0,0,1,1,0
+1518,Computer Vision Engineer,"Bailey, Wilson and Fry","South Michael, KM","KDB+, MLflow, Scikit-learn",3,1,0,0,1,0,0,0,1
+1519,Data Scientist,"Gallagher, Montes and Rowe","New Brian, KH","FastAPI, TensorFlow, MLflow",3,1,0,1,0,0,1,0,0
+1520,AI Product Manager,"Chan, Miller and Meyer","Lake Michele, AU","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+1521,ML Engineer,Boyd PLC,"Johnsonport, BT","TensorFlow, LangChain, BigQuery",3,0,1,0,0,1,1,0,0
+1522,NLP Engineer,Evans Group,"South Jonathanhaven, PL",BigQuery,1,0,0,0,0,1,0,0,0
+1523,AI Researcher,Martin-Torres,"Michaelport, KW","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+1524,Data Scientist,"Gross, Rivera and Gutierrez","Olivermouth, NG",KDB+,1,0,0,0,1,0,0,0,0
+1525,NLP Engineer,Holland LLC,"Stewartborough, LV","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+1526,NLP Engineer,"Novak, Clark and Sullivan","Robinview, NZ","FastAPI, KDB+, BigQuery",3,0,0,1,1,1,0,0,0
+1527,Quant Researcher,Hall PLC,"Ryanshire, TL","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+1528,Quant Researcher,Gamble-Cardenas,"Kristenside, ZM",TensorFlow,1,0,0,0,0,0,1,0,0
+1529,AI Product Manager,"Sutton, Mcdonald and Vang","Jessicafort, MR","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+1530,Computer Vision Engineer,Foster and Sons,"Katelynstad, JM","KDB+, FastAPI, MLflow",3,1,0,1,1,0,0,0,0
+1531,AI Product Manager,Myers Group,"Williamburgh, KI","BigQuery, MLflow, KDB+",3,1,0,0,1,1,0,0,0
+1532,Computer Vision Engineer,Davis-French,"New Miranda, YE","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+1533,AI Product Manager,"Rivera, Kennedy and Smith","East Debraport, GT","FastAPI, MLflow, PyTorch",3,1,0,1,0,0,0,1,0
+1534,Data Scientist,"Romero, Clark and Williams","East Josephland, KM","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+1535,ML Engineer,Wong-Miller,"Lake Joseph, DO",LangChain,1,0,1,0,0,0,0,0,0
+1536,ML Engineer,"Franco, Green and Green","Michelleborough, AT",MLflow,1,1,0,0,0,0,0,0,0
+1537,Computer Vision Engineer,Gould Inc,"North Amber, CH",Scikit-learn,1,0,0,0,0,0,0,0,1
+1538,Computer Vision Engineer,"Page, Garrett and Little","South Kelly, ZA","LangChain, PyTorch, KDB+",3,0,1,0,1,0,0,1,0
+1539,Data Scientist,Moore LLC,"West Gregory, MC","TensorFlow, BigQuery, Scikit-learn",3,0,0,0,0,1,1,0,1
+1540,Data Scientist,Schaefer-Mcbride,"South Kurtberg, VC",BigQuery,1,0,0,0,0,1,0,0,0
+1541,Computer Vision Engineer,Wallace and Sons,"Meganmouth, SA","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+1542,Data Scientist,"Le, Morris and Hernandez","Ralphbury, PA","Scikit-learn, FastAPI, BigQuery",3,0,0,1,0,1,0,0,1
+1543,Data Scientist,"Johnson, Gomez and Neal","East Elizabeth, TO","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+1544,ML Engineer,Campbell-Yu,"New Nicholas, GN",KDB+,1,0,0,0,1,0,0,0,0
+1545,Data Analyst,"Martinez, Gonzalez and Rasmussen","Gregorytown, QA",TensorFlow,1,0,0,0,0,0,1,0,0
+1546,Quant Researcher,"Gonzalez, Roth and Gilbert","Espinozaside, NG",LangChain,1,0,1,0,0,0,0,0,0
+1547,AI Researcher,"Brown, Morris and Young","West Alicia, EC","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+1548,AI Researcher,Avila-Johnson,"Marshallfort, IT","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+1549,Quant Researcher,Lynch and Sons,"Dennisland, BS","Scikit-learn, KDB+",2,0,0,0,1,0,0,0,1
+1550,Computer Vision Engineer,Haynes-George,"Port Jeremiahshire, BT","Scikit-learn, KDB+, PyTorch",3,0,0,0,1,0,0,1,1
+1551,AI Researcher,Fowler-Stewart,"Taylorfort, KP","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+1552,AI Product Manager,"Powell, Ruiz and Smith","Adkinshaven, CZ","KDB+, MLflow",2,1,0,0,1,0,0,0,0
+1553,Quant Researcher,"Richardson, Rojas and Patton","East Carolinehaven, IE","BigQuery, KDB+, MLflow",3,1,0,0,1,1,0,0,0
+1554,Computer Vision Engineer,Patterson-Green,"Mooreland, NZ","BigQuery, TensorFlow, PyTorch",3,0,0,0,0,1,1,1,0
+1555,Data Analyst,Conner-Rivera,"Lake Andrewchester, DJ","MLflow, FastAPI",2,1,0,1,0,0,0,0,0
+1556,Data Scientist,Johnson-Murphy,"North Joshuahaven, DO",KDB+,1,0,0,0,1,0,0,0,0
+1557,ML Engineer,"Freeman, Williams and Thomas","Barajaston, DZ","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+1558,ML Engineer,Reilly PLC,"Bennettfurt, IQ","Scikit-learn, BigQuery, LangChain",3,0,1,0,0,1,0,0,1
+1559,AI Product Manager,"Sosa, Whitney and Dickerson","Williamshire, TJ",PyTorch,1,0,0,0,0,0,0,1,0
+1560,NLP Engineer,Johnson PLC,"Jenniferburgh, SC","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+1561,ML Engineer,Rosales-Peterson,"Gonzaleshaven, MR",TensorFlow,1,0,0,0,0,0,1,0,0
+1562,AI Product Manager,"Salazar, Wiggins and Campbell","North Alexandra, MZ","BigQuery, MLflow, PyTorch",3,1,0,0,0,1,0,1,0
+1563,Data Scientist,Torres PLC,"Rodriguezmouth, AE","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+1564,Computer Vision Engineer,"Zuniga, Coleman and Guzman","South Jamesstad, GT","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+1565,AI Product Manager,Oliver-Miller,"Sarahton, ER","BigQuery, FastAPI, Scikit-learn",3,0,0,1,0,1,0,0,1
+1566,AI Researcher,"Mullins, Butler and Moses","South Jason, PG",FastAPI,1,0,0,1,0,0,0,0,0
+1567,NLP Engineer,"Roberson, Dunlap and Todd","New Samanthaberg, BD","FastAPI, Scikit-learn, KDB+",3,0,0,1,1,0,0,0,1
+1568,Data Scientist,Hammond-Miles,"Lake Brianna, ET","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+1569,Data Scientist,"Walls, Young and Cook","New Nicole, AZ",MLflow,1,1,0,0,0,0,0,0,0
+1570,AI Product Manager,Henderson-Douglas,"Larsenport, FM",KDB+,1,0,0,0,1,0,0,0,0
+1571,AI Researcher,Waters Group,"Lewiston, HN",KDB+,1,0,0,0,1,0,0,0,0
+1572,ML Engineer,"Evans, Keller and Macdonald","Sanchezland, LI",MLflow,1,1,0,0,0,0,0,0,0
+1573,ML Engineer,"Smith, Smith and Calhoun","Jamesburgh, LS",FastAPI,1,0,0,1,0,0,0,0,0
+1574,AI Product Manager,Holmes Inc,"Bendershire, AG","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+1575,Quant Researcher,Gordon-Bradley,"Higginsview, NI",Scikit-learn,1,0,0,0,0,0,0,0,1
+1576,Quant Researcher,Garrison-Rosales,"New Henryshire, TZ",LangChain,1,0,1,0,0,0,0,0,0
+1577,Data Analyst,Beasley LLC,"Port Christinaburgh, TN","Scikit-learn, FastAPI",2,0,0,1,0,0,0,0,1
+1578,NLP Engineer,"Miller, Harris and Johnson","Jessicaport, WS","MLflow, TensorFlow, PyTorch",3,1,0,0,0,0,1,1,0
+1579,AI Researcher,"Miller, Hahn and Jackson","Marquezchester, SL","LangChain, Scikit-learn",2,0,1,0,0,0,0,0,1
+1580,ML Engineer,Smith-Mcintyre,"North Sheilaville, IN","MLflow, Scikit-learn, BigQuery",3,1,0,0,0,1,0,0,1
+1581,ML Engineer,Martinez Inc,"West Morgan, ST",FastAPI,1,0,0,1,0,0,0,0,0
+1582,Data Analyst,Jones-Robertson,"Lake Charles, DM",MLflow,1,1,0,0,0,0,0,0,0
+1583,Quant Researcher,Schneider-Watson,"Rosston, PY","BigQuery, PyTorch, MLflow",3,1,0,0,0,1,0,1,0
+1584,AI Researcher,"Thompson, Castillo and Farrell","North Jennifer, NA",MLflow,1,1,0,0,0,0,0,0,0
+1585,AI Product Manager,Acevedo Ltd,"North Martin, AU","KDB+, PyTorch, FastAPI",3,0,0,1,1,0,0,1,0
+1586,AI Product Manager,"Flynn, Arellano and Porter","Reesebury, RO",Scikit-learn,1,0,0,0,0,0,0,0,1
+1587,Data Analyst,Harper and Sons,"South Roystad, TR","FastAPI, MLflow, KDB+",3,1,0,1,1,0,0,0,0
+1588,AI Product Manager,Molina-Dixon,"Lake Eric, CD","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+1589,AI Product Manager,"Baker, Smith and Phillips","Lake Christopher, LA","Scikit-learn, MLflow, PyTorch",3,1,0,0,0,0,0,1,1
+1590,Data Scientist,"Robertson, Miller and Watson","Cynthiamouth, NE",MLflow,1,1,0,0,0,0,0,0,0
+1591,AI Researcher,"Bowman, Sutton and Richmond","Ericburgh, BR","MLflow, KDB+, FastAPI",3,1,0,1,1,0,0,0,0
+1592,Data Analyst,Moore-Wood,"South Christopherchester, MG","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+1593,ML Engineer,"Lee, Mitchell and Neal","New Shane, MM","BigQuery, PyTorch, FastAPI",3,0,0,1,0,1,0,1,0
+1594,Data Scientist,"Burton, Reynolds and Dougherty","East Monicastad, YE","TensorFlow, Scikit-learn, BigQuery",3,0,0,0,0,1,1,0,1
+1595,Data Scientist,Kelly Ltd,"South Brett, ML","LangChain, Scikit-learn",2,0,1,0,0,0,0,0,1
+1596,Data Scientist,"Thompson, Morris and Griffin","Michaelside, TV",Scikit-learn,1,0,0,0,0,0,0,0,1
+1597,Data Scientist,Carr Inc,"Browntown, KR","BigQuery, LangChain, KDB+",3,0,1,0,1,1,0,0,0
+1598,AI Product Manager,"Townsend, Strickland and Rodriguez","East Michael, MD","TensorFlow, KDB+, FastAPI",3,0,0,1,1,0,1,0,0
+1599,Computer Vision Engineer,Pineda Inc,"Lauriehaven, CV",BigQuery,1,0,0,0,0,1,0,0,0
+1600,AI Product Manager,Hudson and Sons,"East Keithview, AR",MLflow,1,1,0,0,0,0,0,0,0
+1601,AI Product Manager,Miller-Burton,"West Kennethton, PA",TensorFlow,1,0,0,0,0,0,1,0,0
+1602,Computer Vision Engineer,Murillo Inc,"Jonesburgh, BH","PyTorch, FastAPI, TensorFlow",3,0,0,1,0,0,1,1,0
+1603,Data Analyst,Alvarez-Butler,"North James, HT","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+1604,Quant Researcher,Glenn-Brady,"North Dakota, TW",TensorFlow,1,0,0,0,0,0,1,0,0
+1605,ML Engineer,Bryant-Martin,"East John, NR","MLflow, PyTorch, FastAPI",3,1,0,1,0,0,0,1,0
+1606,Data Analyst,Bailey PLC,"Port Elizabeth, SY","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+1607,Quant Researcher,"Swanson, Young and Martin","East Alexis, LK",KDB+,1,0,0,0,1,0,0,0,0
+1608,ML Engineer,Hancock-Wiggins,"North Adamburgh, AO","FastAPI, LangChain, TensorFlow",3,0,1,1,0,0,1,0,0
+1609,Quant Researcher,Mcconnell Ltd,"New Allisonshire, MN",Scikit-learn,1,0,0,0,0,0,0,0,1
+1610,ML Engineer,Patton and Sons,"Jacktown, TW",MLflow,1,1,0,0,0,0,0,0,0
+1611,Computer Vision Engineer,Gray-Dixon,"West Maria, ML","LangChain, KDB+, FastAPI",3,0,1,1,1,0,0,0,0
+1612,Computer Vision Engineer,"Miller, Casey and Gray","South Michael, CD",KDB+,1,0,0,0,1,0,0,0,0
+1613,Data Scientist,Andersen Inc,"Smithbury, BT","MLflow, KDB+, PyTorch",3,1,0,0,1,0,0,1,0
+1614,Quant Researcher,"Bernard, Henry and Zamora","Breannahaven, MA",BigQuery,1,0,0,0,0,1,0,0,0
+1615,AI Researcher,Frost Ltd,"Vazquezton, BH","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+1616,ML Engineer,Lewis Group,"Williamland, KN","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+1617,AI Researcher,"Tucker, Strong and Bond","Wilsonmouth, PW","MLflow, PyTorch, Scikit-learn",3,1,0,0,0,0,0,1,1
+1618,NLP Engineer,Livingston-Phillips,"Knightstad, BD","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+1619,AI Product Manager,Snyder Group,"Jenniferburgh, AE",LangChain,1,0,1,0,0,0,0,0,0
+1620,Data Analyst,"Herman, Johnson and Barnes","Maciasfort, LR","KDB+, LangChain, BigQuery",3,0,1,0,1,1,0,0,0
+1621,AI Product Manager,Perez-Bailey,"Santiagoshire, PH","MLflow, BigQuery",2,1,0,0,0,1,0,0,0
+1622,NLP Engineer,"Summers, Swanson and Brown","West Cynthiaburgh, AD","BigQuery, FastAPI, MLflow",3,1,0,1,0,1,0,0,0
+1623,Computer Vision Engineer,Schmidt-Payne,"Kyleside, JP","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+1624,Data Analyst,"Ortiz, Hill and Anderson","West Cynthiaton, SM","TensorFlow, FastAPI, PyTorch",3,0,0,1,0,0,1,1,0
+1625,Quant Researcher,Dalton-Galloway,"East Priscilla, DO","KDB+, FastAPI, MLflow",3,1,0,1,1,0,0,0,0
+1626,Computer Vision Engineer,Brown-Garcia,"Dillonville, TL","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+1627,ML Engineer,"Ramirez, Morrison and Shaffer","East Bobbymouth, LU",KDB+,1,0,0,0,1,0,0,0,0
+1628,NLP Engineer,Fisher LLC,"Changview, CU","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+1629,NLP Engineer,Barnes-Gonzalez,"New Cameron, IR",LangChain,1,0,1,0,0,0,0,0,0
+1630,Computer Vision Engineer,"Mann, Taylor and Martin","Wendytown, KR","MLflow, Scikit-learn, FastAPI",3,1,0,1,0,0,0,0,1
+1631,Computer Vision Engineer,Bush and Sons,"Robertstown, GA",BigQuery,1,0,0,0,0,1,0,0,0
+1632,Computer Vision Engineer,"Callahan, Sullivan and Flynn","Port Jennifer, ES","MLflow, TensorFlow, KDB+",3,1,0,0,1,0,1,0,0
+1633,Quant Researcher,Joseph-Romero,"Kristenberg, AL","BigQuery, MLflow, TensorFlow",3,1,0,0,0,1,1,0,0
+1634,AI Product Manager,"Singh, Shannon and Castaneda","West Justin, IN","KDB+, TensorFlow, LangChain",3,0,1,0,1,0,1,0,0
+1635,AI Researcher,"Johnson, Sweeney and Hall","Lindachester, PA","FastAPI, MLflow, PyTorch",3,1,0,1,0,0,0,1,0
+1636,Data Analyst,Wu Inc,"Barnesfurt, SV","BigQuery, FastAPI, MLflow",3,1,0,1,0,1,0,0,0
+1637,Data Analyst,Lopez-Williams,"North Mark, IN",FastAPI,1,0,0,1,0,0,0,0,0
+1638,Computer Vision Engineer,Hughes-Figueroa,"Castilloborough, CH","MLflow, BigQuery",2,1,0,0,0,1,0,0,0
+1639,AI Researcher,"Randall, Grant and Rosario","Kimberlyfort, BJ","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+1640,NLP Engineer,Griffith Ltd,"Johnstad, ET","Scikit-learn, PyTorch",2,0,0,0,0,0,0,1,1
+1641,Data Analyst,"Smith, Woods and Tucker","South Dylanmouth, SY",KDB+,1,0,0,0,1,0,0,0,0
+1642,NLP Engineer,Frazier Inc,"North Joel, PG",TensorFlow,1,0,0,0,0,0,1,0,0
+1643,ML Engineer,"Torres, Campbell and Krause","East Hollyfurt, AR","MLflow, TensorFlow, KDB+",3,1,0,0,1,0,1,0,0
+1644,NLP Engineer,Snyder Group,"North Susan, SG",BigQuery,1,0,0,0,0,1,0,0,0
+1645,Quant Researcher,Lucas-Morris,"Jordanshire, PS","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+1646,Data Scientist,Martinez-Weaver,"Lake Valerie, IN","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+1647,AI Researcher,Mendez and Sons,"Jonesbury, PA",FastAPI,1,0,0,1,0,0,0,0,0
+1648,NLP Engineer,"Johnson, Wright and Quinn","North Brian, FI","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+1649,Computer Vision Engineer,"Mitchell, Collins and Collins","Cobbtown, SZ",TensorFlow,1,0,0,0,0,0,1,0,0
+1650,Data Analyst,Williams-Torres,"Port Tiffanystad, DO","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+1651,Quant Researcher,Martinez Group,"Gabriellaborough, HT","TensorFlow, KDB+, PyTorch",3,0,0,0,1,0,1,1,0
+1652,AI Product Manager,Weaver-Mcdonald,"West Richard, SV",LangChain,1,0,1,0,0,0,0,0,0
+1653,ML Engineer,Cook-Jarvis,"Jayton, GB",LangChain,1,0,1,0,0,0,0,0,0
+1654,AI Researcher,Moreno-Sanchez,"Fosterville, TT","KDB+, BigQuery, Scikit-learn",3,0,0,0,1,1,0,0,1
+1655,Computer Vision Engineer,Kline Group,"Lake Donaldstad, NP","PyTorch, MLflow, TensorFlow",3,1,0,0,0,0,1,1,0
+1656,AI Researcher,Brown and Sons,"Lake Chris, AO","KDB+, MLflow, BigQuery",3,1,0,0,1,1,0,0,0
+1657,Data Scientist,Quinn Group,"East Michael, UY",FastAPI,1,0,0,1,0,0,0,0,0
+1658,Data Scientist,Mills-Mitchell,"Bryantton, CO","BigQuery, FastAPI",2,0,0,1,0,1,0,0,0
+1659,Data Analyst,"Andrews, Sanchez and Carroll","Anthonyberg, DM","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+1660,NLP Engineer,Smith and Sons,"Meyermouth, GN","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+1661,AI Researcher,Smith-Hall,"South Dustinbury, BY",KDB+,1,0,0,0,1,0,0,0,0
+1662,Data Scientist,"Anderson, Tucker and Phillips","Jenniferborough, CO","FastAPI, Scikit-learn, LangChain",3,0,1,1,0,0,0,0,1
+1663,Quant Researcher,Kirk-Meyers,"New Jose, ET","PyTorch, FastAPI",2,0,0,1,0,0,0,1,0
+1664,Computer Vision Engineer,Bishop-Contreras,"South Ronaldfurt, BB","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+1665,NLP Engineer,"Poole, Ramirez and Sims","East David, BW","FastAPI, KDB+, LangChain",3,0,1,1,1,0,0,0,0
+1666,AI Researcher,Sandoval Ltd,"Williamsville, EG","TensorFlow, PyTorch, Scikit-learn",3,0,0,0,0,0,1,1,1
+1667,ML Engineer,Skinner Inc,"Port James, BS",KDB+,1,0,0,0,1,0,0,0,0
+1668,Data Analyst,"Kelly, Pace and Rodriguez","Esparzaberg, SY",LangChain,1,0,1,0,0,0,0,0,0
+1669,ML Engineer,Hunt-Phillips,"New Emily, DJ","PyTorch, Scikit-learn, LangChain",3,0,1,0,0,0,0,1,1
+1670,Computer Vision Engineer,Edwards-Jones,"Stephanieside, KG","KDB+, TensorFlow",2,0,0,0,1,0,1,0,0
+1671,Data Scientist,"Williams, Glass and Benson","Matthewburgh, GB","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+1672,AI Researcher,"Jackson, Carrillo and Anderson","Dustinborough, LT",PyTorch,1,0,0,0,0,0,0,1,0
+1673,NLP Engineer,Richardson and Sons,"Lake Austin, AT",PyTorch,1,0,0,0,0,0,0,1,0
+1674,Data Analyst,"Weber, Thompson and Williams","Valenciafort, RW","PyTorch, TensorFlow",2,0,0,0,0,0,1,1,0
+1675,ML Engineer,"Lee, Scott and Franco","Shawnfurt, LK","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+1676,Quant Researcher,Wright Group,"Josephville, MW",MLflow,1,1,0,0,0,0,0,0,0
+1677,NLP Engineer,Daniels and Sons,"Shannonhaven, MY",Scikit-learn,1,0,0,0,0,0,0,0,1
+1678,AI Product Manager,"Taylor, Hodges and Martinez","Charlesville, VA","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+1679,AI Product Manager,Hanson-Weeks,"Wilsonberg, PA",KDB+,1,0,0,0,1,0,0,0,0
+1680,ML Engineer,Barton-Kirby,"West Aliceberg, LV",PyTorch,1,0,0,0,0,0,0,1,0
+1681,AI Researcher,Johnson Inc,"Rioston, AF","LangChain, KDB+",2,0,1,0,1,0,0,0,0
+1682,Computer Vision Engineer,"Schmitt, James and Campbell","Port Joanne, AZ","KDB+, TensorFlow, LangChain",3,0,1,0,1,0,1,0,0
+1683,Quant Researcher,Yates-Brown,"Port Samuel, IQ","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+1684,Computer Vision Engineer,"James, Wagner and Johnson","Stevenmouth, MK","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+1685,AI Product Manager,Cummings-Reyes,"Port Mindyborough, SI","PyTorch, FastAPI",2,0,0,1,0,0,0,1,0
+1686,Computer Vision Engineer,Bishop Ltd,"Cartershire, DK",BigQuery,1,0,0,0,0,1,0,0,0
+1687,Computer Vision Engineer,Daniels-Jones,"Olsontown, MK",MLflow,1,1,0,0,0,0,0,0,0
+1688,Quant Researcher,Reed-Wilson,"Edgarhaven, MX",TensorFlow,1,0,0,0,0,0,1,0,0
+1689,Data Analyst,Smith-Moore,"Gabrielport, TT","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+1690,Data Analyst,Briggs-House,"South Brandon, MG","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+1691,Computer Vision Engineer,"Chen, Moore and Ray","Lewisville, SZ","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+1692,AI Researcher,Torres-King,"East Bryanton, KP",FastAPI,1,0,0,1,0,0,0,0,0
+1693,AI Product Manager,"Johnson, Espinoza and Ali","Cynthialand, ZM",PyTorch,1,0,0,0,0,0,0,1,0
+1694,Data Scientist,Blackwell Ltd,"Stevenberg, SM",PyTorch,1,0,0,0,0,0,0,1,0
+1695,Data Analyst,Day-Mckee,"Amytown, TD",KDB+,1,0,0,0,1,0,0,0,0
+1696,AI Researcher,Ellis LLC,"Lake Michaelberg, IN","BigQuery, Scikit-learn",2,0,0,0,0,1,0,0,1
+1697,Data Scientist,Good-Gordon,"South Anthonymouth, HR",KDB+,1,0,0,0,1,0,0,0,0
+1698,Quant Researcher,Taylor Ltd,"East Andrew, OM","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+1699,ML Engineer,Walker LLC,"Port Matthew, VN",PyTorch,1,0,0,0,0,0,0,1,0
+1700,Computer Vision Engineer,"Simpson, Davis and Higgins","Cassidybury, MU",LangChain,1,0,1,0,0,0,0,0,0
+1701,AI Researcher,Simpson Group,"Arnoldmouth, NE","BigQuery, LangChain, MLflow",3,1,1,0,0,1,0,0,0
+1702,Data Scientist,"Klein, Ward and Cooper","Huntville, HN","Scikit-learn, MLflow, LangChain",3,1,1,0,0,0,0,0,1
+1703,Data Scientist,Horton-Collins,"Georgemouth, UZ",Scikit-learn,1,0,0,0,0,0,0,0,1
+1704,AI Product Manager,"Johnson, Oconnell and Williams","Lake Bradley, AU","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+1705,NLP Engineer,"Powers, Lewis and Stewart","Andrewview, NA",PyTorch,1,0,0,0,0,0,0,1,0
+1706,Data Analyst,"Foley, Green and Farley","Port Ashlee, LI","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1707,AI Product Manager,Smith-Fernandez,"South Ruthview, CI","FastAPI, Scikit-learn, MLflow",3,1,0,1,0,0,0,0,1
+1708,Quant Researcher,"Smith, Tapia and Jones","East Martin, GB",KDB+,1,0,0,0,1,0,0,0,0
+1709,AI Product Manager,Sanchez Ltd,"Port Anna, PG","Scikit-learn, BigQuery, MLflow",3,1,0,0,0,1,0,0,1
+1710,Computer Vision Engineer,Floyd Ltd,"Clarkefort, MD","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+1711,Data Analyst,Clark-Holloway,"Karenland, AL","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+1712,ML Engineer,Johnson Ltd,"Sosaview, CI",Scikit-learn,1,0,0,0,0,0,0,0,1
+1713,ML Engineer,Fox-Cochran,"South Marymouth, UG","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+1714,NLP Engineer,"Villarreal, Ellis and Crane","New Williamshire, LI","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+1715,Quant Researcher,"Fox, Davis and Houston","Gregoryborough, TN","Scikit-learn, TensorFlow, KDB+",3,0,0,0,1,0,1,0,1
+1716,AI Researcher,Nash-Perry,"Thomasberg, MZ",MLflow,1,1,0,0,0,0,0,0,0
+1717,AI Researcher,Murphy and Sons,"West Vernon, LA",BigQuery,1,0,0,0,0,1,0,0,0
+1718,Quant Researcher,Bailey Inc,"Johnsonburgh, HR",MLflow,1,1,0,0,0,0,0,0,0
+1719,NLP Engineer,Wright PLC,"South James, JM","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+1720,Data Analyst,Grimes-Cruz,"West Nicolefurt, US","PyTorch, KDB+, LangChain",3,0,1,0,1,0,0,1,0
+1721,Data Analyst,"Spence, Mcconnell and Fleming","Garrettville, NR","FastAPI, LangChain, MLflow",3,1,1,1,0,0,0,0,0
+1722,AI Researcher,Rush Inc,"North Mary, BA",TensorFlow,1,0,0,0,0,0,1,0,0
+1723,Computer Vision Engineer,Davis PLC,"Lake Paulside, TH","BigQuery, LangChain",2,0,1,0,0,1,0,0,0
+1724,Data Scientist,Beard Group,"Williamchester, BG","LangChain, KDB+, BigQuery",3,0,1,0,1,1,0,0,0
+1725,Data Analyst,Johnson-Marshall,"New Timothy, KG","Scikit-learn, FastAPI",2,0,0,1,0,0,0,0,1
+1726,AI Product Manager,Adams and Sons,"Duncanhaven, KH",KDB+,1,0,0,0,1,0,0,0,0
+1727,AI Product Manager,"Baker, Lawson and Newton","Perezstad, PW",BigQuery,1,0,0,0,0,1,0,0,0
+1728,AI Product Manager,Chandler Group,"New Abigail, SD",MLflow,1,1,0,0,0,0,0,0,0
+1729,Quant Researcher,Hensley LLC,"Johnstad, CH",KDB+,1,0,0,0,1,0,0,0,0
+1730,NLP Engineer,"Burke, Mitchell and Wright","Flemingmouth, TM","LangChain, TensorFlow, MLflow",3,1,1,0,0,0,1,0,0
+1731,AI Product Manager,Hernandez Ltd,"New Nicoleview, KM","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+1732,Data Analyst,Meadows and Sons,"New Michaelland, IR","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+1733,ML Engineer,Barr PLC,"New Chaseberg, PK","TensorFlow, KDB+, FastAPI",3,0,0,1,1,0,1,0,0
+1734,Data Scientist,Marshall Inc,"Port James, IE","FastAPI, PyTorch, TensorFlow",3,0,0,1,0,0,1,1,0
+1735,Data Scientist,"Steele, Sherman and Liu","Stuartchester, PS","BigQuery, FastAPI, PyTorch",3,0,0,1,0,1,0,1,0
+1736,AI Product Manager,"Crane, Johnson and Robinson","Ericside, BI","KDB+, FastAPI, MLflow",3,1,0,1,1,0,0,0,0
+1737,Quant Researcher,Ferguson PLC,"Johnsonmouth, TN","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+1738,Data Analyst,Marshall Group,"Zacharyside, PG","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+1739,Computer Vision Engineer,"Williams, Brown and Howard","Owensborough, GE","LangChain, FastAPI, TensorFlow",3,0,1,1,0,0,1,0,0
+1740,ML Engineer,"Miller, Waters and Clark","Lake John, CO","Scikit-learn, BigQuery, KDB+",3,0,0,0,1,1,0,0,1
+1741,Data Analyst,Montgomery Inc,"West Coreyton, VE","KDB+, FastAPI, PyTorch",3,0,0,1,1,0,0,1,0
+1742,Data Scientist,Middleton and Sons,"Lake Melissa, LY","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+1743,Quant Researcher,Allen Ltd,"Cantrellmouth, AE",KDB+,1,0,0,0,1,0,0,0,0
+1744,NLP Engineer,Scott-Norris,"Lauramouth, FR","TensorFlow, FastAPI, KDB+",3,0,0,1,1,0,1,0,0
+1745,Computer Vision Engineer,Ramos Ltd,"West Tyler, CN","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+1746,AI Researcher,Daniel-Williams,"West Raymondshire, SK",BigQuery,1,0,0,0,0,1,0,0,0
+1747,AI Researcher,Lowery-Henry,"Jacobschester, KH","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+1748,Data Analyst,"Gutierrez, Salazar and Rowe","West Scott, ER",TensorFlow,1,0,0,0,0,0,1,0,0
+1749,Data Analyst,Parker Ltd,"West Amandafort, AR","FastAPI, TensorFlow",2,0,0,1,0,0,1,0,0
+1750,Data Scientist,"Montes, Graham and Leach","Lake Michelle, CH","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1751,ML Engineer,"King, Stevens and Schmidt","Donnaton, AD","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+1752,Data Analyst,Barron-Zuniga,"Stevenstad, SD",KDB+,1,0,0,0,1,0,0,0,0
+1753,NLP Engineer,"Caldwell, Silva and Edwards","Lake Keith, RO",Scikit-learn,1,0,0,0,0,0,0,0,1
+1754,NLP Engineer,Bell and Sons,"Lake Kathy, HR",PyTorch,1,0,0,0,0,0,0,1,0
+1755,AI Researcher,Lee Inc,"Allenchester, NI",KDB+,1,0,0,0,1,0,0,0,0
+1756,AI Researcher,Schroeder Group,"East Kevinfurt, CY","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+1757,Data Scientist,Fields PLC,"South Bethhaven, BT","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+1758,Computer Vision Engineer,"Hawkins, Holland and Peters","Lake Nicoleberg, FM",PyTorch,1,0,0,0,0,0,0,1,0
+1759,ML Engineer,Robertson and Sons,"East Christine, BW","TensorFlow, MLflow",2,1,0,0,0,0,1,0,0
+1760,Data Scientist,"Harrison, Marquez and Bailey","Nunezmouth, UY","MLflow, TensorFlow, BigQuery",3,1,0,0,0,1,1,0,0
+1761,Data Scientist,Chen-Erickson,"Williamsmouth, GT","BigQuery, KDB+, PyTorch",3,0,0,0,1,1,0,1,0
+1762,ML Engineer,Copeland-Mitchell,"Bradleyport, AR","Scikit-learn, PyTorch",2,0,0,0,0,0,0,1,1
+1763,Quant Researcher,"Marsh, Foster and Taylor","Kathyside, SK",LangChain,1,0,1,0,0,0,0,0,0
+1764,AI Product Manager,Benson PLC,"West Angelastad, FJ","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+1765,Data Analyst,"Williams, Thomas and Mueller","New Stacybury, UZ",PyTorch,1,0,0,0,0,0,0,1,0
+1766,Quant Researcher,"Bartlett, Hodge and Jones","Lake Jordan, GD","FastAPI, TensorFlow, KDB+",3,0,0,1,1,0,1,0,0
+1767,AI Product Manager,Baldwin LLC,"Comptonstad, UA","Scikit-learn, BigQuery, FastAPI",3,0,0,1,0,1,0,0,1
+1768,Computer Vision Engineer,Mcbride Inc,"Lake Joshuabury, LB","BigQuery, Scikit-learn, PyTorch",3,0,0,0,0,1,0,1,1
+1769,AI Product Manager,Colon LLC,"Lake Brian, ZM","LangChain, BigQuery, KDB+",3,0,1,0,1,1,0,0,0
+1770,Computer Vision Engineer,"Ashley, Boone and Stein","Jasminville, SA","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+1771,Computer Vision Engineer,"Wilson, Taylor and Watts","Lake Edward, IE","BigQuery, MLflow, LangChain",3,1,1,0,0,1,0,0,0
+1772,Computer Vision Engineer,Hodge-Fernandez,"New Alanville, BB","TensorFlow, FastAPI, PyTorch",3,0,0,1,0,0,1,1,0
+1773,Data Analyst,"Roman, Moody and Larson","Port Alisonville, AT","BigQuery, TensorFlow, FastAPI",3,0,0,1,0,1,1,0,0
+1774,NLP Engineer,Waller-Buchanan,"North Jonathan, MN","MLflow, LangChain, PyTorch",3,1,1,0,0,0,0,1,0
+1775,Quant Researcher,Lane-Vaughn,"Maryville, GQ","BigQuery, TensorFlow, PyTorch",3,0,0,0,0,1,1,1,0
+1776,Data Scientist,"Shaffer, Jones and Weaver","Port Melissa, KE",KDB+,1,0,0,0,1,0,0,0,0
+1777,AI Researcher,Wilkinson Ltd,"Port Sabrinaburgh, KI","Scikit-learn, PyTorch",2,0,0,0,0,0,0,1,1
+1778,Data Scientist,Gomez PLC,"West Rhondabury, ES","LangChain, FastAPI",2,0,1,1,0,0,0,0,0
+1779,Computer Vision Engineer,Gray-Thompson,"Jenniferfurt, RW","FastAPI, Scikit-learn",2,0,0,1,0,0,0,0,1
+1780,AI Product Manager,"Rubio, Lutz and Sanders","Trevinobury, IL","MLflow, Scikit-learn",2,1,0,0,0,0,0,0,1
+1781,Data Scientist,Avila LLC,"North Dominicmouth, MY","Scikit-learn, LangChain, MLflow",3,1,1,0,0,0,0,0,1
+1782,NLP Engineer,Phillips Inc,"Davidberg, SZ","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+1783,Data Scientist,"Page, Mccoy and Walsh","Johnmouth, GT",PyTorch,1,0,0,0,0,0,0,1,0
+1784,Quant Researcher,Alvarado-Rhodes,"Danieltown, SB",FastAPI,1,0,0,1,0,0,0,0,0
+1785,AI Product Manager,Green-Fleming,"East Timothybury, GT",MLflow,1,1,0,0,0,0,0,0,0
+1786,Computer Vision Engineer,Miller-Walker,"East Martha, WS","BigQuery, MLflow, TensorFlow",3,1,0,0,0,1,1,0,0
+1787,ML Engineer,"Thomas, Mccarthy and King","New Christopherville, UY","BigQuery, MLflow, FastAPI",3,1,0,1,0,1,0,0,0
+1788,Computer Vision Engineer,"Smith, King and Miller","East Joanna, BY","Scikit-learn, TensorFlow",2,0,0,0,0,0,1,0,1
+1789,AI Researcher,Mann PLC,"Schwartzport, LB","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+1790,AI Researcher,"Ellis, Wilson and Ochoa","South Deborahfurt, PT","BigQuery, LangChain",2,0,1,0,0,1,0,0,0
+1791,Data Analyst,Quinn Ltd,"Kellychester, PW",MLflow,1,1,0,0,0,0,0,0,0
+1792,Data Analyst,Ward PLC,"Tiffanyville, MD","LangChain, KDB+, Scikit-learn",3,0,1,0,1,0,0,0,1
+1793,Data Scientist,Grant Group,"Lake Ann, TO",Scikit-learn,1,0,0,0,0,0,0,0,1
+1794,AI Researcher,Gomez and Sons,"Hollyside, NP","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+1795,AI Product Manager,Wilson-Myers,"Lake Jeffreymouth, AD","Scikit-learn, FastAPI",2,0,0,1,0,0,0,0,1
+1796,Data Scientist,Morton-Simpson,"Davidmouth, JP","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+1797,Data Analyst,Nguyen LLC,"South Nathan, NI","PyTorch, FastAPI",2,0,0,1,0,0,0,1,0
+1798,ML Engineer,Combs Inc,"Susanshire, TL","MLflow, Scikit-learn, KDB+",3,1,0,0,1,0,0,0,1
+1799,Data Scientist,Ferguson and Sons,"West Coryburgh, SL","BigQuery, KDB+, MLflow",3,1,0,0,1,1,0,0,0
+1800,AI Researcher,Cook Group,"East Rodney, DM","PyTorch, Scikit-learn",2,0,0,0,0,0,0,1,1
+1801,ML Engineer,"White, Weber and Terry","Jessicabury, DE","TensorFlow, MLflow",2,1,0,0,0,0,1,0,0
+1802,Computer Vision Engineer,Le-Brown,"Jonesmouth, GT","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+1803,ML Engineer,"Boyd, Cochran and Golden","South Kaitlyn, MD","BigQuery, MLflow, Scikit-learn",3,1,0,0,0,1,0,0,1
+1804,ML Engineer,"Warren, Kirby and Thomas","Dennisstad, GW",LangChain,1,0,1,0,0,0,0,0,0
+1805,AI Product Manager,Berry LLC,"Mahoneyshire, CO",PyTorch,1,0,0,0,0,0,0,1,0
+1806,Data Scientist,"Walker, Brown and Monroe","Jadefort, BY","FastAPI, KDB+, MLflow",3,1,0,1,1,0,0,0,0
+1807,Quant Researcher,Armstrong-Clark,"Reidfurt, MM",BigQuery,1,0,0,0,0,1,0,0,0
+1808,AI Product Manager,Hall-Gill,"Scottberg, KG",PyTorch,1,0,0,0,0,0,0,1,0
+1809,Data Scientist,"Riley, Rasmussen and Baker","Atkinsstad, AF",MLflow,1,1,0,0,0,0,0,0,0
+1810,Computer Vision Engineer,Martinez and Sons,"Kennethshire, HR",MLflow,1,1,0,0,0,0,0,0,0
+1811,Data Analyst,Hernandez Inc,"Rileyside, IS",LangChain,1,0,1,0,0,0,0,0,0
+1812,Data Analyst,Moore-Ramirez,"Kimberlyfort, DO","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+1813,NLP Engineer,Duran-Rangel,"North Lindsey, CA",TensorFlow,1,0,0,0,0,0,1,0,0
+1814,NLP Engineer,"Black, Rodriguez and Hicks","Jerrychester, GE",MLflow,1,1,0,0,0,0,0,0,0
+1815,NLP Engineer,Wilson PLC,"Allenfurt, RO","KDB+, LangChain, MLflow",3,1,1,0,1,0,0,0,0
+1816,Computer Vision Engineer,"Hines, Castillo and Patterson","Andrewhaven, HR","FastAPI, KDB+",2,0,0,1,1,0,0,0,0
+1817,Data Scientist,Mitchell-Rivera,"Collinsside, UZ","MLflow, KDB+, PyTorch",3,1,0,0,1,0,0,1,0
+1818,ML Engineer,"Williams, Mcdonald and Martin","Lake Melindabury, ER","PyTorch, LangChain, TensorFlow",3,0,1,0,0,0,1,1,0
+1819,ML Engineer,Lee PLC,"Cliffordview, IS","FastAPI, KDB+, Scikit-learn",3,0,0,1,1,0,0,0,1
+1820,Data Analyst,Wright Inc,"Port Carrie, ME","LangChain, BigQuery, TensorFlow",3,0,1,0,0,1,1,0,0
+1821,ML Engineer,Townsend Inc,"Cooperstad, CO","FastAPI, LangChain, MLflow",3,1,1,1,0,0,0,0,0
+1822,AI Researcher,Valentine-Hodge,"Jasonborough, CG","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+1823,Data Analyst,Scott-Jackson,"East Tyler, KP","KDB+, TensorFlow, LangChain",3,0,1,0,1,0,1,0,0
+1824,Data Analyst,Austin Group,"Caseychester, SA",LangChain,1,0,1,0,0,0,0,0,0
+1825,Data Scientist,Garza-Gilbert,"Robertbury, HR",KDB+,1,0,0,0,1,0,0,0,0
+1826,AI Product Manager,Nichols-Cook,"Stevenshire, UG","MLflow, LangChain, KDB+",3,1,1,0,1,0,0,0,0
+1827,NLP Engineer,Thompson-Powell,"Katherinebury, PH",MLflow,1,1,0,0,0,0,0,0,0
+1828,AI Product Manager,Sawyer-Cooper,"Lake Daisyfurt, MC","Scikit-learn, FastAPI",2,0,0,1,0,0,0,0,1
+1829,AI Product Manager,"Ray, Torres and Cortez","Silvastad, LI",PyTorch,1,0,0,0,0,0,0,1,0
+1830,Quant Researcher,Stokes-Cameron,"Perrymouth, BG",KDB+,1,0,0,0,1,0,0,0,0
+1831,Data Analyst,Hudson-Robertson,"Port Kristin, LB",KDB+,1,0,0,0,1,0,0,0,0
+1832,NLP Engineer,Carter-Jimenez,"South Jenniferton, KG","Scikit-learn, KDB+, FastAPI",3,0,0,1,1,0,0,0,1
+1833,Computer Vision Engineer,Freeman-Reyes,"Janetmouth, VE",FastAPI,1,0,0,1,0,0,0,0,0
+1834,Data Analyst,"Hicks, Webb and Krueger","Jessicaborough, CA","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+1835,NLP Engineer,"Cannon, Martin and Watson","South Debra, AD","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+1836,ML Engineer,Blevins PLC,"Jeremyland, AU",KDB+,1,0,0,0,1,0,0,0,0
+1837,Data Analyst,"Butler, Brown and Thomas","Evelynhaven, CN","Scikit-learn, BigQuery, PyTorch",3,0,0,0,0,1,0,1,1
+1838,Quant Researcher,Ellis Inc,"Susantown, GB",TensorFlow,1,0,0,0,0,0,1,0,0
+1839,Quant Researcher,Lindsey Ltd,"New Shaun, BJ","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+1840,Quant Researcher,Wu Ltd,"East Christinachester, BO","KDB+, LangChain, TensorFlow",3,0,1,0,1,0,1,0,0
+1841,Data Scientist,Ruiz-Payne,"East Christopherberg, BJ",MLflow,1,1,0,0,0,0,0,0,0
+1842,Data Scientist,Stewart Group,"Jefferymouth, KW","LangChain, Scikit-learn",2,0,1,0,0,0,0,0,1
+1843,AI Product Manager,"Adams, Finley and Perez","Downsland, TW","LangChain, FastAPI, Scikit-learn",3,0,1,1,0,0,0,0,1
+1844,AI Product Manager,Ponce-Brewer,"Daymouth, MK",BigQuery,1,0,0,0,0,1,0,0,0
+1845,NLP Engineer,Strickland-Gray,"Taylorport, VU","KDB+, LangChain",2,0,1,0,1,0,0,0,0
+1846,Data Scientist,Mckee PLC,"Danielletown, MH","BigQuery, TensorFlow, LangChain",3,0,1,0,0,1,1,0,0
+1847,Data Scientist,Keith Inc,"Lake Robert, TN","BigQuery, TensorFlow",2,0,0,0,0,1,1,0,0
+1848,NLP Engineer,Willis-Olson,"North Aaronberg, ME","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+1849,ML Engineer,"Roberts, Gill and Williams","Lake Scottbury, LB","LangChain, TensorFlow, PyTorch",3,0,1,0,0,0,1,1,0
+1850,Data Analyst,Johnson LLC,"New Richard, HT","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+1851,Computer Vision Engineer,"Houston, Ponce and Pennington","Lake Jamesside, DM","LangChain, BigQuery, MLflow",3,1,1,0,0,1,0,0,0
+1852,AI Researcher,"Smith, Willis and Johnson","Cathyport, PH","TensorFlow, KDB+",2,0,0,0,1,0,1,0,0
+1853,NLP Engineer,Greene and Sons,"Pearsonberg, KG",TensorFlow,1,0,0,0,0,0,1,0,0
+1854,Computer Vision Engineer,Lloyd PLC,"New Ericafurt, LU","LangChain, Scikit-learn, BigQuery",3,0,1,0,0,1,0,0,1
+1855,ML Engineer,Abbott-Gray,"Howardview, MA",BigQuery,1,0,0,0,0,1,0,0,0
+1856,Computer Vision Engineer,Ramos and Sons,"Rileyborough, HU","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+1857,Data Analyst,Hicks Inc,"North Haileyville, UA",KDB+,1,0,0,0,1,0,0,0,0
+1858,Computer Vision Engineer,Adams-Bright,"Laneberg, JM",LangChain,1,0,1,0,0,0,0,0,0
+1859,Data Analyst,Martin-Gregory,"Dawnmouth, MM","Scikit-learn, MLflow",2,1,0,0,0,0,0,0,1
+1860,Quant Researcher,Wood LLC,"North Brooke, US","MLflow, FastAPI",2,1,0,1,0,0,0,0,0
+1861,AI Product Manager,Schultz-Sanders,"South Elizabeth, BI","FastAPI, BigQuery, PyTorch",3,0,0,1,0,1,0,1,0
+1862,Quant Researcher,Ray LLC,"West Charles, ZM","PyTorch, BigQuery",2,0,0,0,0,1,0,1,0
+1863,AI Researcher,"Lee, Rodgers and Hunter","West Whitney, BH","KDB+, MLflow",2,1,0,0,1,0,0,0,0
+1864,AI Researcher,Jones and Sons,"New Matthew, UG","TensorFlow, LangChain",2,0,1,0,0,0,1,0,0
+1865,NLP Engineer,Morse-Hodges,"Beckerstad, IN","MLflow, TensorFlow, PyTorch",3,1,0,0,0,0,1,1,0
+1866,Quant Researcher,"West, Williams and Stewart","Macdonaldfort, JM","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+1867,Quant Researcher,Lopez LLC,"South Ralphfort, MH","Scikit-learn, BigQuery, PyTorch",3,0,0,0,0,1,0,1,1
+1868,Data Analyst,Nunez Inc,"New Brianborough, AF",MLflow,1,1,0,0,0,0,0,0,0
+1869,Computer Vision Engineer,"Lewis, Pollard and Rogers","Pearsonmouth, RW","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+1870,ML Engineer,"Moody, Oconnor and Brewer","Thompsonborough, AF","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1871,AI Product Manager,Rodriguez-Moore,"Parkerchester, TN","TensorFlow, PyTorch",2,0,0,0,0,0,1,1,0
+1872,Data Analyst,Baker-Williams,"Bakerland, NG","LangChain, BigQuery",2,0,1,0,0,1,0,0,0
+1873,Data Scientist,"Summers, Carter and James","Swansonburgh, MV",KDB+,1,0,0,0,1,0,0,0,0
+1874,Computer Vision Engineer,"Hughes, Neal and Davis","Davidbury, CM","Scikit-learn, KDB+, FastAPI",3,0,0,1,1,0,0,0,1
+1875,AI Product Manager,Robinson Inc,"Wuland, BO",TensorFlow,1,0,0,0,0,0,1,0,0
+1876,Quant Researcher,Marsh Inc,"Lake Patrickville, SK","MLflow, BigQuery",2,1,0,0,0,1,0,0,0
+1877,Data Scientist,Kim-Thornton,"South Peggyton, PW","LangChain, MLflow",2,1,1,0,0,0,0,0,0
+1878,Quant Researcher,"Miller, Wilson and Barker","Helenport, OM",Scikit-learn,1,0,0,0,0,0,0,0,1
+1879,Computer Vision Engineer,"Stewart, Rodriguez and Jenkins","Port Mitchell, US","TensorFlow, Scikit-learn, MLflow",3,1,0,0,0,0,1,0,1
+1880,Data Scientist,Kelly-Cline,"Port Caroline, NI","FastAPI, MLflow",2,1,0,1,0,0,0,0,0
+1881,Data Analyst,Beltran Inc,"Lake Joshua, CU","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1882,ML Engineer,"Kennedy, Lopez and Bell","New Michael, TW",TensorFlow,1,0,0,0,0,0,1,0,0
+1883,ML Engineer,Watson-Mitchell,"Mariaton, SZ",LangChain,1,0,1,0,0,0,0,0,0
+1884,NLP Engineer,"Wolfe, Stephenson and Sanchez","Wallacetown, MG","FastAPI, BigQuery, PyTorch",3,0,0,1,0,1,0,1,0
+1885,Data Analyst,Gaines-Nelson,"West Ryanport, MZ","MLflow, PyTorch, TensorFlow",3,1,0,0,0,0,1,1,0
+1886,AI Researcher,"Calhoun, Thomas and Brandt","Shepherdport, CY","TensorFlow, FastAPI",2,0,0,1,0,0,1,0,0
+1887,AI Researcher,"Hernandez, Griffith and Simmons","West Mark, ET",BigQuery,1,0,0,0,0,1,0,0,0
+1888,AI Product Manager,Davies-Payne,"Kristyton, GW","FastAPI, MLflow, TensorFlow",3,1,0,1,0,0,1,0,0
+1889,Data Analyst,Hicks Group,"Hollyberg, BB","BigQuery, TensorFlow, PyTorch",3,0,0,0,0,1,1,1,0
+1890,Computer Vision Engineer,Myers Ltd,"Amandahaven, MX","LangChain, PyTorch, MLflow",3,1,1,0,0,0,0,1,0
+1891,NLP Engineer,Ramirez and Sons,"Brendashire, LR",PyTorch,1,0,0,0,0,0,0,1,0
+1892,ML Engineer,Adams-Lee,"New Marthaview, PH","BigQuery, Scikit-learn",2,0,0,0,0,1,0,0,1
+1893,Data Analyst,Rosario PLC,"East John, TV",LangChain,1,0,1,0,0,0,0,0,0
+1894,Quant Researcher,Mack and Sons,"Rhodestown, LI",KDB+,1,0,0,0,1,0,0,0,0
+1895,Data Scientist,"Ramos, Hines and Faulkner","Martinbury, PW","PyTorch, TensorFlow",2,0,0,0,0,0,1,1,0
+1896,AI Researcher,Smith-Hall,"Debbieburgh, FI","PyTorch, FastAPI",2,0,0,1,0,0,0,1,0
+1897,ML Engineer,"Santos, Lowe and Lindsey","Humphreyfort, PT",PyTorch,1,0,0,0,0,0,0,1,0
+1898,Quant Researcher,Wilkins-King,"Lake Mark, CH",PyTorch,1,0,0,0,0,0,0,1,0
+1899,Computer Vision Engineer,Parker-Harris,"Morrisburgh, MH","MLflow, KDB+, PyTorch",3,1,0,0,1,0,0,1,0
+1900,ML Engineer,Mitchell-Ayers,"Andersonberg, GA","PyTorch, MLflow",2,1,0,0,0,0,0,1,0
+1901,AI Product Manager,"James, Scott and Armstrong","Kellyton, TG","MLflow, KDB+, PyTorch",3,1,0,0,1,0,0,1,0
+1902,NLP Engineer,Mcdonald-Hines,"West Christian, RS","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+1903,Data Scientist,Alvarez and Sons,"Rebeccamouth, CZ","PyTorch, TensorFlow, Scikit-learn",3,0,0,0,0,0,1,1,1
+1904,Data Analyst,Shaw-May,"Saraberg, SO","FastAPI, MLflow, PyTorch",3,1,0,1,0,0,0,1,0
+1905,Data Analyst,"Deleon, Johnson and Shah","Markview, TZ","KDB+, PyTorch, TensorFlow",3,0,0,0,1,0,1,1,0
+1906,ML Engineer,Stevens LLC,"Palmershire, ES",LangChain,1,0,1,0,0,0,0,0,0
+1907,Data Analyst,"Moore, Edwards and Greene","North Angelaside, RU","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+1908,AI Researcher,Lee Group,"Buchananfort, PS",MLflow,1,1,0,0,0,0,0,0,0
+1909,AI Researcher,"Smith, Rodriguez and Foster","East Laura, YE",FastAPI,1,0,0,1,0,0,0,0,0
+1910,Data Analyst,Hale Group,"Jasonbury, ZM",FastAPI,1,0,0,1,0,0,0,0,0
+1911,Quant Researcher,James PLC,"Port Jacqueline, NG","Scikit-learn, BigQuery",2,0,0,0,0,1,0,0,1
+1912,NLP Engineer,Wagner-Doyle,"Stephaniefurt, SL","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+1913,AI Product Manager,Martinez PLC,"Mollyside, JO","PyTorch, BigQuery, Scikit-learn",3,0,0,0,0,1,0,1,1
+1914,AI Product Manager,"Allen, Ward and Smith","Morganshire, HT","MLflow, BigQuery, FastAPI",3,1,0,1,0,1,0,0,0
+1915,Computer Vision Engineer,Nelson PLC,"Bennettshire, IR","KDB+, PyTorch, Scikit-learn",3,0,0,0,1,0,0,1,1
+1916,AI Researcher,Roach-Flores,"Brownfurt, LA",LangChain,1,0,1,0,0,0,0,0,0
+1917,Data Analyst,Mullins Group,"Goodwinshire, ME","MLflow, PyTorch, TensorFlow",3,1,0,0,0,0,1,1,0
+1918,Data Analyst,Smith-Garcia,"Craigport, CV",BigQuery,1,0,0,0,0,1,0,0,0
+1919,Data Analyst,White-Frye,"Nicoletown, NZ","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+1920,NLP Engineer,"Lewis, Mccormick and Rowland","Lake Andrea, DM","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+1921,AI Researcher,"Mccann, Atkinson and Durham","Atkinschester, CO","PyTorch, LangChain",2,0,1,0,0,0,0,1,0
+1922,NLP Engineer,Campbell PLC,"Lucaschester, FJ","KDB+, FastAPI",2,0,0,1,1,0,0,0,0
+1923,AI Researcher,Edwards-Pacheco,"Stevenside, CD","LangChain, TensorFlow",2,0,1,0,0,0,1,0,0
+1924,ML Engineer,Arroyo Ltd,"North Jennifer, HR","FastAPI, BigQuery",2,0,0,1,0,1,0,0,0
+1925,ML Engineer,Banks-Wright,"South Devintown, MT","BigQuery, KDB+",2,0,0,0,1,1,0,0,0
+1926,AI Researcher,Hayes PLC,"Port Kaylatown, SO",MLflow,1,1,0,0,0,0,0,0,0
+1927,NLP Engineer,"Moore, Mitchell and Tapia","North Kimberly, HN",LangChain,1,0,1,0,0,0,0,0,0
+1928,ML Engineer,Martin PLC,"Port Stevenburgh, KN","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+1929,ML Engineer,"Garcia, Chambers and Sutton","South Paulstad, BY","MLflow, KDB+",2,1,0,0,1,0,0,0,0
+1930,NLP Engineer,Wyatt LLC,"Jaredport, NA","KDB+, FastAPI, BigQuery",3,0,0,1,1,1,0,0,0
+1931,Data Analyst,"Weeks, Diaz and Fisher","Hernandeztown, PS","LangChain, KDB+, Scikit-learn",3,0,1,0,1,0,0,0,1
+1932,AI Researcher,Murphy Inc,"East Samuelburgh, SL","MLflow, Scikit-learn",2,1,0,0,0,0,0,0,1
+1933,Data Scientist,Mahoney LLC,"North Paigemouth, TO","KDB+, Scikit-learn, FastAPI",3,0,0,1,1,0,0,0,1
+1934,AI Researcher,Larsen-Armstrong,"North Albert, NP","PyTorch, KDB+",2,0,0,0,1,0,0,1,0
+1935,NLP Engineer,Chavez and Sons,"Natashaberg, BA","MLflow, KDB+, Scikit-learn",3,1,0,0,1,0,0,0,1
+1936,NLP Engineer,Davis Ltd,"North Maryborough, CL",PyTorch,1,0,0,0,0,0,0,1,0
+1937,Computer Vision Engineer,Baldwin-Norman,"North Oscar, DJ",Scikit-learn,1,0,0,0,0,0,0,0,1
+1938,Data Scientist,"Lyons, Gardner and Moss","Tarahaven, IN","FastAPI, MLflow, Scikit-learn",3,1,0,1,0,0,0,0,1
+1939,Data Scientist,Smith-Silva,"West Claudia, RO",LangChain,1,0,1,0,0,0,0,0,0
+1940,AI Product Manager,Craig-Snyder,"Timothyfort, DZ",PyTorch,1,0,0,0,0,0,0,1,0
+1941,NLP Engineer,Shah PLC,"Roberttown, AG",PyTorch,1,0,0,0,0,0,0,1,0
+1942,NLP Engineer,"Robinson, Mcdowell and Robinson","South Elizabeth, GE","PyTorch, TensorFlow, MLflow",3,1,0,0,0,0,1,1,0
+1943,Data Analyst,"Williams, Brown and Chen","Cassandraport, MC","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+1944,NLP Engineer,"Lopez, Davis and Chapman","Lake Alisonhaven, NI","MLflow, Scikit-learn, FastAPI",3,1,0,1,0,0,0,0,1
+1945,Data Scientist,"Walker, Williamson and Brown","Staciechester, AO",TensorFlow,1,0,0,0,0,0,1,0,0
+1946,Quant Researcher,"Fry, Farrell and Hernandez","Taylorview, PL",FastAPI,1,0,0,1,0,0,0,0,0
+1947,Quant Researcher,"Gomez, King and Thompson","North Sheryl, TD",KDB+,1,0,0,0,1,0,0,0,0
+1948,Quant Researcher,Kim-Woodward,"New Andrea, NI",TensorFlow,1,0,0,0,0,0,1,0,0
+1949,Data Scientist,"Williams, Moore and Rogers","New Kimberlyhaven, SN",LangChain,1,0,1,0,0,0,0,0,0
+1950,Data Analyst,"Roberson, Lucero and Smith","New Roberto, JP",Scikit-learn,1,0,0,0,0,0,0,0,1
+1951,Quant Researcher,"Hoffman, Gaines and Medina","Harperfort, MT","TensorFlow, BigQuery",2,0,0,0,0,1,1,0,0
+1952,Data Analyst,Robinson Ltd,"Stevenborough, GR","KDB+, PyTorch, Scikit-learn",3,0,0,0,1,0,0,1,1
+1953,Data Analyst,Stark-Collins,"Port Meganshire, MH","BigQuery, PyTorch",2,0,0,0,0,1,0,1,0
+1954,NLP Engineer,Allen-Sandoval,"Mallorymouth, MY","FastAPI, Scikit-learn, TensorFlow",3,0,0,1,0,0,1,0,1
+1955,ML Engineer,Reid-Armstrong,"Williamstad, VE","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+1956,Quant Researcher,Jones-Lopez,"Emilyberg, CH","MLflow, KDB+, LangChain",3,1,1,0,1,0,0,0,0
+1957,NLP Engineer,Bennett Ltd,"East Casey, EE","FastAPI, TensorFlow, LangChain",3,0,1,1,0,0,1,0,0
+1958,Data Scientist,Moore-Martin,"Gregorytown, GA","FastAPI, BigQuery, TensorFlow",3,0,0,1,0,1,1,0,0
+1959,AI Researcher,Diaz-Reed,"South Benjamin, FR",LangChain,1,0,1,0,0,0,0,0,0
+1960,Computer Vision Engineer,"Clark, Olsen and Williams","Lake Janicehaven, BH","Scikit-learn, TensorFlow, FastAPI",3,0,0,1,0,0,1,0,1
+1961,Data Scientist,Daniels-Moore,"West Justinfort, AO","KDB+, FastAPI, TensorFlow",3,0,0,1,1,0,1,0,0
+1962,Data Scientist,"Ramos, Long and Smith","West Danielle, LU",BigQuery,1,0,0,0,0,1,0,0,0
+1963,Quant Researcher,Miller-Vaughan,"New Mistyland, SL",BigQuery,1,0,0,0,0,1,0,0,0
+1964,Quant Researcher,"Hines, Stevens and Johnson","Gutierrezmouth, UG","TensorFlow, FastAPI, BigQuery",3,0,0,1,0,1,1,0,0
+1965,Data Scientist,Williams-Mcdonald,"West Natalieville, GD","Scikit-learn, FastAPI, PyTorch",3,0,0,1,0,0,0,1,1
+1966,Quant Researcher,Chen Ltd,"East Markville, GM","KDB+, BigQuery, LangChain",3,0,1,0,1,1,0,0,0
+1967,AI Researcher,Joseph Ltd,"South Christopher, NE",LangChain,1,0,1,0,0,0,0,0,0
+1968,ML Engineer,Williams LLC,"Wrightburgh, ML","MLflow, TensorFlow",2,1,0,0,0,0,1,0,0
+1969,AI Researcher,"Jones, Reyes and Watkins","Lindashire, SC","KDB+, Scikit-learn",2,0,0,0,1,0,0,0,1
+1970,Data Scientist,"Rodriguez, Mccoy and Rojas","Carterport, UG","MLflow, LangChain, Scikit-learn",3,1,1,0,0,0,0,0,1
+1971,ML Engineer,"Kim, Mitchell and York","Lovemouth, VN",FastAPI,1,0,0,1,0,0,0,0,0
+1972,Data Analyst,Jackson-Ortiz,"East Randy, BA","BigQuery, FastAPI",2,0,0,1,0,1,0,0,0
+1973,AI Researcher,"Miller, Russell and Reed","East Sylviaborough, ML","BigQuery, FastAPI, LangChain",3,0,1,1,0,1,0,0,0
+1974,ML Engineer,Mclaughlin-Woodard,"Lake Alexanderfurt, QA","KDB+, MLflow, PyTorch",3,1,0,0,1,0,0,1,0
+1975,Quant Researcher,"Smith, Simon and Bennett","West Loganburgh, DJ","FastAPI, LangChain",2,0,1,1,0,0,0,0,0
+1976,Computer Vision Engineer,Horton and Sons,"Nicholasmouth, BD","LangChain, PyTorch",2,0,1,0,0,0,0,1,0
+1977,Data Analyst,Allen-Patterson,"East Shelley, DE","FastAPI, BigQuery, Scikit-learn",3,0,0,1,0,1,0,0,1
+1978,Data Analyst,Tate-Burnett,"Harrischester, ER",TensorFlow,1,0,0,0,0,0,1,0,0
+1979,AI Product Manager,"Johnson, Hughes and Smith","New Michaelmouth, NP","TensorFlow, Scikit-learn",2,0,0,0,0,0,1,0,1
+1980,AI Product Manager,Cook-Fowler,"Kevinborough, SE","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+1981,AI Product Manager,Fleming LLC,"East Michelleborough, ZA","Scikit-learn, FastAPI, LangChain",3,0,1,1,0,0,0,0,1
+1982,NLP Engineer,Schmidt Inc,"South Craigchester, KG","Scikit-learn, LangChain",2,0,1,0,0,0,0,0,1
+1983,ML Engineer,Ramirez-Love,"Tylerland, GA",FastAPI,1,0,0,1,0,0,0,0,0
+1984,AI Researcher,Ball-Kelly,"North Melissashire, LA","BigQuery, MLflow, FastAPI",3,1,0,1,0,1,0,0,0
+1985,Data Analyst,Grimes-Moore,"Melissamouth, VC","KDB+, FastAPI, PyTorch",3,0,0,1,1,0,0,1,0
+1986,Data Analyst,"Jackson, Anthony and Woods","Danielview, SA",MLflow,1,1,0,0,0,0,0,0,0
+1987,Data Scientist,"Douglas, Thomas and Smith","Gailmouth, PK","BigQuery, MLflow",2,1,0,0,0,1,0,0,0
+1988,ML Engineer,"Solis, Peters and Walsh","Jennifermouth, HR","BigQuery, TensorFlow, LangChain",3,0,1,0,0,1,1,0,0
+1989,AI Product Manager,Webb-Walls,"Port Camerontown, BB","KDB+, TensorFlow",2,0,0,0,1,0,1,0,0
+1990,Data Scientist,"Hall, Barber and Young","Williamshaven, NI","KDB+, BigQuery",2,0,0,0,1,1,0,0,0
+1991,Computer Vision Engineer,Sanchez Group,"Brownton, LB","FastAPI, PyTorch",2,0,0,1,0,0,0,1,0
+1992,Quant Researcher,Wood-Salas,"East Brianborough, IL","MLflow, FastAPI",2,1,0,1,0,0,0,0,0
+1993,Computer Vision Engineer,Young and Sons,"Lesliefort, ZW","MLflow, PyTorch",2,1,0,0,0,0,0,1,0
+1994,NLP Engineer,Moran-Brown,"Brownburgh, WS",LangChain,1,0,1,0,0,0,0,0,0
+1995,AI Researcher,Williams-Curtis,"Melissaside, ZA","MLflow, LangChain",2,1,1,0,0,0,0,0,0
+1996,NLP Engineer,"Mueller, Ellis and Clark","Washingtonmouth, SD",MLflow,1,1,0,0,0,0,0,0,0
+1997,AI Product Manager,Roberts-Yu,"Joshuafort, ZA","KDB+, LangChain, MLflow",3,1,1,0,1,0,0,0,0
+1998,Data Analyst,"Brooks, Williams and Randolph","West Brittanyburgh, CG",PyTorch,1,0,0,0,0,0,0,1,0
+1999,Quant Researcher,Castaneda-Smith,"Anthonyshire, OM","MLflow, TensorFlow, FastAPI",3,1,0,1,0,0,1,0,0
+2000,Quant Researcher,Estes Group,"Benjaminview, NE",MLflow,1,1,0,0,0,0,0,0,0
