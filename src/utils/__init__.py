@@ -13,6 +13,12 @@ from .enrichers import (
     DateEnricher,
     AdditionalFeaturesEnricher
 )
+from .notebook_helpers import (
+    NotebookDataLoader,
+    CheckpointManager,
+    get_data_loader,
+    get_checkpoint_manager
+)
 from . import constant
 from . import helpers
 from . import enums
@@ -35,6 +41,10 @@ __all__ = [
     'LocationEnricher',
     'DateEnricher',
     'AdditionalFeaturesEnricher',
+    'NotebookDataLoader',
+    'CheckpointManager',
+    'get_data_loader',
+    'get_checkpoint_manager',
     'constant',
     'helpers',
     'enums'

@@ -1,0 +1,13 @@
+# Requirements for Notebook Pipeline Orchestration
+
+# Core dependencies (minimum)
+jupyter>=1.0.0
+nbconvert>=7.0.0
+ipykernel>=6.0.0
+
+# Recommended for full features
+papermill>=2.4.0
+
+# Already in project requirements
+pandas>=2.0.0
+numpy>=1.24.0

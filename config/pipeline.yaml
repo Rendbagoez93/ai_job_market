@@ -1,0 +1,74 @@
+# Notebook Pipeline Configuration
+#
+# Define the execution order and parameters for notebook orchestration.
+# This file is used by run_pipeline.py to execute notebooks in sequence.
+
+# Pipeline stages
+# Each stage defines a notebook to execute with optional parameters
+
+pipeline:
+  name: "AI Job Market Data Pipeline"
+  description: "Complete data pipeline from cleaning to analysis"
+  
+  # Global settings
+  settings:
+    stop_on_error: true
+    save_executed_notebooks: true
+    default_timeout: 3600
+    kernel_name: "python3"
+  
+  # Notebook execution stages
+  stages:
+    - name: "Data Cleaning & Enrichment"
+      notebook: "cleaning.ipynb"
+      timeout: 3600  # 60 minutes
+      required: true
+      description: |
+        - Load raw data
+        - Clean duplicates and missing values
+        - Enrich with salary, skills, tools, location, experience features
+        - Save cleaned and enriched datasets
+      outputs:
+        - data/cleaned/ai_job_market_cleaned.csv
+        - data/enriched/*.csv
+      
+    - name: "Exploratory Data Analysis"
+      notebook: "exploration.ipynb"
+      timeout: 1800  # 30 minutes
+      required: false
+      description: |
+        - Load cleaned data
+        - Analyze distributions and patterns
+        - Create visualizations
+        - Identify insights
+      depends_on:
+        - cleaning.ipynb
+      
+    - name: "Salary Intelligence Analysis"
+      notebook: "salary_intelligence_analysis.ipynb"
+      timeout: 1800  # 30 minutes
+      required: true
+      description: |
+        - Load enriched datasets
+        - Perform salary analysis
+        - Calculate skill premiums and ROI
+        - Generate reports and visualizations
+      depends_on:
+        - cleaning.ipynb
+      outputs:
+        - output/analysis/*.csv
+        - output/visuals/*.png
+
+# Output configuration
+output:
+  executed_notebooks_dir: "output/executed_notebooks"
+  logs_dir: "output/logs"
+  reports_dir: "output/reports"
+
+# Notification settings (future enhancement)
+notifications:
+  enabled: false
+  on_success: false
+  on_failure: true
+  email: ""
+  slack_webhook: ""
