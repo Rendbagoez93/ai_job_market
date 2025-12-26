@@ -4,14 +4,20 @@ This directory contains comprehensive visualization tools for the AI Job Market 
 
 ## Files
 
-### Core Visualization Module
-- **`salary_visualizer.py`**: Main visualization module containing the `SalaryVisualizer` class
-  - Creates 8 different types of visualizations
+### Core Visualization Modules
+- **`salary_visualizer.py`**: Salary intelligence visualization module
+  - Creates 8 different types of salary-related visualizations
   - Modular, clean, and robust design
   - Automatic figure saving with customizable styling
 
+- **`skills_demand_visualization.py`**: Skills demand & talent gap visualization module
+  - Creates 8 different types of skills analysis visualizations
+  - Correlation heatmaps, quadrant analysis, and talent gap insights
+  - Integrated with skills demand analyzer
+
 ### Runner Scripts
-- **`run_visualizations.py`**: Convenience script to generate all visualizations at once
+- **`run_visualizations.py`**: Generate all salary visualizations
+- **`run_skills_demand_visualization.py`**: Generate all skills demand visualizations
 - **`dashboard_utils.py`**: Reserved for dashboard utilities (currently empty)
 - **`plot_matplotlib.py`**: Reserved for matplotlib-specific plots (currently empty)
 - **`plot_seaborn.py`**: Reserved for seaborn-specific plots (currently empty)
@@ -238,11 +244,56 @@ For very large datasets, consider:
 - Lowering `dpi` setting
 - Generating visualizations one at a time instead of all at once
 
+## Skills Demand Visualizations
+
+### Quick Start
+
+```bash
+# Run from project root
+python src/visuals/run_skills_demand_visualization.py
+```
+
+### Available Skills Visualizations
+
+1. **Skill Demand Ranking** - Top skills by market demand with demand levels
+2. **Skill Correlation Heatmap** - Correlation matrix showing skill relationships
+3. **Skill Co-occurrence Network** - Frequently combined skill pairs
+4. **High-Value Skills** - Premium vs demand matrix with value tiers
+5. **Talent Gap Analysis** - 4 quadrant view (Critical, Emerging, Oversupplied, Undervalued)
+6. **Skill Recommendations** - Prioritized learning paths with ROI
+7. **Skills by Job Title** - Role-specific skill requirements
+8. **Demand vs Premium Quadrant** - Strategic positioning of all skills
+
+### Usage
+
+```python
+from src.visuals.skills_demand_visualization import create_skills_demand_visualizations
+from src.analysis.skills_demand_analyzer import run_skills_demand_analysis
+
+# Run analysis
+report = run_skills_demand_analysis()
+
+# Generate all visualizations
+visualizer = create_skills_demand_visualizations(
+    report_data=report,
+    output_dir='output/visuals',
+    top_n=15
+)
+
+# Or create individual visualizations
+from src.visuals.skills_demand_visualization import SkillsDemandVisualizer
+
+viz = SkillsDemandVisualizer(report)
+viz.plot_skill_demand_ranking(top_n=20)
+viz.plot_talent_gap_analysis()
+viz.plot_demand_vs_premium_quadrant()
+```
+
 ## Future Enhancements
 
 Potential additions to consider:
-- Interactive dashboards using Plotly
+- Interactive dashboards using Plotly or Streamlit
 - Animated visualizations for trends over time
-- Heatmaps for skill correlation analysis
 - Network graphs for skill relationships
 - Export to multiple formats (SVG, PDF)
+- Combined salary + skills dashboard
